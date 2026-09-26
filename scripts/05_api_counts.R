@@ -32,7 +32,7 @@ for (m in months) for (cty in countries) for (ty in names(types)) {
   q  <- sprintf("publication-date>=%s AND publication-date<=%s AND %s%s", format(d0, "%Y%m%d"), format(d1, "%Y%m%d"),
                 types[[ty]], if (cty == "ALL") "" else paste0(" AND buyer-country=", cty))
   fwrite(data.table(month = m, country = cty, type = ty, n = ted_count(q), asof = Sys.Date()), out, append = file.exists(out))
-  Sys.sleep(0.2)
+  Sys.sleep(0.5)
   if ((i <- i + 1) %% 500 == 0) { system2("mc", c("--quiet", "cp", out, "s3/dorviya/diffusion/ted-ods/api/")); message(i, " requests, at ", m) }
 }
 system2("mc", c("--quiet", "cp", out, "s3/dorviya/diffusion/ted-ods/api/"))
