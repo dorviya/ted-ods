@@ -1,0 +1,10 @@
+# data lives in the bucket, never in git
+data/
+*.duckdb
+*.duckdb.wal
+# R, Python, editors
+.Rhistory
+.Rproj.user/
+__pycache__/
+.DS_Store
+*status.md
