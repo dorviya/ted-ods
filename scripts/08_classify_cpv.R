@@ -9,6 +9,7 @@ lang        <- if (length(a) >= 5) a[5] else "en"
 seed        <- if (length(a) >= 6) as.integer(a[6]) else 0L
 max_batches <- if (length(a) >= 7) as.integer(a[7]) else Inf
 out <- sprintf("reference/cpv_cofog_%s.csv", run_id)
+cols <- c("cpv","cofog_primary","cofog_secondary","secondary_condition","justification","confidence","run","provider","model","prompt","lang","seed","run_at")
 system_prompt <- paste(readLines(prompt_file), collapse = "\n")
 
 con <- dbConnect(duckdb())
@@ -52,11 +53,13 @@ for (i in seq_len(min(length(batches), max_batches))) {
   b <- batches[[i]]
   user <- paste0("Classify these ", nrow(b), " CPV codes (labels in ", c(en = "English", fr = "French", de = "German")[[lang]], ").\n",
                  paste(sprintf("%s | %s | division: %s | group: %s", b$cpv, b$label, b$division, b$grp), collapse = "\n"))
-  res <- tryCatch(ask(user), error = \(e) { message("batch ", i, " failed: ", conditionMessage(e)); NULL })
+  res <- tryCatch(ask(user), error = \(e) { message("batch ", i, " failed: ", conditionMessage(e)); if (grepl("40[12]", conditionMessage(e))) "STOP" else NULL })
+  if (identical(res, "STOP")) { message("credentials or credits problem, stopping the run"); break }
   if (is.null(res) || !"cpv" %in% names(res)) next
   res[, names(res) := lapply(.SD, as.character)]
   res <- res[cpv %in% b$cpv][, `:=`(run = run_id, provider = provider, model = model, prompt = basename(prompt_file),
                                     lang = lang, seed = seed, run_at = format(Sys.time(), "%Y-%m-%d %H:%M"))]
+  for (k in setdiff(cols, names(res))) res[, (k) := NA_character_]; res <- res[, ..cols]
   fwrite(res, out, append = file.exists(out))
   message(sprintf("%s batch %d/%d  %d codes  %s", run_id, i, length(batches), nrow(res), format(Sys.time(), "%H:%M:%S")))
   Sys.sleep(1)

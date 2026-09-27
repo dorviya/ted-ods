@@ -1519,3 +1519,1123 @@ cpv,cofog_primary,cofog_secondary,secondary_condition,justification,confidence,r
 30237410,buyer-dependent,,,Generic IT hardware and accessories are buyer-dependent.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
 30237450,buyer-dependent,,,Generic IT hardware and accessories are buyer-dependent.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
 30237460,buyer-dependent,,,Generic IT hardware and accessories are buyer-dependent.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+30237461,buyer-dependent,,,Generic IT hardware used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+30237470,buyer-dependent,10.1,,"IT hardware specifically for visually impaired users, supporting disability services.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+30237475,buyer-dependent,,,Generic IT and electronic hardware used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+30237480,buyer-dependent,,,Generic IT hardware used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+30238000,08.2,,,Equipment specifically designed for library automation.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31000000,buyer-dependent,,,Generic electrical equipment and lighting used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31100000,buyer-dependent,04.3,,"Generic electrical machinery, though generators often relate to energy supply.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31110000,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31111000,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31120000,buyer-dependent,04.3,,"Generators are used by various buyers, but also for energy production.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121000,buyer-dependent,04.3,,"Generating sets are used by various buyers, but also for energy production.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121100,buyer-dependent,04.3,,"Generating sets are used by various buyers, but also for energy production.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121110,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121111,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121200,buyer-dependent,04.3,,"Generating sets are used by various buyers, but also for energy production.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121300,04.3,05.3,,Wind energy generators are specifically for renewable energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121310,04.3,05.3,,Windmills are typically used for renewable energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121320,04.3,05.3,,Wind turbines are specifically for renewable energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121330,04.3,05.3,,Wind turbine generators are specifically for renewable energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121331,04.3,,,"Components for turbines, typically used in energy production.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31121340,04.3,05.3,,Wind farms are specifically for renewable energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31122000,buyer-dependent,04.3,,"Generator units are used by various buyers, but also for energy production.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31122100,04.3,05.3,,"Fuel cells are used for energy production, often with environmental benefits.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31124000,04.3,,,Steam-turbine generators are typically used in power plants for energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31124100,04.3,,,Turbine generator sets are typically used in power plants for energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31124200,04.3,,,Control apparatus for turbine generators used in energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31126000,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31127000,buyer-dependent,,,Emergency generators are used by various buyers for backup power.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31128000,04.3,,,Turbogenerators are typically used in power plants for energy production.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31130000,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31131000,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31131100,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31131200,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31132000,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31140000,04.3,04.4,,Cooling towers are typically used in power plants or large industrial facilities.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31141000,buyer-dependent,,,Water coolers are generic equipment used in offices and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31150000,buyer-dependent,06.4,"street lighting, public lighting","Lighting components used generally, or specifically for street lighting.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31151000,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31153000,buyer-dependent,,,Generic electrical components used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31154000,buyer-dependent,,,UPS systems are generic IT/electrical equipment used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:04
+31155000,buyer-dependent,04.3,"solar, photovoltaic",Generic electrical equipment; purpose depends on the purchasing entity's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31156000,buyer-dependent,,,Generic power backup equipment used across various government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31157000,buyer-dependent,,,Generic electrical components; purpose depends on the purchasing entity's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31158000,buyer-dependent,04.5,"electric vehicle, EV",Generic charging equipment; purpose depends on the buyer's specific application.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31158100,buyer-dependent,04.5,"electric vehicle, EV",Generic battery chargers; purpose depends on the buyer's specific application.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31158200,buyer-dependent,,,Generic engine components; purpose depends on the vehicle or machinery's use.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31158300,buyer-dependent,,,Generic engine components; purpose depends on the vehicle or machinery's use.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31160000,buyer-dependent,,,Generic electrical machinery parts; purpose depends on the purchasing entity's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161000,buyer-dependent,,,Generic motor and generator parts; purpose depends on the buyer's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161100,buyer-dependent,04.3,"power plant, power station",Generic generator components; purpose depends on the facility using the generator.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161200,buyer-dependent,,,Generic cooling systems for electrical machinery; purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161300,buyer-dependent,04.3,"power plant, power station",Generic generator rotors; purpose depends on the facility using the generator.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161400,buyer-dependent,,,Generic machinery systems; purpose depends on the purchasing entity's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161500,buyer-dependent,,,Generic machinery systems; purpose depends on the purchasing entity's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161600,buyer-dependent,04.3,"power plant, power station",Generic generator cooling systems; purpose depends on the facility's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161700,buyer-dependent,04.3,"power plant, power station",Generic steam generator parts; purpose depends on the facility's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161800,buyer-dependent,04.3,"power plant, power station",Generic gas generator parts; purpose depends on the facility's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31161900,buyer-dependent,,,Generic electrical control systems; purpose depends on the purchasing entity's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31162000,buyer-dependent,04.3,"substation, grid",Generic transformer parts; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31162100,buyer-dependent,,,Generic electrical components; purpose depends on the purchasing entity's function.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31170000,buyer-dependent,04.3,"substation, grid, power distribution",Generic electrical infrastructure; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31171000,buyer-dependent,04.3,"substation, grid, power distribution",Generic electrical infrastructure; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31172000,buyer-dependent,04.3,"substation, grid, power distribution",Generic electrical infrastructure; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31173000,buyer-dependent,04.3,"substation, grid, power distribution",Generic electrical infrastructure; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31174000,buyer-dependent,04.3,"substation, grid, power distribution",Generic electrical infrastructure; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31200000,buyer-dependent,04.3,"grid, substation, power network",Generic electrical distribution apparatus; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31210000,buyer-dependent,04.3,"grid, substation, power network",Generic electrical switching apparatus; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31211000,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31211100,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31211110,buyer-dependent,,,Generic electrical control panels used across various government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31211200,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31211300,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31211310,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31211330,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31211340,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31212000,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31212100,buyer-dependent,04.3,"grid, power network",Generic electrical components; purpose depends on the facility or network.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31212200,buyer-dependent,,,Generic electrical testing equipment used across various government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31212300,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31212400,buyer-dependent,,,Generic electrical components used in all types of buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:05
+31213000,buyer-dependent,04.3,"substation, power grid, electricity network",Generic electrical distribution equipment; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31213100,buyer-dependent,,,Generic electrical distribution boxes; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31213200,buyer-dependent,04.3,"substation, power grid, electricity network",Generic distribution transformers; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31213300,buyer-dependent,04.3,"substation, power grid, electricity network",Generic cable distribution cabinets; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31213400,buyer-dependent,04.3,"substation, power grid, electricity network",Generic distribution systems; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214000,buyer-dependent,04.3,"substation, power grid, electricity network",Generic switchgear; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214100,buyer-dependent,,,Generic electrical switches; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214110,buyer-dependent,,,Generic isolating switches; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214120,buyer-dependent,,,Generic earthing switches; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214130,buyer-dependent,,,Generic safety switches; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214140,buyer-dependent,,,Generic dimmer switches; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214160,buyer-dependent,,,Generic pressure switches; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214190,buyer-dependent,,,Generic limit switches; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214200,buyer-dependent,,,Generic switch disconnectors; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214300,buyer-dependent,04.3,"substation, power grid, electricity network",Generic outdoor switching installations; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214400,buyer-dependent,,,Generic fuse switch disconnectors; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214500,buyer-dependent,,,Generic electric switchboards; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214510,buyer-dependent,,,Generic distribution switchboards; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31214520,buyer-dependent,04.3,"substation, power grid, electricity network",Generic medium-voltage switchboards; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31215000,buyer-dependent,,,Generic voltage limiters; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31216000,buyer-dependent,,,Generic lightning arrestors; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31216100,buyer-dependent,,,Generic lightning-protection equipment; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31216200,buyer-dependent,,,Generic lightning conductors; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31217000,buyer-dependent,,,Generic surge suppressors; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31218000,buyer-dependent,,,Generic busbars; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31219000,buyer-dependent,,,Generic protection boxes; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31220000,buyer-dependent,,,Generic electrical circuit components; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31221000,buyer-dependent,,,Generic electrical relays; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31221100,buyer-dependent,,,Generic power relays; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31221200,buyer-dependent,,,Generic general purpose relays; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31223000,buyer-dependent,06.4,"street lighting, public lighting",Generic lamp-holders; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224000,buyer-dependent,,,Generic connections and contact elements; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224100,buyer-dependent,,,Generic plugs and sockets; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224200,buyer-dependent,,,Generic coaxial connectors; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224300,buyer-dependent,,,Generic connection boxes; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224400,buyer-dependent,,,Generic connection cables; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224500,buyer-dependent,,,Generic terminals; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224600,buyer-dependent,,,Generic dimmers; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224700,buyer-dependent,,,Generic junction boxes; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224800,buyer-dependent,,,Generic cable joining kits; purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31224810,buyer-dependent,,,Extension cables are generic electrical supplies used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31230000,buyer-dependent,,,Parts for electrical distribution apparatus are generic and depend on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31300000,buyer-dependent,,,Insulated wire and cable are generic electrical components used across all sectors.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31310000,04.3,,,Electrical mains typically refer to utility power grid infrastructure.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31311000,buyer-dependent,,,"Mains connections can be for specific buildings or facilities, depending on the buyer.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31320000,04.3,buyer-dependent,"building, facility, internal",Power distribution cables are primarily used for electricity grid infrastructure.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321000,04.3,,,Electricity power lines are direct components of the energy and fuel sector.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321100,04.3,,,Overhead power lines are infrastructure for electricity distribution.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321200,buyer-dependent,04.3,"grid, distribution network",Low and medium-voltage cables are widely used in buildings and local infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321210,buyer-dependent,,,Low-voltage cables are generic electrical supplies for buildings and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321220,buyer-dependent,04.3,"grid, distribution network",Medium-voltage cables can be used for large facilities or local power distribution.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321300,04.3,,,High-voltage cables are exclusively used for electricity transmission grids.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321400,04.3,,,Underwater power cables are used for electricity transmission across water bodies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321500,04.3,,,Submarine power cables are used for electricity transmission across seas.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321600,buyer-dependent,,,Shielded cables are generic components used to prevent electromagnetic interference.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31321700,buyer-dependent,04.5,"railway, traffic, road, rail",Signalling cables are generic but frequently used in transport infrastructure.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31330000,buyer-dependent,04.6,"telecommunication, network, broadband",Coaxial cables are generic but often used for communication networks.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31340000,buyer-dependent,,,Cable accessories are generic electrical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31341000,buyer-dependent,,,Cable reels are generic electrical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31342000,buyer-dependent,,,Cable junctions are generic electrical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31343000,buyer-dependent,,,Cable joints are generic electrical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31344000,buyer-dependent,,,Cable glands are generic electrical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31350000,buyer-dependent,,,Data and control conductors are generic IT and electrical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31351000,buyer-dependent,,,Access control system conductors are used in buildings across all functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31400000,buyer-dependent,,,Batteries and accumulators are generic consumables used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31410000,buyer-dependent,,,Primary cells are generic consumables used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31411000,buyer-dependent,,,Alkaline batteries are generic consumables used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31420000,buyer-dependent,,,Primary batteries are generic consumables used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31421000,buyer-dependent,,,Lead batteries are generic components used in vehicles and backup systems.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31422000,buyer-dependent,,,Battery packs are generic components used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31430000,buyer-dependent,,,Electric accumulators are generic components used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31431000,buyer-dependent,,,Lead-acid accumulators are generic components used in vehicles and backup systems.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31432000,buyer-dependent,,,Nickel-cadmium accumulators are generic components used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31433000,buyer-dependent,,,Nickel-iron accumulators are generic components used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31434000,buyer-dependent,,,Lithium accumulators are generic components used in electronics and vehicles.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31440000,buyer-dependent,,,Batteries are generic consumables used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31500000,buyer-dependent,06.4,"street, road, outdoor, public","Lighting equipment is generic, unless specifically for street lighting.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31510000,buyer-dependent,,,Electric filament lamps are generic consumables used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31511000,buyer-dependent,,,Sealed-beam lamp units are generic components used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31512000,buyer-dependent,,,Tungsten halogen filament lamps are generic consumables used by all functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:06
+31512100,buyer-dependent,04.3,"LED, energy-efficient","Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31514000,buyer-dependent,04.3,"LED, energy-efficient","Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31515000,buyer-dependent,04.3,energy-efficient,"Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31516000,buyer-dependent,04.3,energy-efficient,"Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31517000,buyer-dependent,04.3,energy-efficient,"Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31518000,buyer-dependent,04.3,"LED, energy-efficient, solar","Signalling lights are used across transport, emergency services, and infrastructure.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31518100,buyer-dependent,04.3,"LED, energy-efficient, solar","Floodlights are used for sports, security, and construction by various buyers.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31518200,buyer-dependent,04.3,"LED, energy-efficient",Emergency lighting is installed in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31518220,buyer-dependent,,,"Light sticks are used by military, police, and emergency services.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31518300,buyer-dependent,04.3,"LED, energy-efficient",Rooflights are generic fixtures used in various public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31518500,buyer-dependent,04.3,energy-efficient,Mercury-vapour lamps are used in street lighting and industrial facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31518600,buyer-dependent,04.3,"LED, energy-efficient","Searchlights are used by military, police, and maritime authorities.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31519100,buyer-dependent,04.3,energy-efficient,"Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31519200,buyer-dependent,04.3,energy-efficient,"Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31520000,buyer-dependent,04.3,"LED, energy-efficient, solar","Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31521000,buyer-dependent,04.3,"LED, energy-efficient, solar","Generic lighting equipment, purpose depends on the purchasing entity.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31521100,buyer-dependent,04.3,"LED, energy-efficient",Desk lamps are generic office supplies used by all government entities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31521200,buyer-dependent,04.3,"LED, energy-efficient",Floor-standing lamps are generic office supplies used by all government entities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31521300,buyer-dependent,04.3,"LED, energy-efficient, solar",Portable lamps are used by various field workers and emergency services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31521310,buyer-dependent,04.3,"LED, energy-efficient, solar","Warning lights are used on vehicles, construction sites, and hazards.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31521320,buyer-dependent,04.3,LED,"Torches are generic equipment used by police, military, and maintenance staff.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31521330,buyer-dependent,04.3,"LED, solar",Rechargeable lamps are generic equipment used by various field workers.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31522000,08,04.3,"LED, energy-efficient",Christmas tree lights are typically purchased for public cultural and recreational events.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31523000,buyer-dependent,04.3,"LED, energy-efficient, solar","Illuminated signs are used in transport, public buildings, and urban spaces.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31523100,buyer-dependent,04.3,"LED, energy-efficient",Advertising neon lights can be used by various public entities for visibility.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31523200,buyer-dependent,04.3,"LED, energy-efficient, solar",Permanent message signs are used in transport and public information systems.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31523300,buyer-dependent,04.3,"LED, energy-efficient, solar",Illuminated nameplates are used on various public buildings and facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31524000,buyer-dependent,04.3,"LED, energy-efficient",Generic lighting fittings used in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31524100,buyer-dependent,04.3,"LED, energy-efficient",Generic ceiling light fittings used in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31524110,07.3,04.3,"LED, energy-efficient",Operating-theatre lamps are specialized equipment for hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31524120,buyer-dependent,04.3,"LED, energy-efficient",Generic ceiling lights used in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31524200,buyer-dependent,04.3,"LED, energy-efficient",Generic wall light fittings used in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31524210,buyer-dependent,04.3,"LED, energy-efficient",Generic wall lights used in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31527000,buyer-dependent,04.3,"LED, energy-efficient","Spotlights are used in theatres, museums, security, and general facilities.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31527200,buyer-dependent,04.3,"LED, energy-efficient, solar","Exterior lights are used for street lighting, building exteriors, and parks.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31527210,buyer-dependent,04.3,"LED, energy-efficient, solar","Lanterns are used in street lighting, parks, and historical sites.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31527260,buyer-dependent,04.3,"LED, energy-efficient, solar",Lighting systems are generic and installed in various public facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31527270,04.5,04.3,"LED, energy-efficient, solar",Platforms lighting is specifically used for railway and public transport infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31527300,06.1,04.3,"LED, energy-efficient",Domestic lights are typically purchased for social housing and residential facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31527400,buyer-dependent,04.3,"LED, energy-efficient, solar",Underwater lights are used in public swimming pools and decorative fountains.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:07
+31530000,buyer-dependent,06.4,"street, road, outdoor","Lighting parts are generic, but can serve street lighting if specified.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31531000,buyer-dependent,06.4,"street, road, outdoor",Light bulbs are generic consumables used in all public facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31531100,buyer-dependent,06.4,"street, road, outdoor",Electric tubes are generic lighting consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532000,buyer-dependent,06.4,"street, road, outdoor",Parts of lamps and light fittings are generic inputs.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532100,buyer-dependent,06.4,"street, road, outdoor",Tube lamps are generic lighting consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532110,buyer-dependent,06.4,"street, road, outdoor",Fluorescent tube lamps are generic lighting consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532120,buyer-dependent,06.4,"street, road, outdoor",Compact fluorescent tube lamps are generic lighting consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532700,buyer-dependent,06.4,"street, road, outdoor",Lamp covers are generic lighting parts.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532800,buyer-dependent,06.4,"street, road, outdoor","Lamp arms are generic, but often used for street lighting poles.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532900,buyer-dependent,06.4,"street, road, outdoor",Fluorescent lights are generic lighting equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532910,buyer-dependent,06.4,"street, road, outdoor",Fluorescent tubes are generic lighting consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31532920,buyer-dependent,06.4,"street, road, outdoor",Bulbs and fluorescent lamps are generic lighting consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31600000,buyer-dependent,,,Electrical equipment and apparatus are generic inputs used by all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31610000,buyer-dependent,04.5,"transport, transit, railway, bus","Vehicle electrical equipment is generic, but can serve public transport.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31611000,buyer-dependent,,,Wiring sets are generic electrical components.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31612200,buyer-dependent,,,Starter motors are generic vehicle components.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31620000,buyer-dependent,04.5,"traffic, road, railway, transport","Signalling apparatus is generic, but often used for traffic control.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31625000,buyer-dependent,,,Burglar and fire alarms are installed in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31625100,buyer-dependent,,,Fire-detection systems are installed in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31625200,buyer-dependent,,,Fire-alarm systems are installed in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31625300,buyer-dependent,,,Burglar-alarm systems are installed in all types of public buildings.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31630000,buyer-dependent,,,Magnets are generic components used in various applications.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31640000,buyer-dependent,,,Machines and apparatus with individual functions are generic electrical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31642000,buyer-dependent,,,Electronic detection apparatus is generic and depends on the buyer's purpose.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31642100,buyer-dependent,06.3,"water, aqueduct","Pipe detection apparatus is generic, often used by water or energy utilities.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31642200,02.1,03.1,"police, security",Mine detection apparatus is primarily used for military defence or police operations.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31642300,buyer-dependent,,,Detection apparatus for plastics is generic equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31642400,buyer-dependent,,,Detection apparatus for non-metallic objects is generic equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31643000,01.4,07.3,"medical, hospital, clinical, therapy","Particle accelerators are primarily for basic research, but also used in hospitals.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31643100,07.3,01.4,"research, laboratory, university",Linear accelerators are predominantly purchased by hospitals for radiotherapy.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31644000,buyer-dependent,,,Miscellaneous data recorders are generic electronic equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31650000,buyer-dependent,,,Insulating fittings are generic electrical components.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31651000,buyer-dependent,,,Electrical tape is a generic consumable.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31660000,buyer-dependent,,,Carbon electrodes are generic electrical components.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31670000,buyer-dependent,,,Electrical parts of machinery or apparatus are generic inputs.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31671000,buyer-dependent,,,Glass envelopes and cathode-ray tubes are generic electronic components.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31671100,buyer-dependent,,,Glass envelopes are generic electronic components.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31680000,buyer-dependent,,,Electrical supplies and accessories are generic inputs.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31681000,buyer-dependent,,,Electrical accessories are generic inputs.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31681100,buyer-dependent,,,Electrical contacts are generic electrical components.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31681200,buyer-dependent,,,Generic electric pumps used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31681300,buyer-dependent,,,Generic electrical circuits used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31681400,buyer-dependent,,,Generic electrical components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31681410,buyer-dependent,,,Generic electrical materials used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31681500,buyer-dependent,,,Generic rechargers used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682000,buyer-dependent,,,Generic electricity supplies used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682100,buyer-dependent,,,Generic electricity boxes used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682110,buyer-dependent,,,Generic electricity box covers used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682200,buyer-dependent,,,Generic instrument panels used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682210,buyer-dependent,,,Generic instrumentation and control equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682220,buyer-dependent,,,Generic mixing panels used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682230,buyer-dependent,,,Generic graphic display panels used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682300,buyer-dependent,04.3,"grid, distribution, network",Medium-voltage equipment is generic but often used in electricity distribution.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682310,buyer-dependent,04.3,"grid, distribution, network",Medium-voltage panels are generic but often used in electricity distribution.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682400,buyer-dependent,04.3,"grid, distribution, network",Overhead electrical equipment is generic but often used in electricity distribution.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682410,buyer-dependent,04.3,"grid, distribution, network",Overhead cable carriers are generic but often used in electricity distribution.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682500,buyer-dependent,,,Generic emergency electricity equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682510,buyer-dependent,,,Generic emergency power systems used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682520,buyer-dependent,,,Generic emergency shutdown systems used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682530,buyer-dependent,,,Generic emergency power supplies used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31682540,04.3,04.5,"railway, train, tram",Substation equipment is primarily used for electricity distribution grids.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31700000,buyer-dependent,,,Generic electronic and electrotechnical supplies used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31710000,buyer-dependent,,,Generic electronic equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711000,buyer-dependent,,,Generic electronic supplies used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711100,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711110,buyer-dependent,,,Generic transceivers used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711120,buyer-dependent,,,Generic transducers used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711130,buyer-dependent,,,Generic resistors used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711131,buyer-dependent,,,Generic electrical resistors used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711140,buyer-dependent,,,Generic electrodes used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711150,buyer-dependent,,,Generic electrical capacitors used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711151,buyer-dependent,,,Generic fixed capacitors used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711152,buyer-dependent,,,Generic variable capacitors used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711154,buyer-dependent,04.3,"grid, distribution, network",Capacitor banks are generic but often used in electricity distribution.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711200,08.1,,,Electronic scoreboards are primarily used for recreational and sporting services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711300,buyer-dependent,08.1,"sports, race, competition",Timekeeping systems are generic but often used in sports.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711310,buyer-dependent,,,Attendance recording systems are generic office equipment used by all functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711400,buyer-dependent,,,Generic valves and tubes used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711420,buyer-dependent,,,Generic microwave tubes and equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711421,buyer-dependent,,,Generic magnetrons used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:08
+31711422,buyer-dependent,,,Generic microwave equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31711423,buyer-dependent,04.6,,Microwave radio equipment is typically used for telecommunications across government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31711424,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31711430,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31711440,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31711500,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31711520,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31711530,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712000,buyer-dependent,,,Generic microelectronic equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712100,buyer-dependent,,,Generic microelectronic equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712110,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712111,buyer-dependent,04.6,,Phone cards are generic communication supplies used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712112,buyer-dependent,04.6,,SIM cards are generic communication supplies used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712113,buyer-dependent,,,"Smart cards are generic supplies used for access, ID, or IT functions.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712114,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712115,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712116,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712117,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712118,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712200,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712300,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712310,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712320,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712330,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712331,04.3,,,Photovoltaic cells are specifically used for solar energy generation.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712335,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712340,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712341,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712346,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712347,buyer-dependent,04.3,,Generic electronic components; solar diodes relate to energy generation.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712348,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712349,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712350,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712354,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712355,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31712357,buyer-dependent,,,Generic electronic components used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31720000,buyer-dependent,,,Generic electromechanical equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31730000,buyer-dependent,,,Generic electrotechnical equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31731000,buyer-dependent,,,Generic electrotechnical supplies used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+31731100,buyer-dependent,,,Generic electrotechnical modules used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:09
+32000000,buyer-dependent,,,Generic communication and broadcasting equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32200000,buyer-dependent,08.3,"broadcasting, television, radio",Transmission apparatus can be for general telecom (buyer-dependent) or broadcasting (08.3).,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32210000,08.3,,,Broadcasting equipment is directly related to broadcasting and publishing services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32211000,08.3,,,Broadcast production equipment is directly related to broadcasting services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32220000,08.3,,,Television transmission apparatus is used for broadcasting services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32221000,04.5,,,Radio beacons are primarily used as navigational aids for transport.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32222000,buyer-dependent,,,Video-signal coding machines can be used by any department for AV purposes.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32223000,buyer-dependent,,,"Video transmission apparatus can be used for security, broadcasting, or general communications.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32224000,08.3,,,Television transmission apparatus is specific to broadcasting services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32230000,buyer-dependent,,,Radio transmission and reception apparatus is used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32231000,buyer-dependent,03.1,"security, surveillance, police","CCTV is used by any department for building security, or police for public order.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32232000,buyer-dependent,,,Video-conferencing equipment is generic office equipment used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32233000,buyer-dependent,04.6,"telecom, network, public",Booster stations can be for internal networks or public communication infrastructure.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32234000,buyer-dependent,03.1,"security, surveillance, police",CCTV cameras are used for general building security or public order.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32235000,buyer-dependent,03.1,"security, surveillance, police",Surveillance systems are used for general building security or public order.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32236000,buyer-dependent,,,Radio telephones are generic communication devices used by various departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32237000,buyer-dependent,03.1,"police, security, emergency","Walkie-talkies are used by many departments, though often by police and emergency services.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32240000,08.3,buyer-dependent,"security, surveillance","Television cameras are primarily for broadcasting, but can be used for other purposes.",medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32250000,buyer-dependent,,,Mobile telephones are generic communication devices used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32252000,buyer-dependent,,,GSM telephones are generic communication devices used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32252100,buyer-dependent,,,Hands-free mobile telephones are generic communication devices.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32252110,buyer-dependent,,,Hands-free mobile telephones are generic communication devices.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32260000,buyer-dependent,,,Data-transmission equipment is generic IT/telecom infrastructure used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32270000,buyer-dependent,,,Digital transmission apparatus is generic IT/telecom infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32300000,buyer-dependent,,,Receivers and recording apparatus are generic equipment used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32310000,buyer-dependent,,,Radio broadcast receivers are generic equipment used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32320000,buyer-dependent,,,Television and audio-visual equipment are generic items used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32321000,buyer-dependent,,,Television projection equipment is generic AV equipment used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32321100,buyer-dependent,08.2,"culture, arts, cinema",Film equipment can be used for cultural services or general departmental use.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32321200,buyer-dependent,,,Audio-visual equipment is generic and used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32321300,buyer-dependent,,,Audio-visual materials are generic and used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32322000,buyer-dependent,,,Multimedia equipment is generic and used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32323000,buyer-dependent,,,Video monitors are generic IT/AV equipment used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32323100,buyer-dependent,,,Colour video monitors are generic IT/AV equipment used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32323300,buyer-dependent,,,Video equipment is generic and used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32323400,buyer-dependent,,,Video-playback equipment is generic and used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32323500,buyer-dependent,03.1,"security, surveillance, police",Video-surveillance systems are used for general building security or public order.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32324000,buyer-dependent,,,Televisions are generic equipment used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32324100,buyer-dependent,,,Colour televisions are generic equipment used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32324300,buyer-dependent,,,Television equipment is generic and used by all departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32324310,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32324400,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32324600,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32330000,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32331200,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32331300,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32331500,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32332000,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32332100,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32332200,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32332300,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32333000,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32333100,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32333200,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32333300,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32333400,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32340000,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32341000,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342000,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342100,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342200,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342300,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342400,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342410,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342412,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342420,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32342450,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32343000,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32343100,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32343200,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344000,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344100,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344110,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344200,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344210,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344220,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344230,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344240,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344250,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344260,buyer-dependent,,,"Generic communication and audio-visual equipment, purpose depends on the buyer.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:10
+32344270,buyer-dependent,,,Generic communication equipment used by various government departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32344280,buyer-dependent,,,"Portable radios can be used by police, fire, or generic municipal staff.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32350000,buyer-dependent,,,Generic sound and video equipment parts used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32351000,buyer-dependent,,,Generic accessories for sound and video equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32351100,buyer-dependent,,,"Video-editing equipment can be used for broadcasting, education, or generic PR.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32351200,buyer-dependent,,,Screens are generic IT/AV hardware used by any department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32351300,buyer-dependent,,,Generic audio equipment accessories.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32351310,buyer-dependent,,,Audio cassettes are generic recording media.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32352000,buyer-dependent,,,Aerials and reflectors are generic communication infrastructure components.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32352100,buyer-dependent,,,"Radio and radar equipment can serve defence, transport, or generic communication.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32352200,buyer-dependent,,,"Radar parts can be used for defence, aviation, or meteorology.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32353000,buyer-dependent,,,"Sound recordings can be for cultural, educational, or generic purposes.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32353100,buyer-dependent,,,Records are generic media that depend on the buyer's purpose.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354000,buyer-dependent,,,Film products are generic supplies used across various functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354100,07.1,,,Radiology film is a medical product.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354110,07.1,,,X-ray film is a medical product.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354120,buyer-dependent,,,Blue diazo film is used for blueprints and generic engineering/architectural reproduction.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354200,buyer-dependent,,,"Cinematographic film can be for cultural services, education, or generic PR.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354300,buyer-dependent,,,Photographic film is a generic supply.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354500,buyer-dependent,,,"Video films can serve educational, cultural, or generic administrative purposes.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354600,buyer-dependent,,,Video cassettes are generic recording media.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354700,buyer-dependent,,,Video tapes are generic recording media.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32354800,buyer-dependent,,,Cling film is a generic supply used in catering and kitchens.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32360000,buyer-dependent,,,Intercom equipment is generic building infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32400000,buyer-dependent,,,Networks are generic IT infrastructure used by all government bodies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32410000,buyer-dependent,,,Local area networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32411000,buyer-dependent,,,Token-ring networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32412000,buyer-dependent,,,Communications networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32412100,buyer-dependent,,,Telecommunications networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32412110,buyer-dependent,,,Internet networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32412120,buyer-dependent,,,Intranet networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32413000,buyer-dependent,,,Integrated networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32413100,buyer-dependent,,,Network routers are generic IT hardware.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32415000,buyer-dependent,,,Ethernet networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32416000,buyer-dependent,,,ISDN networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32417000,buyer-dependent,,,Multimedia networks are generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32418000,buyer-dependent,,,"Radio networks can serve emergency services, transport, or generic communication.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32420000,buyer-dependent,,,Network equipment is generic IT hardware.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32421000,buyer-dependent,,,Network cabling is generic IT infrastructure.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32422000,buyer-dependent,,,Network components are generic IT hardware.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32423000,buyer-dependent,,,Generic network equipment used by any government entity for its operations.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32424000,buyer-dependent,,,Generic network infrastructure used by any government entity for its operations.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32425000,buyer-dependent,,,Generic network software used by any government entity for its operations.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32426000,buyer-dependent,,,Generic network systems used by any government entity for its operations.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32427000,buyer-dependent,,,Generic network systems used by any government entity for its operations.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32428000,buyer-dependent,,,Generic network upgrades used by any government entity for its operations.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32429000,buyer-dependent,,,Generic telephone network equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32430000,buyer-dependent,,,Generic wide area network equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32440000,buyer-dependent,,,Generic telemetry and terminal equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32441000,buyer-dependent,,,Generic telemetry equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32441100,buyer-dependent,,,Telemetry surveillance systems can be used by various government entities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32441200,buyer-dependent,,,Generic telemetry and control equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32441300,buyer-dependent,,,"Telematics systems are used by various entities, often for vehicle fleets.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32442000,buyer-dependent,,,Generic terminal equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32442200,buyer-dependent,,,Generic terminal boxes used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32442300,buyer-dependent,,,Generic terminal emulators used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32442400,buyer-dependent,,,Generic termination blocks used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32500000,buyer-dependent,,,Generic telecommunications equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32510000,buyer-dependent,,,Generic wireless telecommunications systems used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32520000,buyer-dependent,,,Generic telecommunications cables and equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32521000,buyer-dependent,,,Generic telecommunications cables used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32522000,buyer-dependent,,,Generic telecommunications equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32523000,buyer-dependent,,,Telecommunications facilities can be used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32524000,buyer-dependent,,,Generic telecommunications systems used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32530000,buyer-dependent,,,Satellite communications equipment can be used by various government entities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32531000,buyer-dependent,,,Satellite communications equipment can be used by various government entities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32532000,buyer-dependent,,,Satellite dishes can be used by various government entities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32533000,buyer-dependent,,,Satellite earth stations can be used by various government entities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32534000,buyer-dependent,,,Satellite platforms can be used by various government entities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32540000,buyer-dependent,,,Generic switchboards used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32541000,buyer-dependent,,,Generic switchboard equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32542000,buyer-dependent,,,Generic switchboard panels used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32543000,buyer-dependent,,,Generic telephone switchboards used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32544000,buyer-dependent,,,Generic PABX equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32545000,buyer-dependent,,,Generic PABX systems used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32546000,buyer-dependent,,,Generic digital switching equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32546100,buyer-dependent,,,Generic digital switchboards used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32547000,buyer-dependent,,,Generic vacuum switchboards used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32550000,buyer-dependent,,,Generic telephone equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32551000,buyer-dependent,,,Generic telephone cables and equipment used by any government entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:11
+32551100,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32551200,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32551300,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32551400,buyer-dependent,,,Generic telecommunications infrastructure used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32551500,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552000,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552100,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552110,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552120,buyer-dependent,,,"Emergency telephones can be installed by various departments, such as transport or safety.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552130,buyer-dependent,,,Public telephones can be installed by various government departments or municipalities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552140,buyer-dependent,,,Payphone equipment can be installed by various government departments or municipalities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552160,buyer-dependent,10,,"Generic telecom equipment, but specifically adapted for disabled users.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552200,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552300,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552310,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552320,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552330,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552400,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552410,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552420,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552430,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32552600,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32553000,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32560000,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32561000,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32562000,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32562100,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32562200,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32562300,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32570000,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32571000,buyer-dependent,,,Generic telecommunications infrastructure used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32572000,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32572100,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32572200,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32572300,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32573000,buyer-dependent,,,Generic telecommunications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32580000,buyer-dependent,,,Generic data equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32581000,buyer-dependent,,,Generic data communications equipment used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32581100,buyer-dependent,,,Generic data transmission cable used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32581110,buyer-dependent,,,Generic data transmission cable used by any government department.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32581130,buyer-dependent,,,Data-transmission cables are generic telecommunications equipment used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32581200,buyer-dependent,,,Fax equipment is generic office equipment used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32581210,buyer-dependent,,,Fax accessories are generic office supplies used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32582000,buyer-dependent,,,Data carriers are generic IT supplies used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32583000,buyer-dependent,,,Data and voice media are generic IT supplies used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+32584000,buyer-dependent,,,Data-bearing media are generic IT supplies used across all government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33000000,07.1,,,Medical equipment and pharmaceuticals fall under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33100000,07.1,,,Medical equipment falls under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33110000,07.1,,,Medical imaging equipment falls under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111000,07.1,,,X-ray devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111100,07.1,,,X-ray tables are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111200,07.1,,,X-ray workstations are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111300,07.1,,,X-ray processing devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111400,07.1,,,X-ray fluoroscopy devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111500,07.1,,,Dental X-ray devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111600,07.1,,,Radiography devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111610,07.1,,,Magnetic resonance units are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111620,07.1,,,Gamma cameras are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111640,07.1,,,Thermographs are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111650,07.1,,,Mammography devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111660,07.1,,,Bone densitometers are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111700,07.1,,,Angiography rooms are medical facilities falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111710,07.1,,,Angiography supplies are medical products falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111720,07.1,,,Angiography devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111721,07.1,,,Digital angiography devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111730,07.1,,,Angioplasty supplies are medical products falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111740,07.1,,,Angioplasty devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33111800,07.1,,,Diagnostic X-ray systems are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33112000,07.1,,,Ultrasound and doppler imaging equipment falls under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33112100,07.1,,,Ultrasonic heart detectors are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33112200,07.1,,,Ultrasonic units are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33112300,07.1,,,Ultrasound scanners are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33112310,07.1,,,Colour-flow dopplers are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33112320,07.1,,,Doppler equipment is medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33112340,07.1,,,Echocardiographs are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33113000,07.1,,,Magnetic resonance imaging equipment falls under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33113100,07.1,,,Magnetic resonance scanners are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33113110,07.1,,,Nuclear magnetic resonance scanners are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33114000,07.1,,,Spectroscopy devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33115000,07.1,,,Tomography devices are medical equipment falling under health services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:12
+33115100,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33115200,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33120000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33121000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33121100,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33121200,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33121300,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33121400,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33121500,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33122000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33123000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33123100,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33123200,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33123210,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33123220,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33123230,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33124000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33124100,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33124110,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33124120,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33124130,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33124131,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33124200,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33124210,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33125000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33126000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33127000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33128000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33130000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131100,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131112,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131120,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131131,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131171,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131200,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131300,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131500,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33131510,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33132000,07.1,,,Medical equipment and appliances are classified under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33133000,07.1,,,Dental accessories are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33134000,07.1,,,Endodontics accessories are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33135000,07.1,,,Orthodontic devices are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33136000,07.1,,,Dental instruments are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33137000,07.1,,,Dental prophylaxis accessories are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33138000,07.1,,,Prosthodontic products are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33138100,07.1,,,Dentures are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33140000,07.1,,,Medical consumables are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141000,07.1,,,Medical consumables are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141100,07.1,,,Dressings and suture supplies are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141110,07.1,,,Dressings are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141111,07.1,,,Adhesive dressings are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141112,07.1,,,Plasters are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141113,07.1,,,Bandages are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141114,07.1,,,Medical gauze is classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141115,07.1,,,Medical wadding is classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141116,07.1,,,Dressing packs are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141117,07.1,,,Medical cotton wool is classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141118,07.1,,,Medical wipes are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141119,07.1,,,Compresses are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141120,07.1,,,Suture and ligature supplies are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141121,07.1,,,Surgical sutures are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141122,07.1,,,Surgical staples are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141123,07.1,,,Sharps containers are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141124,07.1,,,Sharps pads are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141125,07.1,,,Material for surgical sutures is classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141126,07.1,,,Ligatures are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141127,07.1,,,Absorbable haemostatics are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141128,07.1,,,Needles for sutures are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141200,07.1,,,Catheters are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141210,07.1,,,Balloon catheters are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141220,07.1,,,Cannulae are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141230,07.1,,,Dilators are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141240,07.1,,,Catheter accessories are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141300,07.1,,,Blood sampling devices are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141310,07.1,,,Syringes are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141320,07.1,,,Medical needles are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141321,07.1,,,Anesthesia needles are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141322,07.1,,,Arterial needles are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141323,07.1,,,Biopsy needles are classified as medical products and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141324,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141325,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141326,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141327,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141329,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141400,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141410,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141411,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141420,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141500,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141510,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141520,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141530,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141540,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141550,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141560,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141570,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141580,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141600,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141610,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141613,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141614,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141615,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141620,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141621,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141622,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141623,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141624,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141625,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141626,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141630,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141640,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141641,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141642,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141700,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141710,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141720,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141730,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141740,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141750,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:13
+33141760,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33141770,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33141800,07.1,,,Dental consumables are medical products falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33141810,07.1,,,Dental filling materials are medical products falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33141820,07.1,,,Dental prosthetics and teeth are medical products falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33141821,07.1,,,Porcelain teeth are medical products falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33141830,07.1,,,Dental cement base is a medical product falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33141850,07.1,,,Dental hygiene products are medical products falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33141900,07.1,,,Blood lancets are medical products falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33150000,07.1,,,Therapy devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33151000,07.1,,,Radiotherapy devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33151100,07.1,,,Gamma therapy devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33151200,07.1,,,X-ray therapy devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33151300,07.1,,,Spectrographs for medical use fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33151400,07.1,,,Radiotherapy supplies are medical products falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33152000,07.1,,,Incubators are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33153000,07.1,,,Lithotripters are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33154000,07.1,,,Mechanotherapy devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33155000,07.1,,,Physical therapy devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33156000,07.1,,,Psychology testing devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157000,07.1,,,Gas-therapy and respiratory devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157100,07.1,,,Medical gas masks are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157110,07.1,,,Oxygen masks are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157200,07.1,,,Oxygen kits are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157400,07.1,,,Medical breathing devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157500,07.1,,,Hyperbaric chambers are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157700,07.1,,,Blow bottles are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157800,07.1,,,Oxygen administration units are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33157810,07.1,,,Oxygen therapy units are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33158000,07.1,,,Treatment devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33158100,07.1,,,Electromagnetic units are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33158200,07.1,,,Electrotherapy devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33158210,07.1,,,Medical stimulators are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33158300,07.1,,,Ultraviolet medical devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33158400,07.1,,,Mechanical therapy units are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33158500,07.1,,,Infrared medical devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33159000,07.1,,,Clinical chemistry systems are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33160000,07.1,,,Operating techniques and equipment fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33161000,07.1,,,Electrosurgical units are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33162000,07.1,,,Operating theatre devices are medical equipment falling under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33162100,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33162200,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33163000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33164000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33164100,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33165000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33166000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33167000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33168000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33168100,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33169000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33169100,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33169200,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33169300,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33169400,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33169500,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33170000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33171000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33171100,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33171110,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33171200,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33171210,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33171300,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33172000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33172100,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33172200,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33180000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33181000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33181100,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33181200,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33181300,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33181400,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33181500,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33181510,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33181520,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33182000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33182100,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33182200,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33182210,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33182220,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:14
+33182230,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33182240,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33182241,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33182300,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33182400,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33183000,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33183100,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33183200,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33183300,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184000,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184100,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184200,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184300,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184400,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184410,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184420,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184500,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33184600,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33185000,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33185100,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33185200,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33185300,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33185400,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33186000,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33186100,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33186200,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33190000,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33191000,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33191100,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33191110,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192000,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192100,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192110,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192120,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192130,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192150,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192160,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192200,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192210,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192230,07.1,,,"Medical products, appliances and equipment are classified under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192300,07.1,,,"Medical furniture falls under medical products, appliances and equipment.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192310,07.1,,,Traction or suspension devices for medical beds are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192320,07.1,,,Urine-bottle holders are medical appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192330,07.1,,,Transfusion pods are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192340,07.1,,,Operating theatre furniture falls under medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192350,07.1,,,Medical cultivation cabinets are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192400,07.1,,,Dental workstations are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192410,07.1,,,Dental chairs are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192500,07.1,,,Test tubes are medical and laboratory supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33192600,07.1,,,Lifting equipment for the health care sector is medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193000,07.1,10.1,,"Wheelchairs and invalid carriages are therapeutic appliances, also serving disability protection.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193100,07.1,10.1,,"Wheelchairs and invalid carriages are therapeutic appliances, also serving disability protection.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193110,07.1,10.1,,"Invalid carriages are therapeutic appliances, also serving disability protection.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193120,07.1,10.1,,"Wheelchairs are therapeutic appliances, also serving disability protection.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193121,07.1,10.1,,"Motorised wheelchairs are therapeutic appliances, also serving disability protection.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193200,07.1,10.1,,Parts for wheelchairs and invalid carriages are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193210,07.1,10.1,,Parts for invalid carriages are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193213,07.1,10.1,,Control devices for invalid carriages are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193214,07.1,10.1,,Chassis for invalid carriages are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193220,07.1,10.1,,Parts for wheelchairs are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193221,07.1,10.1,,Wheelchair cushions are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193223,07.1,10.1,,Wheelchair seats are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193224,07.1,10.1,,Wheelchair wheels are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33193225,07.1,10.1,,Wheelchair tyres are therapeutic appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33194000,07.1,,,Transfusion and infusion devices are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33194100,07.1,,,Infusion devices are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33194110,07.1,,,Infusion pumps are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33194120,07.1,,,Infusion supplies are medical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33194200,07.1,,,Transfusion devices are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33194210,07.1,,,Blood-transfusion devices are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33194220,07.1,,,Blood-transfusion supplies are medical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33195000,07.1,,,Patient-monitoring systems are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33195100,07.1,,,Medical monitors are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33195110,07.1,,,Respiratory monitors are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33195200,07.1,,,Central monitoring stations are medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33196000,07.1,,,Medical aids are therapeutic appliances and equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33196100,07.1,10.2,,"Devices for the elderly are therapeutic appliances, also serving old age protection.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33196200,07.1,10.1,,"Devices for the disabled are therapeutic appliances, also serving disability protection.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33197000,07.1,,,Medical computer equipment is classified under medical equipment.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33198000,07.1,,,Hospital paper articles are medical supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:15
+33198200,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33199000,07.1,,,"Medical products, appliances and equipment fall under health.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33600000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33610000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33611000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33612000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33613000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33614000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33615000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33615100,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33616000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33616100,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33617000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33620000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33621000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33621100,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33621200,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33621300,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33621400,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622100,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622200,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622300,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622400,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622500,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622600,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622700,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33622800,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33630000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33631000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33631100,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33631110,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33631200,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33631300,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33631400,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33631500,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33631600,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33632000,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33632100,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33632200,07.1,,,Pharmaceutical products fall under health.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33632300,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33640000,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33641000,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33641100,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33641200,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33641300,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33641400,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33641410,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33641420,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33642000,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33642100,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33642200,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33642300,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33650000,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651000,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651100,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651200,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651300,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651400,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651500,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651510,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651520,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651600,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651610,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651620,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651630,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651640,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651650,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651660,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651670,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651680,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33651690,04.2,,,Veterinary vaccines fall under agricultural and veterinary affairs.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33652000,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33652100,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33652200,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33652300,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33660000,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33661000,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33661100,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33661200,07.1,,,Pharmaceutical products are classified under medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:16
+33661300,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33661400,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33661500,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33661600,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33661700,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33662000,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33662100,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33670000,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33673000,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33674000,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33675000,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33680000,07.1,,,Pharmaceutical articles are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33681000,07.1,,,Pharmaceutical articles are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33682000,07.1,,,Pharmaceutical articles are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33683000,07.1,,,Pharmaceutical articles are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33690000,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33691000,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33691100,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33691200,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33691300,07.1,,,Pharmaceutical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692000,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692100,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692200,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692210,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692300,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692400,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692500,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692510,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692600,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692700,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33692800,07.1,,,Medical solutions are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33693000,07.1,,,Therapeutic products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33693100,07.1,,,Therapeutic products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33693200,07.1,,,Therapeutic products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33693300,07.1,,,Therapeutic products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33694000,07.1,,,Diagnostic agents are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33695000,07.1,,,Medical products are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33696000,07.1,,,Reagents and contrast media are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33696100,07.1,,,Reagents and contrast media are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+33696200,07.1,,,Reagents and contrast media are classified under medical products and appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79212000,buyer-dependent,,,Generic auditing services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79212100,buyer-dependent,,,Generic financial auditing services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79212110,buyer-dependent,,,Generic corporate governance services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79212200,buyer-dependent,,,Generic internal audit services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79212300,buyer-dependent,,,Generic statutory audit services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79212400,buyer-dependent,,,Generic fraud audit services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79212500,buyer-dependent,,,Generic accounting review services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79220000,buyer-dependent,,,Generic fiscal services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79221000,buyer-dependent,,,Generic tax consultancy services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79222000,buyer-dependent,,,Generic tax-return preparation services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79223000,buyer-dependent,,,Generic custom broker services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79300000,buyer-dependent,,,Generic market research and polling services whose purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79310000,buyer-dependent,,,Generic market research services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79311000,buyer-dependent,,,Generic survey services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79311100,buyer-dependent,,,Generic survey design services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79311200,buyer-dependent,,,Generic survey conduction services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79311210,buyer-dependent,,,Generic telephone survey services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79311300,buyer-dependent,,,Generic survey analysis services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79311400,buyer-dependent,,,Generic economic research services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79311410,buyer-dependent,,,Generic economic impact assessment services whose purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79312000,buyer-dependent,,,Generic market-testing services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79313000,buyer-dependent,,,Generic performance review services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79314000,buyer-dependent,,,Generic feasibility study services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79315000,buyer-dependent,,,Generic social research services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79320000,buyer-dependent,,,Generic public-opinion polling services whose purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79330000,buyer-dependent,,,Generic statistical services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79340000,buyer-dependent,,,Generic advertising and marketing services whose purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79341000,buyer-dependent,,,Generic advertising services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79341100,buyer-dependent,,,Generic advertising consultancy services whose purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79341200,buyer-dependent,,,Generic advertising management services whose purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79341400,buyer-dependent,,,Generic advertising campaign services whose purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79341500,buyer-dependent,,,Generic aeral advertising services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79342000,buyer-dependent,,,Generic marketing services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79342100,buyer-dependent,,,Generic direct marketing services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79342200,buyer-dependent,,,Generic promotional services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79342300,buyer-dependent,,,Generic customer services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79342310,buyer-dependent,,,Generic customer survey services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79342311,buyer-dependent,,,Generic customer satisfaction survey whose purpose depends on the buyer.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79342320,buyer-dependent,,,Generic customer-care services whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+79342321,buyer-dependent,,,Generic customer-loyalty programme whose purpose depends on the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:17
+80512000,buyer-dependent,,,"Dog training depends on the buyer, such as police or military.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80513000,08.1,,,Horse riding is a recreational and sporting activity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80520000,buyer-dependent,,,Training facilities serve the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80521000,buyer-dependent,,,Training programmes serve the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80522000,buyer-dependent,,,Training seminars serve the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80530000,09.5,,,Vocational training is an educational service not definable by level.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80531000,09.5,,,Industrial and technical training is an educational service.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80531100,09.5,,,Industrial training is an educational service.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80531200,09.5,,,Technical training is an educational service.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80532000,buyer-dependent,,,Management training serves the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80533000,buyer-dependent,,,Computer training serves the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80533100,buyer-dependent,,,Computer training serves the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80533200,buyer-dependent,,,Computer courses serve the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80540000,buyer-dependent,05,,"Environmental training serves the buyer's function, with environmental protection as secondary.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80550000,buyer-dependent,,,Safety training serves the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80560000,buyer-dependent,07,,"Health and first-aid training serves the buyer's function, with health secondary.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80561000,buyer-dependent,07,,"Health training serves the buyer's function, with health secondary.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80562000,buyer-dependent,07,,"First-aid training serves the buyer's function, with health secondary.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80570000,buyer-dependent,,,Personal development training serves the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80580000,buyer-dependent,,,Language courses serve the specific function of the purchasing entity.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80590000,09.5,,,Tutorial services are educational services not definable by level.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80600000,02.1,03,,Defence and security training primarily serves military and police functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80610000,03.1,02,,Security equipment training primarily serves police and military functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80620000,02.1,03,,Firearms training primarily serves military and police functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80630000,02.1,,,Military vehicles training serves military defence functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80640000,02.1,,,Warships training serves military defence functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80650000,02.1,,,Military aircraft and missile training serves military defence functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+80660000,02.1,,,Military electronic systems training serves military defence functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85000000,07,10,,Health and social work services cover both health and social protection.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85100000,07,,,Health services fall under the health division.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85110000,07.3,,,Hospital services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111000,07.3,,,Hospital services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111100,07.3,,,Surgical hospital services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111200,07.3,,,Medical hospital services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111300,07.3,,,Gynaecological hospital services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111310,07.3,,,In vitro fertilisation services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111320,07.3,,,Obstetrical hospital services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111400,07.3,,,Rehabilitation hospital services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111500,07.3,,,Psychiatric hospital services fall under hospital services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+85111600,07.2,,,Orthotic services are typically outpatient medical services.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 18:18
+33696300,07.1,,,Chemical reagents in the pharmaceutical group are classified as medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33696400,07.1,,,Isotopic reagents are medical products used for diagnostics and treatments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33696500,07.1,,,Laboratory reagents in this pharmaceutical group are typically for clinical use.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33696600,07.1,,,Reagents for electrophoresis are used in clinical and medical laboratories.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33696700,07.1,,,Urological reagents are medical products used for diagnostics.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33696800,07.1,,,X-ray contrast media are medical products used in medical imaging.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33697000,07.1,,,Medical preparations are classified as medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33697100,07.1,,,Enema preparations are medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33697110,07.1,,,Bone reconstruction cements are medical products used in surgery.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33698000,07.1,,,Clinical products are classified as medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33698100,07.1,,,Microbiological cultures in this group are used for clinical diagnostics.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33698200,07.1,,,Glands and their extracts are pharmaceutical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33698300,07.1,,,Peptic substances are pharmaceutical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33700000,buyer-dependent,,,Personal care products are generic consumables used by various government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33710000,buyer-dependent,,,Toiletries are generic consumables used by various government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711000,buyer-dependent,,,Perfumes and toiletries are generic consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711110,buyer-dependent,,,Deodorants are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711140,buyer-dependent,,,Fragrances are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711200,buyer-dependent,,,Make-up preparations are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711400,buyer-dependent,,,Beauty products are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711420,buyer-dependent,,,Makeup kits are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711430,buyer-dependent,,,Disposable personal wipes are generic consumables used in various facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711500,buyer-dependent,,,Skin-care products are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711510,buyer-dependent,,,Sun protection products are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711520,buyer-dependent,,,Bath gels are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711540,07.1,,,Para-pharmaceutical creams have therapeutic properties and are medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711600,buyer-dependent,,,Hair preparations are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711610,buyer-dependent,,,Shampoos are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711630,07.1,,,Wigs in this division are typically medical wigs for patients.,medium,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711640,buyer-dependent,,,Vanity kits are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711700,buyer-dependent,,,Dental hygiene products are generic consumables used in various facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711710,buyer-dependent,,,Toothbrushes are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711720,buyer-dependent,,,Toothpaste is a generic personal care consumable.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711790,buyer-dependent,,,Dental kits are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33711900,buyer-dependent,,,Soap is a generic consumable used by various government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33712000,07.1,07.4,,Condoms are medical products often distributed for public health purposes.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33720000,buyer-dependent,,,Razors and manicure sets are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33721000,buyer-dependent,,,Razors are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33721100,buyer-dependent,,,Razor blades are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33721200,buyer-dependent,,,Shavers are generic personal care consumables.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33730000,07.1,,,Eye care products and corrective lenses are medical products.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33731000,07.1,,,Contact lenses are medical appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33731100,07.1,,,Corrective lenses are medical appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33731110,07.1,,,Intraocular lenses are medical appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33731120,07.1,,,Spectacle lenses are medical appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33733000,buyer-dependent,,,"Sunglasses can be purchased for police, military, or general staff.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33734000,07.1,,,Spectacles are medical appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33734100,07.1,,,Frames for spectacles are parts of medical appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33734200,07.1,,,Glass for spectacles is a component of medical appliances.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33735000,buyer-dependent,,,Goggles are generic safety equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33735100,buyer-dependent,,,Protective goggles are generic safety equipment used across various government functions.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33740000,buyer-dependent,,,Hand and nail care products are generic hygiene supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33741000,buyer-dependent,,,Hand care products are generic hygiene supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33741100,buyer-dependent,,,Hand cleaner is a generic hygiene supply used in all facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33741200,buyer-dependent,,,Hand or body lotions are generic hygiene supplies.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33741300,buyer-dependent,,,Hand sanitizer is a generic hygiene supply used in all facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33750000,buyer-dependent,,,Baby care products can be for hospitals (07.3) or social care (10.4).,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33751000,buyer-dependent,,,"Disposable nappies are used in hospitals, nurseries, and elderly care.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33760000,buyer-dependent,,,Toilet paper and towels are generic supplies for all government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33761000,buyer-dependent,,,Toilet paper is a generic supply for all government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33763000,buyer-dependent,,,Paper hand towels are generic supplies for all government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33764000,buyer-dependent,,,Paper serviettes are generic supplies for all government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33770000,buyer-dependent,,,Sanitary paper is a generic supply for all government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33771000,buyer-dependent,,,Sanitary paper products are generic supplies for all government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33771100,buyer-dependent,,,Sanitary towels or tampons are generic supplies for various facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33771200,buyer-dependent,,,Paper napkin liners are generic supplies for all government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33772000,buyer-dependent,,,Disposable paper products are generic supplies for all government facilities.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33790000,buyer-dependent,,,"Laboratory glassware is used in health, education, and research facilities.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33792000,07.1,,,Pharmaceutical glassware is specifically for medical and pharmaceutical use.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33793000,buyer-dependent,,,"Laboratory glassware is used in health, education, and research facilities.",high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33900000,07.3,03.1,,Mortuary equipment is used in hospitals and forensic police departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33910000,07.3,03.1,,Pathology dissection instruments are used in hospitals and forensic police departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33912000,07.3,03.1,,Autopsy dissection kits are used in hospitals and forensic police departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33916000,07.3,03.1,,Autopsy saw blades are used in hospitals and forensic police departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33920000,07.3,03.1,,Autopsy equipment is used in hospitals and forensic police departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33922000,07.3,03.1,,Cadaver transport bags are used by hospitals and police services.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33924000,07.3,03.1,,Autopsy infectious disease kits are used in hospitals and forensic departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33926000,07.3,03.1,,Autopsy fluid collection equipment is used in hospitals and forensic departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33927000,07.3,03.1,,Post-mortem thermometers are used in hospitals and forensic police departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+33929000,07.3,03.1,,Cadaver tissue builder kits are used in hospitals and forensic departments.,high,gm_pro_v1_en,gemini,gemini-pro-latest,cpv_cofog_v1.md,en,0,2026-09-27 19:40
