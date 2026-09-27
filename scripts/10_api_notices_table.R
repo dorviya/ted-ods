@@ -2,8 +2,8 @@
 # columns as notice_cn/notice_can plus the text fields. One row per notice; lot-level fields kept as JSON text.
 source("R/packages.R"); options(width = 200)
 con <- dbConnect(duckdb())
-dbExecute(con, "CREATE MACRO fs(j, p) AS coalesce(json_extract_string(j, p || '[0]'), json_extract_string(j, p))")   -- first element or scalar
-dbExecute(con, "CREATE MACRO first_lang(j) AS fs(j, '$.' || json_keys(j)[1])")                                          -- value in the notice's language
+dbExecute(con, "CREATE MACRO fs(j, p) AS coalesce(json_extract_string(j, p || '[0]'), json_extract_string(j, p))")  # first element or scalar
+dbExecute(con, "CREATE MACRO first_lang(j) AS fs(j, '$.' || json_keys(j)[1])")  # value in the notice's language
 dbExecute(con, "CREATE TABLE cc (iso3 VARCHAR, iso2 VARCHAR); INSERT INTO cc VALUES
   ('AUT','AT'),('BEL','BE'),('BGR','BG'),('HRV','HR'),('CYP','CY'),('CZE','CZ'),('DNK','DK'),('EST','EE'),('FIN','FI'),('FRA','FR'),
   ('DEU','DE'),('GRC','GR'),('HUN','HU'),('IRL','IE'),('ITA','IT'),('LVA','LV'),('LTU','LT'),('LUX','LU'),('MLT','MT'),('NLD','NL'),
