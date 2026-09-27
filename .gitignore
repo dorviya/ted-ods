@@ -1,10 +1,12 @@
 # data lives in the bucket, never in git
 data/
+outputs/panel/*.parquet
 *.duckdb
 *.duckdb.wal
+# private working notes (the chat holds the copy)
+status.md
 # R, Python, editors
 .Rhistory
 .Rproj.user/
 __pycache__/
 .DS_Store
-*status.mdoutputs/panel/*.parquet
