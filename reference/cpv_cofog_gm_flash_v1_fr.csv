@@ -9676,3 +9676,523 @@ cpv,cofog_primary,cofog_secondary,secondary_condition,justification,confidence,r
 77310000,05.4,08.1,,Planting and maintaining green spaces supports urban landscapes and biodiversity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:23
 77311000,08.1,05.4,,Ornamental and pleasure gardens primarily serve public recreation and leisure.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:23
 77312000,05.4,04.5,,"Weed clearance maintains urban landscapes, public spaces, and road verges.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:23
+79342321,buyer-dependent,,,Loyalty programmes serve the specific public service operating them.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79342400,buyer-dependent,,,Auction services are used across various sectors to sell public assets.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79342410,buyer-dependent,,,Electronic auction services are used across sectors to procure or dispose.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79400000,buyer-dependent,,,Business and management consultancy is a generic operational service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79410000,buyer-dependent,,,Management consultancy is procured by all types of public authorities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79411000,buyer-dependent,,,General management consultancy serves the specific buyer's organizational needs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79411100,04.1,,,Business development consultancy typically supports commercial enterprise and economic growth.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79412000,buyer-dependent,,,Financial management consultancy is an administrative service for any public body.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79413000,buyer-dependent,,,Marketing consultancy depends on the function of the procuring entity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79414000,buyer-dependent,,,Human resources consultancy is a generic administrative input.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79415000,buyer-dependent,,,Production management advice depends on the procuring entity's operational domain.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79415200,buyer-dependent,,,Design consultancy is an administrative input serving diverse public sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79416000,buyer-dependent,,,Public relations services are contracted across all levels of government.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79416100,buyer-dependent,,,Public relations management depends on the procuring body's sector.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79416200,buyer-dependent,,,Public relations consultancy supports communications for any government entity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79417000,buyer-dependent,,,Safety consultancy typically addresses occupational or site safety across all sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79418000,buyer-dependent,,,Procurement consultancy is a generic administrative support service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79419000,buyer-dependent,,,Programme and policy evaluation consultancy is purchased across all domains.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79420000,buyer-dependent,,,Management-related services are generic administrative inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79421000,buyer-dependent,,,Non-construction project management services support projects in any government sector.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79421100,buyer-dependent,,,Project supervision services depend entirely on the nature of the project.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79421200,buyer-dependent,,,Project design services support initiatives across all public administration functions.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79422000,03.3,,,Arbitration and conciliation are dispute resolution mechanisms falling under law courts.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79430000,buyer-dependent,,,"Crisis management services address organizational, PR, or emergency sector-specific crises.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79500000,buyer-dependent,,,Office support services are generic administrative inputs across government.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79510000,buyer-dependent,,,Telephone-answering services are routine office services used by any agency.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79511000,buyer-dependent,,,Switchboard services are standard administrative inputs for any public office.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79512000,buyer-dependent,,,Call centres are operated across diverse public sectors for citizen interaction.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79520000,buyer-dependent,,,Reprographic services are routine operational overhead for any authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79521000,buyer-dependent,,,Photocopying is a standard office service used across all sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79530000,buyer-dependent,,,Translation services are generic support services procured by all institutions.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79540000,buyer-dependent,,,Interpretation services support multilingual needs across all public functions.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79550000,buyer-dependent,,,Typing and word-processing services are generic administrative inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79551000,buyer-dependent,,,Typing services are general office support functions.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79552000,buyer-dependent,,,Word-processing services are generic operational services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79553000,buyer-dependent,,,Desktop publishing services support administrative publishing across all departments.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79560000,buyer-dependent,,,Filing and archival support are routine administrative services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79570000,buyer-dependent,,,Mailing list and mail dispatch services are standard administrative inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79571000,buyer-dependent,,,Mailing services are common administrative services for all public bodies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79600000,buyer-dependent,,,Recruitment services are used by all government entities to hire staff.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79610000,buyer-dependent,,,General recruitment and placement services serve the hiring entity's functions.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79611000,04.1,10.5,,Job-search services support active labour market policies and employment facilitation.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79612000,buyer-dependent,,,Placement of office staff is an operational support service across government.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79613000,buyer-dependent,,,Employee relocation services support human resource functions across any contracting authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79620000,buyer-dependent,,,Temporary staffing and personnel supply depend on the contracting authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79621000,buyer-dependent,,,Office personnel supply is a generic administrative input.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79622000,10,,,Domestic help supply directly serves social protection for elderly or disabled.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79623000,buyer-dependent,,,Commercial or industrial workers supply depends on the specific public entity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79624000,07,,,Nursing staff supply provides operational clinical capacity in healthcare.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79625000,07,,,Medical personnel supply directly supports health and hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79630000,buyer-dependent,,,Personnel management is an internal operational support service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79631000,buyer-dependent,,,Personnel and payroll administration is generic across all public administrations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79632000,buyer-dependent,,,Staff training services are generic administrative inputs for any public authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79633000,buyer-dependent,,,Staff development services serve the internal HR needs of any agency.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79634000,04.1,09,,Career guidance commonly supports labour market policy and vocational education.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79635000,buyer-dependent,,,Assessment centres for recruitment are standard HR services for any sector.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79700000,buyer-dependent,03.1,,Investigation and security services typically provide facility protection across all agencies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79710000,buyer-dependent,,,General security services protect public buildings and assets across sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79711000,buyer-dependent,,,Alarm-monitoring services provide building security across all public bodies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79713000,buyer-dependent,,,Guard services provide generic physical security to public premises.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79714000,buyer-dependent,,,Surveillance services are generic inputs for site and asset protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79714100,buyer-dependent,03.1,,Tracking system services serve fleet management or security across departments.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79715000,buyer-dependent,,,Patrol services provide mobile guarding for property across public sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79716000,buyer-dependent,,,Identification badges are standard administrative access control tools.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79720000,buyer-dependent,,,"Investigation services serve various compliance, legal or fraud-prevention functions.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79721000,buyer-dependent,,,Detective agency services depend on the commissioning authority's purpose.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79723000,05.1,,,Waste analysis directly supports environmental waste management and compliance.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79800000,buyer-dependent,,,Printing services are generic administrative support services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79810000,buyer-dependent,,,Printing is a generic operational expenditure across government.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79811000,buyer-dependent,,,Digital printing services are general administrative inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79812000,01.1,,,Banknote printing is an exclusive monetary and central financial affairs activity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79820000,buyer-dependent,,,Print-related services are generic administrative inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79821000,buyer-dependent,,,Print finishing services support administrative publishing across any agency.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79821100,buyer-dependent,,,Proofreading is a generic administrative and publishing service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79822000,buyer-dependent,,,Composition services are general publishing inputs across public bodies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79822100,buyer-dependent,,,Plate-making services are technical printing inputs for any publishing purpose.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79822200,buyer-dependent,,,Photogravure services are technical pre-press services used across sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79822300,buyer-dependent,,,Typesetting services are standard administrative and publication inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79822400,buyer-dependent,,,Lithographic printing services serve general administrative and communication needs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79822500,buyer-dependent,,,Graphic design services support communication across all government branches.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79823000,buyer-dependent,,,Printing and delivery services are generic administrative support for any public body.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79824000,buyer-dependent,,,Printing and distribution services are generic administrative support for any public entity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79900000,buyer-dependent,,,Miscellaneous business and related services are generic administrative inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79910000,01.3,,,Management holding services relate to general administrative and financial management.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79920000,buyer-dependent,,,Packaging and related services are general support services across sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79921000,buyer-dependent,,,Packaging services are generic operational services depending on the buyer.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79930000,buyer-dependent,,,Design consultancy and modelling are generic services adaptable to many fields.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79931000,buyer-dependent,,,Interior decorating services can apply to any government facility or office.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79932000,buyer-dependent,,,"Interior design/architecture applies across public offices, schools, and cultural venues.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79933000,buyer-dependent,,,Design support services are general inputs used across various public bodies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79934000,buyer-dependent,,,Furniture design services depend on the facility and purchasing authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79940000,01.1,,,Collection agency services typically support public financial and fiscal revenue collection.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79941000,04.5,,,Toll collection services pertain to transport infrastructure and road operations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79950000,buyer-dependent,08.2,,Exhibitions and conferences are organized across all public sectors and missions.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79951000,buyer-dependent,,,Seminar organization is a generic administrative service for any public agency.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79952000,buyer-dependent,08.2,,Event organization services are general and used by all government entities.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79952100,08.2,,,Cultural events organization directly serves cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79953000,08.2,,,Festivals are typical cultural and recreational public events.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79954000,08.2,,,Party and celebration organization serves recreational and cultural public functions.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79955000,08.2,04.7,,"Fashion shows are cultural events, sometimes linked to textile trade promotion.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79956000,buyer-dependent,04.1,,Fairs and exhibitions can promote trade or serve sector-specific public policies.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79957000,01.3,,,Auction organisation services relate to public property disposal or general administration.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79960000,buyer-dependent,,,Photographic services are generic media services procured by various public entities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79961000,buyer-dependent,,,Photographic services are generic operational services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79961100,buyer-dependent,,,Advertising photography serves public communication across all governmental functions.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79961200,buyer-dependent,05.4,,"Aerial photography serves mapping, planning, forestry, transport, or environmental monitoring.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79961300,buyer-dependent,,,"Specialised photography serves varied scientific, technical, or administrative purposes.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79961320,buyer-dependent,05.4,,"Underwater photography is used in marine research, environmental monitoring, or civil engineering.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79961330,buyer-dependent,08.2,,Microfilming services are administrative or archive/library-related for document preservation.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79961340,buyer-dependent,,,"Non-medical radiography services for materials testing, security, or cultural heritage.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79961350,buyer-dependent,,,Studio photography is a generic service for communication across public sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79962000,buyer-dependent,,,Photograph development is a generic business service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79963000,buyer-dependent,08.2,"archive, museum, heritage, historical",Photograph restoration often serves archives and cultural heritage preservation.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79970000,buyer-dependent,08.3,,Publishing services are generic administrative outputs used across all government domains.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79971000,buyer-dependent,,,Bookbinding and finishing services are generic document processing services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79971100,buyer-dependent,,,Book finishing services are generic post-printing services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79971200,buyer-dependent,,,Bookbinding services are generic post-printing or archive services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79980000,buyer-dependent,,,"Subscription services (periodicals, data) depend entirely on the purchasing body.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79990000,buyer-dependent,,,Miscellaneous business services are generic overhead inputs for all buyers.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79991000,buyer-dependent,,,Stock control services are internal logistical operations common across public bodies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79992000,buyer-dependent,,,Reception and front-desk services support any public building or agency.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79993000,buyer-dependent,,,Building and facilities management services apply across all government departments.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79993100,buyer-dependent,,,Facilities management is a generic operational support service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79994000,buyer-dependent,,,Contract administration services can support any administrative function.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79995000,08.2,,,Library management services primarily support cultural institutions and facilities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79995100,01.3,,,Archiving services typically support central public administration records and archives.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79995200,08.2,01.3,,Cataloguing is typical for libraries and cultural collections or general archives.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79996000,buyer-dependent,,,Business and organizational consulting services serve varied public sector entities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79996100,buyer-dependent,01.3,,Records management is a generic back-office service for all departments.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79997000,buyer-dependent,,,Business travel management serves staff across all government sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79998000,buyer-dependent,,,Professional coaching or tutoring depends on the beneficiary department or group.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79999000,buyer-dependent,,,Scanning and billing are generic back-office administrative services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79999100,buyer-dependent,,,Document digitisation and scanning services support any public authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+79999200,buyer-dependent,,,Invoicing and billing services are generic administrative tasks.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80000000,09,,,General education and training services fall broadly under education.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80100000,09.1,,,Primary education services are classified under COFOG 09.1.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80110000,09.1,,,Pre-school education services belong to pre-primary education (09.1).,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80200000,09.2,,,Secondary education services fall directly under COFOG 09.2.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80210000,09.2,,,Technical and vocational secondary education belongs to COFOG 09.2.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80211000,09.2,,,Technical secondary education is classified under COFOG 09.2.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80212000,09.2,,,Vocational secondary education is classified under COFOG 09.2.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80300000,09.4,,,Higher education services are classified under COFOG 09.4.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80310000,09.5,10.4,,Youth education not definable by level belongs to 09.5.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80320000,09.4,07,,Medical education is tertiary-level training serving the healthcare sector.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80330000,buyer-dependent,03,,Safety training can be occupational across sectors or specific to public safety.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80340000,09.5,,,Special education programmes for individuals with specific needs fall under 09.5.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80400000,09.5,,,Adult and other education not definable by level corresponds to 09.5.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80410000,09.6,,,Miscellaneous school services typically represent subsidiary services to education.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80411000,09.5,04.5,,"Driving schools provide vocational and adult training, linked to road transport.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80411100,04.5,09.5,,Driving tests are typically part of public road transport regulation and licensing.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80411200,09.5,04.5,,"Driving lessons constitute adult training, categorized under 09.5.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80412000,09.5,04.5,,Aviation flight training belongs to specialized/adult education and air transport.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80413000,09.5,08.1,,Sailing instruction combines non-formal education with sporting and recreational services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80414000,09.5,08.1,,Diving schools provide sporting instruction classified under education not defined by level.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80415000,09.5,08.1,,Ski schools provide sport instruction under education not definable by level.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80420000,09.5,,,E-learning services generally provide adult education or general distance teaching.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80430000,09.4,09.5,,University-level adult education directly corresponds to tertiary education.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80490000,09.6,09.5,,Operating an educational centre is a subsidiary service to education.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80500000,buyer-dependent,,,Staff training services reflect the operational mission of the contracting authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80510000,buyer-dependent,,,Specialist staff training serves the specific remit of the contracting buyer.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+80511000,buyer-dependent,,,Staff training serves the operational function of the employing public authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80512000,buyer-dependent,03.1,"police, customs","Dog training may serve police, rescue, social assistance, or park rangers.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80513000,08.1,,,Riding school services are primarily recreational and sporting activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80520000,buyer-dependent,,,Training facilities serve the specific public body hiring or operating them.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80521000,buyer-dependent,,,Training programme development depends on the purchasing entity's functional mandate.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80522000,buyer-dependent,,,Training seminars can cover any topic across various government sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80530000,09.5,10.5,"unemployed, jobseeker",Vocational training is education not definable by level or active labour policy.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80531000,09.5,,,Industrial and technical training is part of vocational continuing education.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80531100,09.5,,,Industrial training falls under vocational education and training.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80531200,09.5,,,Technical training services fall under adult and vocational education.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80532000,buyer-dependent,,,Management training is generic professional development for public administration staff.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80533000,buyer-dependent,,,Generic IT user training depends on the contracting authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80533100,buyer-dependent,,,Computer training services are general-purpose operational training for personnel.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80533200,buyer-dependent,09.5,,Computer courses are purchased for internal staff or general adult education.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80540000,05,09.5,,Environmental training services directly support environmental protection awareness and skills.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80550000,buyer-dependent,03,,Workplace and operational safety training serves various contracting bodies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80560000,07.4,09.5,,Health and first-aid training services support public health capabilities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80561000,07.4,09.5,,Health training services primarily advance public health and healthcare workforce.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80562000,07.4,,,First-aid training promotes public health and emergency response skills.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80570000,buyer-dependent,,,Personal development training is generic staff training across public bodies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80580000,09.5,buyer-dependent,,Language courses represent non-level-defined education or general civil servant training.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80590000,09.6,,,Tutorial services are subsidiary educational support services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80600000,02.1,03.1,,Training on military and security equipment primarily serves armed forces.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80610000,03.1,02.1,,Security equipment training typically serves police and law enforcement authorities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80620000,02.1,03.1,,Firearms and ammunition training is primarily defence and police training.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80630000,02.1,,,Military vehicle training directly serves national military defence.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80640000,02.1,,,Warship simulation and training directly serve naval military defence.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80650000,02.1,,,Military aircraft and missile training serves military defence.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+80660000,02.1,,,Military electronic systems training serves military defence operations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85000000,07,10,,Encompasses both health services and social protection work.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85100000,07,,,Broad health services category falls under health.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85110000,07.3,,,Hospital and related services fall directly under hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111000,07.3,,,Hospital services are classified under COFOG hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111100,07.3,,,Surgical hospital services are general and specialized hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111200,07.3,,,Inpatient and hospital medical services fall under hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111300,07.3,,,Gynaecological hospital services are specialised hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111310,07.3,,,In vitro fertilisation is specialized medical hospital/outpatient care.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111320,07.3,,,Obstetrical hospital services are specialised hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111400,07.3,,,Hospital rehabilitation services fall under hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111500,07.3,,,Psychiatric hospital services fall under specialized hospital services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111600,07.2,,,Orthotic services are specialized outpatient paramedical healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111700,07.2,,,Oxygen therapy provides specialized medical outpatient treatment.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111800,07.2,,,Pathology laboratory testing forms part of outpatient diagnostic services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111810,07.2,,,Blood testing services are diagnostic laboratory outpatient services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111820,07.2,,,Bacteriological analysis is an outpatient medical diagnostic laboratory service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85111900,07.3,,,Hospital dialysis is provided within specialized hospital healthcare facilities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85112000,07.3,,,Hospital support services directly sustain inpatient hospital operations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85112100,07.3,,,Hospital bed services support inpatient hospital care accommodations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85112200,07.2,,,Outpatient care services provide non-inpatient medical treatments.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85120000,07.2,,,Medical practice services are core outpatient healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121000,07.2,,,General and specialized medical practice falls under outpatient health services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121100,07.2,,,General practitioner services correspond to general outpatient medical care.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121200,07.2,,,Specialist medical practice provides specialized outpatient healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121210,07.2,,,Gynecological and obstetric consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121220,07.2,,,Nephrologist and neurologist services are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121230,07.2,,,Cardiology and pulmonology consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121231,07.2,,,Cardiologist consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121232,07.2,,,Pulmonologist services are specialized outpatient medical consultations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121240,07.2,,,ENT and audiologist consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121250,07.2,10.2,geriatric,Gastroenterologist and geriatrician care provides specialized outpatient health.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121251,07.2,,,Gastroenterologist consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121252,07.2,10.2,,Geriatric medical consultations provide specialized outpatient care for the elderly.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121270,07.2,,,Psychiatrist and psychologist services are outpatient mental health consultations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121271,07.2,10.1,,Home mental health care combines outpatient health with social disability protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121280,07.2,,,"Ophthalmology, dermatology, and orthopaedic care are specialized outpatient services.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121281,07.2,,,Ophthalmologist consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121282,07.2,,,Dermatologist consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121283,07.2,,,Orthopaedic consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121290,07.2,,,Paediatric and urology consultations are specialized outpatient medical care.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121291,07.2,10.4,,Paediatric services provide specialized outpatient medical care for children.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121292,07.2,,,Urologist consultations are specialized outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85121300,07.2,07.3,"hospital, inpatient",Surgical specialist services cover specialized outpatient and inpatient surgical care.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85130000,07.2,,,Dental services are outpatient dental healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85131000,07.2,,,Dental practice services correspond directly to outpatient dental services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85131100,07.2,,,Orthodontic services are specialized outpatient dental healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85131110,07.2,,,Orthodontic-surgical services are specialized outpatient dental treatments.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85140000,07.2,,,Miscellaneous health services generally provide outpatient or paramedical care.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85141000,07.2,,,Services provided by medical personnel deliver outpatient medical care.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85141100,07.2,,,Midwife services constitute specialized paramedical outpatient healthcare.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85141200,07.2,,,Nursing services are outpatient paramedical healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85141210,07.2,10.1,,Home medical care services provide outpatient healthcare at home.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85141211,07.2,,,Home dialysis and medical treatments are specialized outpatient healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85141220,07.2,,,Advisory services provided by nurses fall under outpatient medical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85142000,07.2,,,Paramedical services provide non-physician outpatient medical care.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85142100,07.2,,,Physiotherapy services are outpatient medical therapies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85142300,07.4,,,Hygiene services in a health context concern public health measures.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85142400,10.1,10.2,,Incontinence supplies support disabled or elderly individuals living at home.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85143000,07.2,,,Ambulance services are classified under outpatient healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85144000,07.2,10.2,,Non-hospital healthcare facility services provide outpatient or community medical care.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85144100,10.2,07.3,,Nursing home residential care primarily serves old age social protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85145000,07.2,,,Medical laboratory services provide diagnostic support for healthcare.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85146000,07.4,07.3,,Blood bank operations fall under public health services and hospital support.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85146100,07.2,,,Sperm bank services support specialized outpatient reproductive healthcare.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85146200,07.3,07.2,,Organ bank services directly support surgical and hospital transplantation services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85147000,04.1,07.4,,Occupational health services concern general labour protection and public health.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85148000,07.2,,,Medical analysis services provide clinical testing for healthcare.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85149000,07.1,07.2,,Pharmacy services dispense medical products and pharmaceuticals.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85150000,07.2,07.3,,Medical imaging services are clinical diagnostic health services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85160000,07.2,07.1,,Opticians provide vision examinations and outpatient corrective services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85170000,07.2,,,Acupuncture and chiropractic services are outpatient medical therapies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85172000,07.2,,,Chiropractic services are outpatient paramedical healthcare services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85200000,04.2,07.4,,"Veterinary services primarily support agriculture, livestock, and zoonotic control.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85210000,04.2,,,Pet and animal boarding services fall under veterinary and agricultural services.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85300000,10,,,Social work and related services fall directly under social protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85310000,10,,,Social work services are central to social protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85311000,10,,,Social work services with accommodation provide residential social protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85311100,10.2,,,Welfare services specifically directed to the elderly.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85311200,10.1,,,Welfare services specifically dedicated to persons with disabilities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85311300,10.4,,,Welfare services specifically directed to children and youth.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312000,10,,,Non-residential social work services are part of social protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312100,10,,,Daycare centre services support social welfare across various beneficiary groups.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312110,10.4,09.1,,Child daycare and crèche services fall under family and child social protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312120,10.1,10.4,,Daycare services for disabled children and youth support disability welfare.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312200,10.2,10.1,,Home delivery of provisions (meals on wheels) supports vulnerable or elderly.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312300,10.7,04.1,,Guidance and counselling services support social inclusion and employment.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312310,10.7,04.1,,Guidance services assist with social integration and vocational pathways.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312320,10.7,04.1,,"Counselling services address social, psychological, or career support needs.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312330,07.4,10.4,,Family planning centres and services are classified under public health.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312400,10,,,Non-residential welfare services provide community-based social protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312500,10.1,10.7,,Rehabilitation services in social work support disability and social integration.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85312510,10.1,04.1,,Vocational rehabilitation services support individuals with disabilities or sickness entering employment.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85320000,10,,,Social services fall squarely under COFOG 10 Social protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85321000,10,,,Administrative social services fall under social protection administration.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85322000,06.2,10,,Community action programmes focus on community development and local social support.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+85323000,10.1,07.2,,Medico-social services combine social protection with outpatient health care.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90000000,05,,,"Sewage, refuse, and environmental sanitation services fall under environmental protection.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90400000,05.2,,,Sewage services correspond directly to wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90410000,05.2,,,Sewage collection services are a component of wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90420000,05.2,,,Sewage treatment services are part of wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90430000,05.2,,,Sewage disposal services fall under wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90440000,05.2,,,Cesspool treatment services belong to wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90450000,05.2,,,Septic tank treatment services belong to wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90460000,05.2,,,Emptying of cesspools and septic tanks is wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90470000,05.2,,,Sewer cleaning services maintain wastewater management infrastructure.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90480000,05.2,,,Sewerage management services are part of wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90481000,05.2,,,Operation of a sewage plant is core wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90490000,05.2,,,Sewer survey and wastewater consultancy services relate to wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90491000,05.2,,,Sewer survey services pertain to wastewater management systems.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90492000,05.2,,,Sewage treatment consultancy services belong to wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90500000,05.1,,,Refuse and waste related services fall under waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90510000,05.1,,,Refuse disposal and treatment services are part of waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90511000,05.1,,,Refuse collection services fall under waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90511100,05.1,,,Urban solid-waste collection is municipal waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90511200,05.1,,,Household refuse collection falls under waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90511300,05.1,,,Litter collection services are part of waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90511400,05.1,,,Paper collection services are part of waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90512000,05.1,,,Refuse transport services fall under waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513000,05.1,,,Treatment and disposal of non-hazardous waste is waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513100,05.1,,,Household-refuse disposal services belong to waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513200,05.1,,,Urban solid-waste disposal services belong to waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513300,05.1,04.3,"energy, heat, power","Refuse incineration is waste management, sometimes with energy recovery.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513400,05.1,,,Ash disposal services are part of waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513500,05.1,05.2,,Treatment and disposal of liquid waste falls under waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513600,05.1,05.2,,Sludge disposal services relate to waste and wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513700,05.1,05.2,,Sludge transport services fall under waste and wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513800,05.1,05.2,,Sludge treatment services fall under waste and wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90513900,05.1,05.2,,Sludge removal services relate to waste and wastewater management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90514000,05.1,,,Refuse recycling services belong to waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90520000,05.1,05.3,,Hazardous waste services fall under waste management and pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521000,05.1,05.3,,Radioactive waste treatment is specialized waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521100,05.1,,,Collection of radioactive waste falls under hazardous waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521200,05.1,04.3,nuclear,Storage of radioactive waste is primarily waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521300,05.1,,,Disposal of radioactive waste relates directly to waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521400,05.1,,,Transport of radioactive waste is part of hazardous waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521410,05.1,,,Transport of low-level radioactive waste falls under waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521420,05.1,,,Transport of intermediate-level radioactive waste is waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521500,05.1,,,Packaging or containers for radioactive waste relate to waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521510,05.1,,,Packaging of low-level radioactive waste falls under waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90521520,05.1,,,Packaging of intermediate-level radioactive waste belongs to waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90522000,05.3,05.1,,Treatment and handling of contaminated soil is soil pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90522100,05.3,05.1,,Removal of contaminated soil is pollution abatement and waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90522200,05.1,05.3,,Disposal of contaminated soil is primarily hazardous waste disposal.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90522300,05.3,05.1,,Contaminated soil treatment focuses on soil decontamination and pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90522400,05.3,,,Soil cleaning and remediation is pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90523000,05.1,,,Toxic waste disposal is standard hazardous waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90523100,02.1,03.1,police,Disposal of weapons and ammunition typically serves defence or police forces.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90523200,03.1,02.1,"military, defence",Bomb disposal is primarily a public order/police function or military defence.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90523300,02.1,03.1,"police, civilian",Mine clearance is predominantly a military defence or civil security task.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90524000,05.1,07.3,,Medical waste services are waste management generated by healthcare facilities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90524100,05.1,07.3,,Collection of hospital waste is hazardous waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90524200,05.1,07.3,,Disposal of hospital waste is hazardous waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90524300,05.1,07.3,,Biological waste removal is specialized waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90524400,05.1,07.3,,"Hospital waste collection, transport, and disposal is waste management.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90530000,05.1,,,Landfill operation is direct waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90531000,05.1,,,Controlled landfill management services belong to waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90532000,05.1,04.3,,Colliery waste tip management handles mining waste and pollution mitigation.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90533000,05.1,,,Waste-tip management services fall squarely under waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90600000,05.1,,,Urban and rural cleaning and sanitation are waste management activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90610000,05.1,04.5,,Street cleaning and sweeping fall under waste management and road maintenance.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90611000,05.1,04.5,,Street-cleaning services are part of municipal waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90612000,05.1,04.5,,Street-sweeping services fall under municipal waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90620000,04.5,,,Snow-clearing services maintain transport networks operational and safe.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90630000,04.5,,,De-icing services are part of road and transport safety and maintenance.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90640000,05.2,04.5,,"Gully cleaning and emptying maintains drainage, classified under wastewater management.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90641000,05.2,04.5,,Gully-cleaning services maintain stormwater drainage infrastructure.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90642000,05.2,04.5,,Gully-emptying services are part of wastewater drainage management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90650000,05.3,05.1,,Asbestos removal is pollution abatement and hazardous waste handling.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90660000,05.3,05.1,,Lead removal services target pollution abatement and hazardous waste removal.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90670000,07.4,05.1,,Urban and rural disinfection and pest control serve public health protection.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90680000,05.1,08.1,,Beach cleaning is environmental waste management often supporting recreational areas.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+90690000,05.1,06,,Graffiti removal is an aspect of urban street cleaning and waste management.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90700000,05,,,General environmental services map directly to environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90710000,05,,,Environmental management services directly serve environmental protection policy.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90711000,05,,,Environmental impact assessments support environmental protection objectives.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90711100,05,,,Environmental risk and hazard assessments fall under environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90711200,05,,,Environmental standards services directly pertain to environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90711300,05,,,Monitoring environmental indicators supports environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90711400,05,,,Environmental impact assessment services fall directly under environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90711500,05,,,Environmental monitoring services fall under environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90712000,05,,,Environmental planning services directly support environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90712100,05,06,,Urban environmental improvement planning serves environmental protection and community development.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90712200,05.4,04,,Forest conservation strategies serve biodiversity protection and forestry policy.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90712300,05.4,,,Marine conservation strategy serves biodiversity and landscape protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90712400,05.4,,,Natural resource management and conservation strategy directly protects biodiversity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90712500,05,,,Planning environmental institutions directly supports environmental protection governance.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90713000,05,,,Environmental consultancy services directly serve environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90713100,05.2,06,,Wastewater and water consultancy serves wastewater management and water supply.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90714000,05,,,Auditing compliance with environmental standards serves environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90714100,05,01,,Environmental information systems support environmental policy and data administration.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90714200,05,,,Corporate environmental auditing falls under environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90714300,05,,,Sectoral environmental auditing falls under environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90714400,05,,,Activity-specific environmental audits serve environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90714500,05,,,Environmental quality control directly serves environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90714600,05,,,Environmental safety control directly serves environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715000,05.3,,,Pollution investigation directly falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715100,05.3,,,Investigation of chemical and oil spills serves pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715200,05.3,,,Pollution investigation services directly support pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715210,05.3,,,Pollution investigation at oil sites supports pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715220,05.3,,,Industrial site pollution investigations support pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715230,05.1,05.3,,Industrial waste site investigations concern waste management and pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715240,05.3,,,Timber processing site pollution investigations support pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715270,05.1,,,Recycling site investigations directly relate to waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90715280,05.3,,,Pollution investigation at food processing sites supports pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90720000,05,,,Core environmental protection services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721000,05,,,Environmental safety services directly serve environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721100,05.4,,,Landscape protection directly corresponds to protection of biodiversity and landscape.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721200,05.3,,,Ozone layer protection falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721300,07.4,05,,Food and feed contamination protection primarily serves public health safety.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721400,05.4,,,Protection of genetic resources is part of biodiversity conservation.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721500,05.3,,,Protection against toxic substances directly serves pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721600,05.3,05.6,,Radiation protection services aim at pollution abatement and environmental protection.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721700,05.4,,,Protection of endangered species falls under protection of biodiversity and landscape.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90721800,05.4,02.2,,Natural risk and hazard protection relates to environmental protection and civil protection.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90722000,05.3,05.4,,Environmental rehabilitation services focus on pollution abatement and habitat restoration.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90722100,05.3,,,Industrial site rehabilitation targets soil and environmental decontamination.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90722200,05.3,,,Environmental decontamination services directly mitigate pollution.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90722300,05.3,04.2,,Land reclamation and soil development services restore degraded land.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90730000,05.3,,,"Pollution research, monitoring and rehabilitation fall under pollution abatement.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731000,05.3,,,Air pollution services are categorized under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731100,05.3,,,Air quality management directly pertains to pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731200,05.3,,,Transboundary air pollution control is part of pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731210,05.3,,,Purchase of carbon emission credits is an air pollution abatement mechanism.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731300,05.3,,,Air pollution protection services fall under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731400,05.3,,,Air pollution monitoring and measurement services belong to pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731500,05.3,03.2,,Toxic gas detection services relate to environmental pollution and public safety.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731600,05.3,,,Methane monitoring services belong under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731700,05.3,,,Carbon dioxide monitoring services belong to pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90731800,05.3,,,Atmospheric particulate monitoring is a pollution abatement service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732000,05.3,,,Soil pollution services are categorized under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732100,05.3,,,Protection against soil pollution falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732200,05.3,05.1,,Removal of polluted soil is pollution abatement involving waste management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732300,05.3,,,Treatment and remediation of contaminated soil falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732400,05.3,,,Consultancy services for soil pollution fall under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732500,05.3,,,Soil pollution mapping relates to pollution monitoring and abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732600,05.3,,,Soil pollution measurement and monitoring falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732700,05.3,04.2,,Organic fertilizer pollution assessment concerns environmental pollution abatement and agriculture.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732800,05.3,04.2,,Pesticide pollution assessment pertains to pollution abatement and agriculture.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732900,05.3,04.2,,Nitrate and phosphate assessment relates to soil/water pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732910,05.3,04.2,,Nitrate pollution assessment relates directly to pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90732920,05.3,04.2,,Phosphate pollution assessment relates directly to pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733000,05.3,05.2,,Water pollution services fall under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733100,05.3,,,Surface water pollution monitoring and control falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733200,05.3,,,Surface water remediation services are part of pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733300,05.3,,,Surface water pollution protection services relate directly to pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733400,05.3,05.2,,Surface water treatment for pollution falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733500,05.3,,,Surface water pollution drainage services mitigate aquatic pollution.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733600,05.3,,,Transboundary water pollution management falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733700,05.3,06.3,,Groundwater pollution monitoring targets environmental protection and water resources.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733800,05.3,,,Groundwater pollution drainage services fall under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90733900,05.3,06.3,,Groundwater remediation and treatment falls under pollution abatement.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+90740000,05.3,,,"Tracking, monitoring, and rehabilitation of pollutants directly concerns pollution abatement.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111200,buyer-dependent,08.3,,"Publicity, promotional, and information videos are commissioned across all public sectors.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111210,buyer-dependent,08.3,,Advertising film production is commissioned across all government departments.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111220,buyer-dependent,08.3,,Advertising video production is commissioned across all government departments.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111240,buyer-dependent,08.3,,Promotional and propaganda videos are commissioned according to government department needs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111250,buyer-dependent,08.3,,Information films serve communication needs across various public administrative sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111260,buyer-dependent,08.3,,Information videos serve communication needs across various public administrative sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111300,08.2,08.3,,Production of entertainment films and videos falls under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111310,08.2,08.3,,Entertainment film production falls under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92111320,08.2,08.3,,Entertainment video production falls under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92112000,08.2,08.3,,Film and video production support services support cultural and audiovisual activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92120000,08.2,,,Film and video distribution services relate to cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92121000,08.2,,,Video distribution services support cultural dissemination.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92122000,08.2,,,Motion picture distribution services support cultural dissemination.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92130000,08.2,,,Motion picture projection services are part of cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92140000,08.2,,,Video projection services are typically used for cultural events and screenings.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92200000,08.3,,,Radio and television services belong to broadcasting services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92210000,08.3,,,Radio services are classified under broadcasting services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92211000,08.3,,,Radio production services directly serve radio broadcasting.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92213000,08.3,,,Small-scale radio broadcasting systems relate to broadcasting services.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92214000,08.3,,,Radio studio and equipment services relate to broadcasting.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92215000,buyer-dependent,04.6,,Two-way mobile radio services are communication tools used across many sectors.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92217000,buyer-dependent,04.6,,Two-way mobile radio services are communication tools used across many sectors.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92220000,08.3,,,Television services are part of broadcasting and publishing services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92221000,08.3,,,Television production services directly fall under broadcasting services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92222000,buyer-dependent,03,,Closed circuit television (CCTV) services are generic security tools across sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92224000,08.3,,,Digital television services fall under broadcasting services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92225000,08.3,,,Interactive television services fall under broadcasting services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92225100,08.3,08.2,,Video-on-demand services relate to audiovisual broadcasting and cultural distribution.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92230000,08.3,,,Cable radio and television services fall under broadcasting services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92231000,buyer-dependent,04.6,,Private leased circuits are telecommunications connectivity procured by diverse public bodies.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92232000,08.3,,,Cable television services fall under broadcasting services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92300000,08.2,,,Entertainment services are classified under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92310000,08.2,,,Artistic and literary creation and interpretation services are cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92311000,08.2,,,Works of art are cultural assets falling under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92312000,08.2,,,Artistic services fall directly under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92312100,08.2,,,Theatrical and musical performance services fall under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92312110,08.2,,,Theatrical director services fall directly under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92312120,08.2,,,Choral entertainment services fall under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92312130,08.2,,,Musical group entertainment services fall under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+92312140,08.2,,,Live orchestral performances provide cultural and musical services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312200,08.2,,,Artistic and authorial creations directly serve cultural purposes.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312210,08.2,,,Literary and authorship services are cultural creations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312211,buyer-dependent,,,Writing agency and copywriting services support diverse public sector communications.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312212,09,,,Preparation of training manuals directly supports educational and training activities.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312213,buyer-dependent,,,Technical writing is a generic documentation service used across all sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312220,08.2,,,Music composition services fall directly under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312230,08.2,,,Sculpting is a fine arts cultural service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312240,08.2,,,Performers and artistic services provide cultural entertainment.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312250,08.2,,,Individual artists provide cultural and artistic creations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92312251,08.2,,,Disc jockey services provide entertainment and cultural musical performances.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92320000,08.2,,,Operation of arts and performance facilities directly delivers cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92330000,08.1,,,Recreational areas provide public recreational and sporting amenities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92331000,08.1,,,Fairs and amusement parks deliver recreational services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92331100,08.1,,,Fairground services provide recreational entertainment for the public.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92331200,08.1,,,Amusement park services deliver recreational amenities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92331210,08.1,,,Children's entertainment provides recreational activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92332000,08.1,,,Public beach services provide recreation amenities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92340000,08.2,,,Dance and entertainment services constitute cultural activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92341000,08.2,,,Circus services are performing arts under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92342000,08.2,09.5,,Dance instruction serves cultural recreation as well as informal education.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92342100,08.2,09.5,,Ballroom dance tuition provides cultural recreation and recreational learning.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92350000,08.1,,,Gambling and betting activities are categorized under recreational services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92351000,08.1,,,Gambling services fall under recreational activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92351100,08.1,,,Lottery operations are classified under recreational and gambling services.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92351200,08.1,,,Casino management services belong to recreational gambling activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92352000,08.1,,,Betting services form part of recreational activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92360000,08.2,,,Pyrotechnic displays are typically commissioned for cultural and civic celebrations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92370000,08.2,,,Sound technician services support cultural events and performing arts.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92400000,08.3,,,News-agency services fall directly under broadcasting and publishing services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92500000,08.2,,,"Libraries, archives, and museums are primary cultural facilities in COFOG.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92510000,08.2,,,Library and archive services belong to cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92511000,08.2,,,Public library services are specifically classified under cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92512000,08.2,,,Archival administration and preservation are part of cultural heritage services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92512100,buyer-dependent,,,Secure destruction of records is a generic administrative operational service.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92520000,08.2,,,Museum and historic site preservation directly delivers cultural heritage services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92521000,08.2,,,Museum operations are explicitly defined within cultural services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92521100,08.2,,,Museum exhibitions provide cultural services to the public.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92521200,08.2,,,Conservation of exhibits and specimens protects cultural and scientific heritage.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92521210,08.2,,,Preservation of museum exhibits serves cultural heritage maintenance.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39

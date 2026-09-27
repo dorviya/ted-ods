@@ -6479,3 +6479,203 @@ cpv,cofog_primary,cofog_secondary,secondary_condition,justification,confidence,r
 45216122,07,,,Ambulance stations are part of health services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:24
 45216123,03,,,Mountain rescue falls under public order and safety (rescue services).,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:24
 45216125,03,,,Emergency services buildings fall under public order and safety.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:24
+45216126,03,,,Coastguard services are typically classified under public order and safety.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45216127,03.2,,,Rescue-service stations are facilities for fire-protection and rescue services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45216128,04.5,,,Lighthouses are infrastructure for maritime transport safety.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45216129,02.2,,,Protective shelters are typically constructed for civil defence purposes.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45216200,02.1,,,Military buildings and installations serve military defence purposes.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45216230,02.1,,,Military shelters serve military defence purposes.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45217000,buyer-dependent,,,Inflatable buildings can be used for various purposes depending on the buyer.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45220000,buyer-dependent,,,General engineering and construction works depend on the specific project and buyer.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221000,04.5,,,"Bridges, tunnels, shafts, and subways are primarily transport infrastructure.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221100,04.5,,,Bridges are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221110,04.5,,,Bridges are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221111,04.5,,,Road bridges are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221112,04.5,,,Railway bridges are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221113,04.5,,,Footbridges are transport infrastructure for pedestrians.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221114,04.5,,,Iron bridges are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221115,04.5,,,Steel bridges are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221117,04.5,,,Weighbridges are typically used for road transport and freight monitoring.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221118,04.5,,,Pipeline-carrying bridges support pipeline transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221119,04.5,,,Bridge renewal is maintenance of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221120,04.5,,,Viaducts are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221121,04.5,,,Road viaducts are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221122,04.5,,,Railway viaducts are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221200,04.5,,,"Tunnels, shafts, and subways are primarily transport infrastructure.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221210,04.5,,,Covered excavations are typically for transport infrastructure like cut-and-cover tunnels.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221211,04.5,,,Underpasses are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221213,04.5,,,Railway excavations are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221220,04.5,,,"Culverts allow water to flow under roads or railways, supporting transport infrastructure.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221230,buyer-dependent,,,"Shafts can be for transport tunnels, mining, or utilities.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221240,04.5,,,Tunnels are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221241,04.5,,,Road tunnels are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221242,04.5,,,Railway tunnels are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221243,04.5,,,Pedestrian tunnels are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221244,04.5,,,Canal tunnels are inland waterway transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221245,04.5,,,Under-river tunnels are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221246,04.5,,,Undersea tunnels are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221247,04.5,,,Tunnelling works are primarily for transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221248,04.5,,,Tunnel linings are part of transport infrastructure construction.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45221250,buyer-dependent,,,Underground work can serve various purposes depending on the buyer.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45222000,buyer-dependent,,,General engineering works depend on the specific project and buyer.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45222100,05.1,,,Waste-treatment plants are for waste management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:36
+45222110,05.1,,,Waste disposal sites are directly related to waste management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45222200,02.1,,,Military installations are exclusively for military defence purposes.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45222300,buyer-dependent,,,"Security installations can be for prisons, police, military, or general government buildings.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223000,buyer-dependent,,,Structures construction work depends entirely on the purpose of the structure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223100,buyer-dependent,,,Assembly of metal structures depends on the final use of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223110,buyer-dependent,,,Installation of metal structures depends on the final use of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223200,buyer-dependent,,,Structural works depend on the specific building or infrastructure being constructed.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223210,buyer-dependent,,,Structural steelworks depend on the specific building or infrastructure being constructed.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223220,buyer-dependent,,,Structural shell work depends on the specific building or infrastructure being constructed.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223300,04.5,,,Parking lots are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223310,04.5,,,Underground car parks are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223320,04.5,,,Park-and-ride facilities are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223400,buyer-dependent,,,"Radar stations can be for air traffic control, military, or weather monitoring.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223500,buyer-dependent,,,Reinforced-concrete structures depend on the specific building or infrastructure being constructed.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223600,buyer-dependent,,,"Dog kennels can be for police, military, or municipal animal shelters.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223700,04.5,,,Service areas are road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223710,04.5,,,Motorway service areas are road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223720,04.5,,,Petrol stations are road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223800,buyer-dependent,,,Prefabricated structures depend on the final use of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223810,buyer-dependent,,,Prefabricated constructions depend on the final use of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223820,buyer-dependent,,,Prefabricated units and components depend on the final use of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223821,buyer-dependent,,,Prefabricated units depend on the final use of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45223822,buyer-dependent,,,Prefabricated components depend on the final use of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45230000,buyer-dependent,,,"Covers multiple types of infrastructure (transport, energy, communication).",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231000,buyer-dependent,,,"Covers multiple types of pipelines and lines (energy, communication, water).",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231100,buyer-dependent,,,"Pipelines can be for water, sewage, oil, or gas.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231110,buyer-dependent,,,Pipelaying depends on the substance being transported.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231111,buyer-dependent,,,Pipeline lifting and relaying depends on the substance being transported.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231112,buyer-dependent,,,Installation of pipe systems depends on the substance being transported.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231113,buyer-dependent,,,Pipeline relaying works depend on the substance being transported.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231200,04.3,,,Oil and gas pipelines are fuel and energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231210,04.3,,,Oil pipelines are fuel and energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231220,04.3,,,Gas pipelines are fuel and energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231221,04.3,,,Gas supply mains are fuel and energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231222,04.3,,,Gasholders are fuel and energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231223,04.3,,,Gas distribution ancillary work is fuel and energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231300,buyer-dependent,,,"Water pipelines are 06.3, while sewage pipelines are 05.2.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231400,04.3,,,Electricity power lines are fuel and energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231500,buyer-dependent,,,Compressed-air pipelines depend on the facility they are installed in.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231510,buyer-dependent,,,"Mailing systems (pneumatic tubes) are used in hospitals, offices, and other facilities.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45231600,04.6,,,Construction of communication lines falls under communication affairs.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232000,buyer-dependent,,,"Pipelines and cables can serve water, energy, or communication purposes depending on the buyer.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232100,06.3,,,Water pipelines are infrastructure for water supply.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232120,04.2,,,Irrigation works primarily serve agricultural purposes.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232121,04.2,,,Irrigation piping is constructed for agricultural water distribution.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232130,05.2,,,Storm-water piping is part of wastewater and drainage management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232140,04.3,,,District-heating mains are infrastructure for fuel and energy distribution.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232141,04.3,,,Heating works relate to energy supply and distribution.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232142,04.3,,,Heat-transfer stations are part of energy distribution networks.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232150,06.3,,,Water-distribution pipelines are core to water supply services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232151,06.3,,,Refurbishment of water mains falls under water supply infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232152,06.3,05.2,"sewage, wastewater",Pumping stations in this group typically serve water supply networks.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232153,06.3,,,Water towers are built for water supply and storage.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232154,06.3,,,Elevated tanks for drinking water are direct water supply infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232200,04.3,,,Electricity power lines are part of the energy distribution grid.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232210,04.3,,,Overhead lines are typically for electricity transmission.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232220,04.3,,,Substations are key components of electrical energy networks.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232221,04.3,,,Transformer substations are used in electricity distribution.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232300,04.6,,,Telephone and communication lines fall under communication affairs.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232310,04.6,,,Telephone lines are communication infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232311,04.5,04.6,,Roadside emergency telephones are primarily road transport safety infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232320,08.3,,,Cable broadcasting lines serve broadcasting and publishing services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232330,04.6,08.3,"broadcasting, radio, television",Aerials are used for telecommunications and broadcasting.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232331,08.3,,,Broadcasting works fall under broadcasting and publishing services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232332,04.6,,,Telecommunications works are classified under communication affairs.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232340,04.6,,,Mobile-telephone base-stations are communication infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232400,05.2,,,Sewer construction is part of waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232410,05.2,,,Sewerage work is classified under waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232411,05.2,,,Foul-water piping is for waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232420,05.2,,,Sewage work is directly related to waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232421,05.2,,,Sewage treatment works are core to waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232422,05.2,,,Sludge-treatment is a component of waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232423,05.2,,,Sewage pumping stations are part of waste water infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232424,05.2,,,Sewage outfalls are constructed for waste water disposal.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232430,06.3,05.2,"wastewater, sewage",Water treatment typically refers to drinking water purification.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232431,05.2,,,Wastewater pumping stations are for waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232440,05.2,,,Sewage pipes are infrastructure for waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232450,05.2,,,Drainage works manage surface and waste water.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232451,05.2,,,Drainage and surface works fall under waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232452,05.2,,,Drainage works are classified under waste water management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:37
+45232453,05.2,,,Drains are typically part of wastewater and stormwater management systems.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45232454,05.2,,,Rain-water basins are infrastructure for stormwater and wastewater management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45232460,05.2,,,Sanitary works relate to sewage and wastewater management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45232470,05.1,,,Waste transfer stations are facilities for solid waste management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233000,04.5,,,Construction and surface works for roads fall under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233100,04.5,,,Construction work for highways and roads is classified under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233110,04.5,,,Motorway construction is a core transport infrastructure activity.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233120,04.5,,,Road construction works are classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233121,04.5,,,Main road construction is a transport infrastructure activity.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233122,04.5,,,Ring road construction is classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233123,04.5,,,Secondary road construction is a transport infrastructure activity.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233124,04.5,,,Trunk road construction is classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233125,04.5,,,Road junction construction is part of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233126,04.5,,,Grade-separated junction construction is a transport infrastructure activity.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233127,04.5,,,T-junction construction is part of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233128,04.5,,,Roundabout construction is classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233129,04.5,,,Crossroad construction is part of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233130,04.5,,,Highway construction is a core transport infrastructure activity.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233131,04.5,,,Elevated highway construction is classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233139,04.5,,,Highway maintenance is part of transport infrastructure upkeep.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233140,04.5,,,Roadworks are classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233141,04.5,,,Road maintenance is part of transport infrastructure upkeep.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233142,04.5,,,Road repair works are classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233144,04.5,,,Overpass construction is a transport infrastructure activity.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233150,04.5,,,Traffic-calming works are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233160,04.5,,,Paths and metalled surfaces are classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233161,04.5,,,Footpath construction is part of pedestrian transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233162,04.5,,,Cycle path construction is part of active transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233200,04.5,,,Surface works for roads and highways fall under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233210,04.5,,,Surface works for highways are classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233220,04.5,,,Surface works for roads are part of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233221,04.5,,,Road-surface painting is part of transport infrastructure maintenance.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233222,04.5,,,Paving and asphalting works are classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233223,04.5,,,Carriageway resurfacing is part of transport infrastructure maintenance.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233224,04.5,,,Dual carriageway construction is a transport infrastructure activity.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233225,04.5,,,Single carriageway construction is a transport infrastructure activity.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233226,04.5,,,Access road construction is classified under transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233227,04.5,,,Slip road construction is part of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233228,04.5,,,Surface coating for roads is part of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233229,04.5,,,Verge maintenance is part of road transport infrastructure upkeep.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233250,04.5,,,Surfacing works for transport infrastructure fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233251,04.5,,,Resurfacing works for transport infrastructure fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233252,04.5,,,Street surface works are classified under road transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233253,04.5,,,Footpath surface works are classified under road transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233260,04.5,,,Pedestrian ways are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233261,04.5,,,Pedestrian overpasses are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233262,04.5,,,Pedestrian zones are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233270,04.5,,,Parking lots are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233280,04.5,,,Road barriers are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233290,04.5,,,Road signs are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233291,04.5,,,Bollards are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233292,04.5,,,Road safety equipment is part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233293,06.2,04.5,,Street furniture is typically part of community development and amenities.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233294,04.5,,,Road signals are part of road transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233300,04.5,,,Foundation works for roads and footpaths fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233310,04.5,,,Foundation works for highways fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233320,04.5,,,Foundation works for roads fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233330,04.5,,,Foundation works for streets fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45233340,04.5,,,Foundation works for footpaths fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234000,04.5,,,Railways and cable transport systems fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234100,04.5,,,Railway construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234110,04.5,,,Intercity railway works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234111,04.5,,,City railway construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234112,04.5,,,Railway depot construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234113,04.5,,,Demolition of railway tracks falls under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234114,04.5,,,Railway embankment construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234115,04.5,,,Railway signalling works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234116,04.5,,,Track construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234120,04.5,,,Urban railway works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234121,04.5,,,Tramway works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234122,04.5,,,Underground railway works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234123,04.5,,,Partially underground railway works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234124,04.5,,,Underground passenger railway transport falls under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234125,04.5,,,Underground railway stations fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234126,04.5,,,Tramline construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234127,04.5,,,Tramway depot construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234128,04.5,,,Tramway platforms construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234129,04.5,,,Urban railway track construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234130,04.5,,,Ballast construction works for railways fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234140,04.5,,,Level crossing construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
