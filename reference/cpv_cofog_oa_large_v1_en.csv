@@ -7999,3 +7999,218 @@ cpv,cofog_primary,cofog_secondary,secondary_condition,justification,confidence,r
 90733800,05.3,06,"drinking water, potable, water supply, aquifer",Drains pollution from groundwater resources.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:40
 90733900,05.3,06,"drinking water, potable, water supply, aquifer",Treats or rehabilitates polluted groundwater.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:40
 90740000,05.3,,,"Tracks, monitors and rehabilitates pollutants.",high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:40
+90741000,05.3,,,Oil pollution services are pollution abatement activities.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90741100,05.3,,,Monitors oil spills for pollution abatement.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90741200,05.3,,,Controls oil spills to abate pollution.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90741300,05.3,,,Rehabilitates areas affected by oil pollution.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90742000,05.3,07,,Noise pollution control also protects public health.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90742100,05.3,07,,Noise control abates pollution and health harms.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90742200,05.3,07,,Protects against noise pollution and related health impacts.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90742300,05.3,07,,Monitors noise pollution affecting environmental health.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90742400,05.3,07,,Advises on noise pollution and health protection.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90743000,05.3,07,,Toxic pollution abatement also protects health.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90743100,05.3,07,,Monitors toxic pollution risks to environment and health.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90743200,05.3,07,,Rehabilitates toxic pollution affecting environment and health.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90900000,buyer-dependent,,,Generic cleaning purpose follows the buyer.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90910000,buyer-dependent,,,Generic cleaning purpose follows the buyer.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90911000,buyer-dependent,,,Building and window cleaning are generic support services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90911100,buyer-dependent,,,Accommodation cleaning purpose depends on facility use.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90911200,buyer-dependent,,,Building cleaning is a generic facility input.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90911300,buyer-dependent,,,Window cleaning is a generic facility input.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90912000,buyer-dependent,,,Tubular structure cleaning depends on infrastructure function.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90913000,buyer-dependent,,,Tank or reservoir use determines government function.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90913100,buyer-dependent,,,Tank cleaning purpose depends on tank contents and owner.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90913200,06.3,,,Maintains water-supply reservoirs.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90914000,04.5,,,Maintains parking infrastructure within transport.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90915000,buyer-dependent,,,Furnace and chimney cleaning is generic building maintenance.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90917000,04.5,,,Supports operation of transport equipment.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90918000,05.1,,,Bin cleaning supports waste management systems.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90919000,buyer-dependent,,,Mixed office and school cleaning depends on buyer.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90919100,buyer-dependent,,,Office equipment cleaning is a generic support input.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90919200,buyer-dependent,,,Office cleaning purpose follows the office function.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90919300,09,,,Cleaning specifically supports school facilities.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90920000,buyer-dependent,,,Facility sanitation purpose depends on facility function.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90921000,07.4,,,Disinfection and extermination control public health hazards.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90922000,07.4,,,Pest control protects public health from vectors.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90923000,07.4,,,Rat disinfestation controls disease vectors.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+90924000,07.4,,,Fumigation removes pests and infectious hazards.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+92000000,08,,,"Recreational, cultural and sporting services are COFOG 08.",high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+92100000,08.2,,,Motion picture and video services are cultural services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+92110000,08.2,,,Film and video production supports cultural services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+92111000,08.2,,,Video and motion picture production is cultural production.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+92111100,buyer-dependent,,,Training content determines the government function served.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:41
+92111200,buyer-dependent,,,Communication film purpose depends on commissioning authority.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92111210,buyer-dependent,,,Advertising film supports whichever policy is promoted.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92111220,buyer-dependent,,,Advertising video purpose follows the campaign buyer.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92111240,buyer-dependent,,,Propaganda video purpose depends on promoted government function.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92111250,buyer-dependent,,,Information film purpose follows the public-service topic.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92111260,buyer-dependent,,,Information video purpose follows the public-service topic.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92111300,08.2,,,Entertainment audiovisual production supports cultural services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92111310,08.2,,,Entertainment film production is a cultural service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92111320,08.2,,,Entertainment video production is a cultural service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92112000,08.2,,,Motion-picture production support serves cultural activities.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92120000,08.2,,,Film and video distribution supports cultural access.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92121000,08.2,,,Video distribution supports cultural media services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92122000,08.2,,,Motion picture distribution is a cultural service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92130000,08.2,,,Film projection provides cultural exhibition services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92140000,08.2,,,Video projection provides cultural exhibition services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92200000,08.3,,,Radio and television are broadcasting services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92210000,08.3,,,Radio services are broadcasting services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92211000,08.3,,,Radio production supports broadcasting services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92213000,08.3,,,Radio systems typically support broadcasting services.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92214000,08.3,,,Radio studio services support broadcasting production.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92215000,buyer-dependent,,,Mobile radio use depends on the operating authority.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92217000,buyer-dependent,,,Mobile radio use depends on the operating authority.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92220000,08.3,,,Television services are broadcasting services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92221000,08.3,,,Television production supports broadcasting services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92222000,buyer-dependent,,,"CCTV use varies between security, transport, facilities and policing.",medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92224000,08.3,,,Digital television is a broadcasting service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92225000,08.3,,,Interactive television is a broadcasting service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92225100,08.3,,,Film-on-demand television is a broadcasting service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92230000,08.3,,,Cable transmission supports radio and television broadcasting.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92231000,04.6,,,Leased lines are telecommunications communication services.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92232000,08.3,,,Cable TV is a broadcasting service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92300000,08.2,,,Entertainment services generally support cultural activities.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92310000,08.2,,,Artistic and literary creation are cultural services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92311000,08.2,,,Works of art are cultural services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312000,08.2,,,Artistic services support cultural activities.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312100,08.2,,,Performing arts entertainment is a cultural service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312110,08.2,,,Theatrical production is a performing arts service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312120,08.2,,,Singer group performances are cultural services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312130,08.2,,,Band performances are cultural services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312140,08.2,,,Orchestral performances are cultural services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312200,08.2,,,Individual artistic services support cultural and entertainment provision.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312210,08.2,,,Author services typically create cultural or literary content.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312211,buyer-dependent,,,Written content usually supports the contracting body's own function.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312212,09.5,,,Training manuals support education and training not tied to level.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312213,buyer-dependent,,,Technical documentation supports whichever sector commissions it.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312220,08.2,,,Composer services create musical cultural works.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312230,08.2,,,Sculptor services create visual artworks for cultural purposes.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312240,08.2,,,Entertainers are contracted for cultural or performance events.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312250,08.2,,,Individual artists provide cultural and artistic outputs.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92312251,08.2,,,DJ services support music and entertainment events.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92320000,08.2,,,Arts facilities are cultural-service venues.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92330000,08.1,,,Recreational areas provide leisure facilities for the public.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92331000,08.1,,,Fairs and amusement parks are recreational leisure services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92331100,08.1,,,Fair services usually provide public leisure activities.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92331200,08.1,,,Amusement parks are recreational facilities.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92331210,08.1,,,Children's animation is recreational entertainment for children.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92332000,08.1,,,Beach services support recreational public leisure areas.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92340000,08.2,,,Dance and performance entertainment are cultural performing arts.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92341000,08.2,,,Circus services are cultural performance entertainment.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92342000,08.2,09,,Dance instruction promotes cultural arts through teaching.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92342100,08.2,09,,Ballroom dance teaching combines cultural activity and instruction.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92350000,08.1,,,Gambling and betting are leisure and recreation services.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92351000,08.1,,,Gambling is typically a recreational leisure service.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92351100,08.1,,,Lottery operation provides public gambling leisure services.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92351200,08.1,,,Casino operation is recreational gambling provision.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92352000,08.1,,,Betting services are recreational gambling activities.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92360000,08.2,,,Pyrotechnics are usually for cultural celebrations and events.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92370000,08.2,,,Sound technicians typically support cultural performances and events.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92400000,08.3,,,News agencies belong to broadcasting and publishing services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92500000,08.2,,,"Libraries, archives and museums are cultural services.",high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92510000,08.2,,,Library and archive services preserve and provide cultural information.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92511000,08.2,,,Library services are cultural and information services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92512000,08.2,,,Archive services preserve cultural and historical records.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92512100,buyer-dependent,,,Administrative record destruction depends on the owning body's function.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92520000,08.2,,,Museums and historic-site preservation are cultural heritage services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92521000,08.2,,,Museum services are cultural heritage services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92521100,08.2,,,Museum exhibitions present cultural and heritage collections.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92521200,08.2,,,Exhibit and specimen preservation supports museum cultural collections.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92521210,08.2,,,Exhibit preservation supports cultural heritage collections.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92521220,08.2,,,Specimen preservation commonly supports museum and heritage collections.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:42
+92522000,08.2,,,Heritage preservation is a cultural service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92522100,08.2,,,Historical site preservation serves cultural heritage.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92522200,08.2,,,Historical building preservation serves cultural heritage.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92530000,08.2,05,,"Gardens and zoos are cultural, with conservation objectives.",medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92531000,08.2,05,,Botanical gardens are cultural facilities with conservation roles.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92532000,08.2,05,,Zoos are cultural facilities with wildlife conservation roles.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92533000,05.4,,,Nature reserves mainly protect biodiversity and landscapes.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92534000,05.4,,,Wildlife preservation directly protects biodiversity.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92600000,08.1,,,Sporting services are recreational services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92610000,08.1,,,Operating sports facilities is recreational service provision.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92620000,08.1,,,Sport-related services support recreation and sport.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92621000,08.1,,,Sports-event promotion supports recreational sporting activity.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92622000,08.1,,,Sports-event organisation is recreational sporting provision.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+92700000,08.6,,,Public cybercafés provide recreational internet access.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98000000,buyer-dependent,,,Scope too broad; purpose depends on specific service.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98100000,buyer-dependent,,,Membership organisations vary by policy purpose.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98110000,04.1,,,Business and professional organisations usually support economic affairs.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98111000,04.1,,,Business organisation services support commercial and economic affairs.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98112000,04.1,,,"Professional organisations support labour, commercial or professional affairs.",medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98113000,buyer-dependent,,,Specialist organisation purpose depends on its field.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98113100,05.3,04,"nuclear power, reactor, energy facility",Nuclear safety prevents radioactive pollution and hazards.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98130000,buyer-dependent,,,Miscellaneous membership organisations have varying purposes.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98131000,08.4,,,Religious services fall under religious community services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98132000,01.1,,,Political organisations relate to democratic and legislative processes.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98133000,08.4,,,Social membership organisations provide community services.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98133100,08.4,06,,Community organisations support local civic facilities.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98133110,08.4,10,,Youth associations provide community activities with child welfare relevance.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98200000,10.7,,,Equal opportunities consultancy supports anti-discrimination and inclusion.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98300000,buyer-dependent,,,Miscellaneous services are too broad to classify.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98310000,buyer-dependent,,,Laundry services support the purchasing institution's function.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98311000,buyer-dependent,,,Laundry collection supports the buyer's operational purpose.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98311100,buyer-dependent,,,Laundry management follows the buyer's service function.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98311200,buyer-dependent,,,Laundry operation is ancillary to the buyer's function.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98312000,buyer-dependent,,,Textile cleaning is a generic support service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98312100,buyer-dependent,,,Textile impregnation purpose depends on the user context.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98313000,buyer-dependent,,,Fur cleaning is an ancillary personal support service.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98314000,buyer-dependent,,,Colouring services depend on the purchasing programme.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98315000,buyer-dependent,,,Pressing services are generic ancillary support.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98316000,buyer-dependent,,,Dyeing services depend on the purchasing programme.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98320000,buyer-dependent,,,"Hairdressing purpose varies across care, prisons or training.",medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:43
+98321000,buyer-dependent,,,Personal grooming purpose depends on beneficiaries and institution.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98321100,buyer-dependent,,,Barbering serves institution-specific care or staff needs.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98322000,buyer-dependent,,,Beauty treatments depend on beneficiary context and buyer.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98322130,buyer-dependent,,,"Pedicure may be care, welfare or recreational depending buyer.",medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98322140,buyer-dependent,,,Make-up services have institution-specific purposes.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98330000,08.1,07,"therapeutic, rehabilitation, clinical, medical",Well-being services are typically recreational unless therapeutic.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98331000,08.1,07,"therapeutic, rehabilitation, clinical, medical","Bath services usually recreational wellness, sometimes therapeutic.",medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98332000,08.1,07,"therapeutic, rehabilitation, clinical, medical",Spa services are leisure and wellness activities.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98333000,08.1,07,"therapeutic, rehabilitation, clinical, medical, physiotherapy",Massage is wellness unless specified as treatment.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98334000,08.1,07,"therapeutic, rehabilitation, clinical, medical",Wellness services align with recreation and physical well-being.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98336000,08.1,07,"rehabilitation, therapeutic, clinical, medical",Workout and aerobic services are sports and recreation.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98340000,buyer-dependent,,,Accommodation and office support follow the purchasing institution.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98341000,buyer-dependent,,,"Accommodation purpose varies: welfare, education, health or administration.",high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98341100,buyer-dependent,,,Managing accommodation depends on who is housed.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98341110,buyer-dependent,,,Housekeeping is generic facility support across functions.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98341120,buyer-dependent,,,Portering supports the facility's underlying public function.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98341130,buyer-dependent,,,Janitorial services are generic cleaning and facility support.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98341140,buyer-dependent,,,Caretaker services follow the building's purpose.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98342000,buyer-dependent,,,Work-environment services support staff across all functions.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98350000,06.2,,,Civic amenities are local community infrastructure services.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98351000,04.5,,,Car parks support road transport and traffic management.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98351100,04.5,,,Parking services are transport-related urban mobility services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98351110,04.5,03,"police, prosecution, court, criminal enforcement",Parking enforcement primarily manages road transport compliance.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98360000,04.5,,,Marine services usually support maritime transport and ports.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98361000,04.5,05,"marine environment, biodiversity, conservation, pollution",Aquatic marine services commonly support maritime operations.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98362000,04.5,,,Port management is transport infrastructure operation.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98362100,04.5,,,Marine-base support usually serves port or maritime transport operations.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98363000,04.5,05,"environmental survey, pollution, conservation, biodiversity",Diving services often support underwater transport infrastructure.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98370000,08.4,,,Funeral activities are community and religious-related services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98371000,08.4,,,Funeral services are community and religious-related services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98371100,08.4,,,Cemeteries and crematoria are community amenity services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98371110,08.4,,,Cemetery operation is a community service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98371111,08.4,,,Cemetery maintenance supports community burial amenities.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98371120,08.4,,,Cremation services are funeral and community services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98371200,08.4,,,Undertaking is part of funeral community services.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98380000,04.2,03,"police dogs, service dogs, enforcement",Dog kennels typically support animal control and welfare.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98390000,buyer-dependent,,,Unspecified other services cannot reveal governmental purpose.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98391000,buyer-dependent,05,"contaminated, remediation, asbestos, nuclear, cleanup",Decommissioning purpose follows the asset being closed.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98392000,buyer-dependent,,,Relocation is generic support for the moving institution.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98393000,buyer-dependent,,,Tailoring depends on garments and user service.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98394000,buyer-dependent,,,Generic furniture maintenance; function follows the user facility.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98395000,buyer-dependent,,,Generic locksmithing for buildings; purpose follows premises.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98396000,08.2,,,Tuning musical instruments typically supports cultural services.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98500000,10,,,Household employment services usually support social assistance at home.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98510000,10,,,Household worker services typically support social protection programmes.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98511000,10,,,Commercial workers for households usually indicate social support staffing.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98512000,10,,,Industrial workers for households are likely welfare-related support.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98513000,10,,,Household manpower services typically provide social assistance.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98513100,10,,,Agency household staff usually support home-based social care.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98513200,10,,,Household clerical staff most plausibly support welfare assistance.,low,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98513300,10,,,Temporary household staff commonly support social protection at home.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98513310,10.2,10,,Home-help primarily serves elderly or dependent persons.,high,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98514000,10,,,Domestic services for households usually support social care needs.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98900000,01.1,,,Extra-territorial organisation services relate to external affairs.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44
+98910000,01.1,,,International organisation services usually support external affairs.,medium,oa_large_v1_en,openai,gpt-5.5,cpv_cofog_v1.md,en,0,2026-09-27 19:44

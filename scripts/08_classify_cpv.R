@@ -8,8 +8,9 @@ prompt_file <- if (length(a) >= 4) a[4] else "docs/prompts/cpv_cofog_v1.md"
 lang        <- if (length(a) >= 5) a[5] else "en"
 seed        <- if (length(a) >= 6) as.integer(a[6]) else 0L
 max_batches <- if (length(a) >= 7) as.integer(a[7]) else Inf
-out <- sprintf("reference/cpv_cofog_%s.csv", run_id)
-cols <- c("cpv","cofog_primary","cofog_secondary","secondary_condition","justification","confidence","run","provider","model","prompt","lang","seed","run_at")
+out  <- sprintf("reference/cpv_cofog_%s.csv", run_id)
+keep <- c("cpv", "cofog_primary", "cofog_secondary", "secondary_condition", "justification", "confidence")
+cols <- c(keep, "run", "provider", "model", "prompt", "lang", "seed", "run_at")
 system_prompt <- paste(readLines(prompt_file), collapse = "\n")
 
 con <- dbConnect(duckdb())
@@ -22,10 +23,24 @@ used <- setDT(dbGetQuery(con, sprintf("
   LEFT JOIN lab d ON d.cpv = u.cpv[1:2] || '000000'
   LEFT JOIN lab g ON g.cpv = u.cpv[1:3] || '00000'
   ORDER BY u.cpv", lang)))
-done <- if (file.exists(out)) fread(out, colClasses = list(character = "cpv"))$cpv else character()
+done <- if (file.exists(out)) fread(out, colClasses = "character")$cpv else character()
 todo <- used[!cpv %in% done]
 if (seed > 0) { set.seed(seed); todo <- todo[sample(.N)] }
 message(run_id, ": ", nrow(used), " codes; ", length(done), " done; ", nrow(todo), " to do")
+
+# The model's answer as one row per code, whatever shape it chose: {"items": [...]}, a bare array, or an object keyed
+# by code. Extra fields are dropped, nested values flattened, nulls become NA.
+parse_items <- function(txt) {
+  js <- jsonlite::fromJSON(gsub("^```json|^```|```$", "", trimws(txt)), simplifyVector = FALSE)
+  items <- if (is.list(js) && !is.null(js$items)) js$items else js
+  if (!is.null(names(items)) && all(grepl("^[0-9]{8}$", names(items))))
+    items <- Map(\(k, v) c(list(cpv = k), v), names(items), items)
+  rbindlist(lapply(items, \(it) {
+    if (!is.list(it)) return(NULL)
+    it <- it[intersect(keep, names(it))]
+    as.data.table(lapply(it, \(v) if (length(v) == 0) NA_character_ else paste(unlist(v), collapse = "; ")))
+  }), fill = TRUE)
+}
 
 ask <- function(user) {
   if (provider == "openai") {
@@ -43,9 +58,7 @@ ask <- function(user) {
   js <- r |> req_timeout(300) |>
     req_retry(max_tries = 6, backoff = \(i) 10 * i, is_transient = \(x) resp_status(x) %in% c(429, 500, 502, 503, 504)) |>
     req_perform() |> resp_body_json()
-  txt <- if (provider == "openai") js$choices[[1]]$message$content else js$candidates[[1]]$content$parts[[1]]$text
-  res <- jsonlite::fromJSON(gsub("^```json|^```|```$", "", trimws(txt)))
-  setDT(if (is.data.frame(res)) res else res$items)
+  parse_items(if (provider == "openai") js$choices[[1]]$message$content else js$candidates[[1]]$content$parts[[1]]$text)
 }
 
 batches <- split(todo, ceiling(seq_len(nrow(todo)) / 40))
@@ -55,12 +68,12 @@ for (i in seq_len(min(length(batches), max_batches))) {
                  paste(sprintf("%s | %s | division: %s | group: %s", b$cpv, b$label, b$division, b$grp), collapse = "\n"))
   res <- tryCatch(ask(user), error = \(e) { message("batch ", i, " failed: ", conditionMessage(e)); if (grepl("40[12]", conditionMessage(e))) "STOP" else NULL })
   if (identical(res, "STOP")) { message("credentials or credits problem, stopping the run"); break }
-  if (is.null(res) || !"cpv" %in% names(res)) next
-  res[, names(res) := lapply(.SD, as.character)]
-  res <- res[cpv %in% b$cpv][, `:=`(run = run_id, provider = provider, model = model, prompt = basename(prompt_file),
-                                    lang = lang, seed = seed, run_at = format(Sys.time(), "%Y-%m-%d %H:%M"))]
-  for (k in setdiff(cols, names(res))) res[, (k) := NA_character_]; res <- res[, ..cols]
-  fwrite(res, out, append = file.exists(out))
+  if (is.null(res) || !"cpv" %in% names(res) || nrow(res) == 0) { message("batch ", i, ": unusable answer, skipped"); next }
+  res <- res[cpv %in% b$cpv]
+  for (k in setdiff(cols, names(res))) res[, (k) := NA_character_]
+  res[, `:=`(run = run_id, provider = provider, model = model, prompt = basename(prompt_file), lang = lang,
+             seed = as.character(seed), run_at = format(Sys.time(), "%Y-%m-%d %H:%M"))]
+  fwrite(res[, ..cols], out, append = file.exists(out))
   message(sprintf("%s batch %d/%d  %d codes  %s", run_id, i, length(batches), nrow(res), format(Sys.time(), "%H:%M:%S")))
   Sys.sleep(1)
 }
