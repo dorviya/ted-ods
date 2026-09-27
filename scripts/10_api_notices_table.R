@@ -1,7 +1,7 @@
 # Step 10: build outputs/panel/notice_api.parquet from the raw API pages (SQL in 10_api_notices_table.sql, run by the
 # duckdb CLI because the R package lacks the json extension here), check it, push it to the bucket.
 source("R/packages.R"); options(width = 200)
-status <- system2("duckdb", c("-c", ".read scripts/10_api_notices_table.sql")); stopifnot(status == 0)
+status <- system2("duckdb", stdin = "scripts/10_api_notices_table.sql"); stopifnot(status == 0)
 con <- dbConnect(duckdb()); dbExecute(con, "CREATE VIEW api AS SELECT * FROM 'outputs/panel/notice_api.parquet'")
 print(dbGetQuery(con, "SELECT count(*) AS notices, min(pub_date) AS first, max(pub_date) AS last, count(DISTINCT country) AS countries,
   round(avg((country IS NULL)::INT), 3) AS unmapped_country FROM api"))

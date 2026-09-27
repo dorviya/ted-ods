@@ -10196,3 +10196,99 @@ cpv,cofog_primary,cofog_secondary,secondary_condition,justification,confidence,r
 92521100,08.2,,,Museum exhibitions provide cultural services to the public.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
 92521200,08.2,,,Conservation of exhibits and specimens protects cultural and scientific heritage.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
 92521210,08.2,,,Preservation of museum exhibits serves cultural heritage maintenance.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92521220,08.2,,,Preservation of museum specimens for cultural heritage.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92522000,08.2,,,"Preservation of cultural heritage, historic sites, and monuments.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92522100,08.2,,,Preservation and maintenance of historic sites.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92522200,08.2,,,Preservation and restoration of historic monuments.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92530000,08.2,05,,Operation of botanical and zoological gardens and natural reserve services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92531000,08.2,,,Operation and maintenance of botanical gardens.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92532000,08.2,,,Operation and maintenance of zoological gardens.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92533000,05.4,08,,Management of nature reserves and biodiversity conservation.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92534000,05.4,,,Protection and preservation of wildlife and biodiversity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92600000,08.1,,,General sporting and recreational services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92610000,08.1,,,Operation and management of public sports facilities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92620000,08.1,,,Services directly related to sports activities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92621000,08.1,,,Promotion and marketing of sporting events.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92622000,08.1,,,Organisation and management of sporting events.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+92700000,08.1,,,Recreational internet access and cybercafe services.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98000000,buyer-dependent,,,"Broad category of miscellaneous community, social, and personal services.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98100000,buyer-dependent,,,Membership organisation services vary based on the contracting authority.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98110000,04.1,,,"Services provided by commercial, professional, and trade organisations.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98111000,04.1,,,Services provided by commercial and business associations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98112000,04.1,,,Services provided by professional bodies and organisations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98113000,buyer-dependent,,,Specialist organisation services depend on the mission of the buyer.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98113100,04.3,05,,Nuclear safety monitoring and regulatory services for energy.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98130000,08.4,,,"Civic, community, and social membership organisation services.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98131000,08.4,,,Religious services and related community support.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98132000,08.4,,,Services provided by political organisations and civic associations.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98133000,08.4,10,,Services provided by civic and social community organisations.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98133100,06.2,08,,Civic betterment and community facility support services.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98133110,08.4,,,Services provided by youth associations and community youth clubs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98200000,10.7,01,,Consultancy services targeting social inclusion and equal opportunity promotion.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98300000,buyer-dependent,,,Generic miscellaneous services used across all public authorities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98310000,buyer-dependent,,,Laundry and dry-cleaning services follow the purchasing institution.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98311000,buyer-dependent,,,Laundry collection services are routine operational inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98311100,buyer-dependent,,,Management of laundry facilities depends on the specific institution.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98311200,buyer-dependent,,,Operation of laundry facilities is buyer-dependent.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98312000,buyer-dependent,,,Generic textile-cleaning services across various public bodies.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98312100,buyer-dependent,,,Textile impregnation services serve different sectoral uniforms or linens.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98313000,buyer-dependent,,,Specialised fur-cleaning service depending on the contracting authority.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98314000,buyer-dependent,,,Colouring and textile services used by varied public entities.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98315000,buyer-dependent,,,Ironing services are generic routine support services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98316000,buyer-dependent,,,Dyeing services for textiles follow the purchasing organization.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98320000,buyer-dependent,10,,"Hairdressing and beauty services purchased for hospitals, care homes, or prisons.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98321000,buyer-dependent,10,,Hairdressing services usually procured for social care or institutional facilities.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98321100,buyer-dependent,10,,"Barber services provided in social, medical, or correctional institutions.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98322000,buyer-dependent,10,,Beauty care services provided in residential care homes or healthcare settings.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98322130,buyer-dependent,07.2,,Pedicure services provided in care homes or outpatient wellness facilities.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98322140,buyer-dependent,08.2,"theatre, opera, cultural","Make-up services often procured for cultural institutions, television, or events.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98330000,08.1,07.2,,Physical well-being and recreational body care services.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98331000,08.1,,,Turkish bath facilities relate to public recreational and leisure services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98332000,08.1,07.2,"medical, therapy, rehabilitation",Spa services typically serve recreational wellness or medical rehabilitation.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98333000,08.1,07.2,"therapy, medical, rehabilitation","Massage services serve recreation and wellness, or outpatient therapeutic care.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98334000,08.1,,,Wellness services relate to recreation and personal well-being.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98336000,08.1,,,"Training, workout, and aerobics services fall under sporting and recreational services.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98340000,buyer-dependent,,,General accommodation and office support services depend on the purchasing entity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98341000,buyer-dependent,10,"emergency, refugee, homeless","Accommodation services vary widely across public administration, travel, and social care.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98341100,buyer-dependent,06.1,housing,Facility and accommodation management depends on the type of public building.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98341110,buyer-dependent,,,Housekeeping and cleaning services are generic operational building support.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98341120,buyer-dependent,,,Portering services are generic operational building support.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98341130,buyer-dependent,,,Concierge services are generic facility management inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98341140,buyer-dependent,06.1,"housing, social housing","Caretaking services depend on building usage, common in social housing.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98342000,buyer-dependent,,,Work environment services are generic support for any administrative facility.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98350000,06.2,,,Civic-amenity services support local municipal and community infrastructure development.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98351000,04.5,,,Car park management is an element of road transport infrastructure.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98351100,04.5,,,Car parking services are part of road transport infrastructure management.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98351110,04.5,03.1,,"Parking enforcement regulates road transport traffic, often administered via municipal policing.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98360000,04.5,,,Marine services generally support water transport and port operations.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98361000,05.4,01.4,"research, scientific",Oceanological services concern marine environmental monitoring and scientific research.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98362000,04.5,,,Port management services directly support maritime transport infrastructure.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98362100,04.5,02.1,"naval, military, defence","Marine-base support services facilitate water transport, or military naval operations.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98363000,buyer-dependent,04.5,,"Diving services serve port engineering, water utilities, environmental studies, or rescue.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98370000,08.4,,,Funeral and related community services are classified under COFOG 08.4.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98371000,08.4,,,Funeral services are classified under religious and community services.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98371100,08.4,,,Cemetery and cremation services are classified under COFOG 08.4.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98371110,08.4,,,Cemetery operations and burial services belong to COFOG 08.4.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98371111,08.4,,,Cemetery maintenance is explicitly categorized under community amenities in 08.4.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98371120,08.4,,,Cremation services are categorized under community services in 08.4.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98371200,08.4,,,Undertaking services are part of funeral services classified under 08.4.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98380000,06.2,03.1,"police, canine",Kennel services typically manage municipal animal pounds or police canine units.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98390000,buyer-dependent,,,Residual miscellaneous services category depends entirely on the purchasing entity.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98391000,buyer-dependent,04.3,"nuclear, plant, offshore, power","Decommissioning applies to various facilities, particularly energy or industrial sites.",medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98392000,buyer-dependent,,,Relocation and moving services are generic administrative inputs.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98393000,buyer-dependent,,,"Tailoring services depend on the purchasing institution, such as military, police, or theatre.",high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98394000,buyer-dependent,,,Upholstery services are generic maintenance of furniture across any public facility.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98395000,buyer-dependent,,,Locksmith services support generic facility management and physical security across all sectors.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98396000,08.2,09,"school, conservatory, academy, university",Musical instrument tuning predominantly serves cultural institutions such as concert halls and orchestras.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98500000,10,,,Public procurement for household-employed personnel typically funds social care and personal assistance.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98510000,buyer-dependent,,,Commercial and industrial worker services depend entirely on the procuring public entity.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98511000,buyer-dependent,,,Commercial worker services depend entirely on the contracting authority.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98512000,buyer-dependent,,,Industrial worker services depend on the purchasing public body.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98513000,10,,,Manpower services for private households procured by government support social assistance schemes.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98513100,10,,,Agency staff services for households primarily provide subsidized social care support.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98513200,10,,,Clerical assistance for households typically assists vulnerable individuals with administrative tasks.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98513300,10,,,Temporary household personnel funded by public authorities usually relates to social assistance.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98513310,10,,,Home-help services provide essential social care and assistance to vulnerable persons.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98514000,10,,,Domestic services funded by public procurement typically support elderly or disabled individuals.,high,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98900000,01.1,,,Services of extra-territorial and international organisations relate to external public affairs.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+98910000,01.1,,,Services specific to international bodies fall under external and foreign public affairs.,medium,gm_flash_v1_fr,,,cpv_cofog_v1.md,,,2026-09-27 20:39

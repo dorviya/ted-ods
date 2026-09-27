@@ -6679,3 +6679,203 @@ cpv,cofog_primary,cofog_secondary,secondary_condition,justification,confidence,r
 45234129,04.5,,,Urban railway track construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
 45234130,04.5,,,Ballast construction works for railways fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
 45234140,04.5,,,Level crossing construction works fall under transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:38
+45234160,04.5,,,Catenary construction is specific to railway transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234170,04.5,,,Locomotive substations are specific to railway transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234180,04.5,,,Railway workshops are specific to railway transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234181,04.5,,,Rail track sectioning cabins are specific to railway transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234200,04.5,,,Cable-supported transport systems are a form of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234210,04.5,,,Cable-supported transport systems with cabins are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234220,04.5,08.1,,"Ski lifts are transport infrastructure, often serving recreational purposes.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234230,04.5,08.1,,"Chair lifts are transport infrastructure, often serving recreational purposes.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234240,04.5,,,Funicular railways are a form of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45234250,04.5,,,Teleferic systems are a form of transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235000,04.5,,,Airfields and runways are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235100,04.5,,,Airports are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235110,04.5,,,Airfields are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235111,04.5,,,Airfield pavements are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235200,04.5,,,Runways are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235210,04.5,,,Runway resurfacing is specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235300,04.5,,,Aircraft-manoeuvring surfaces are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235310,04.5,,,Taxiways are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235311,04.5,,,Taxiway pavements are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45235320,04.5,,,Aircraft aprons are specific to air transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236000,buyer-dependent,,,Flatwork is a generic construction activity that depends on the buyer's purpose.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236100,08.1,,,Sports installations fall under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236110,08.1,,,Sports fields fall under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236111,08.1,,,Golf courses fall under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236112,08.1,,,Tennis courts fall under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236113,08.1,,,Racecourses fall under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236114,08.1,,,Running tracks fall under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236119,08.1,,,Repair of sports fields falls under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236200,08.1,,,Recreation installations fall under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236210,08.1,,,Children's play areas fall under recreational and sporting services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236220,08.2,,,Zoos are classified under cultural services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236230,08.1,,,Gardens for public use fall under recreational services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236250,08.1,,,Parks fall under recreational services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236290,08.1,,,Repair of recreational areas falls under recreational services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45236300,08.4,,,Cemeteries fall under religious and other community services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45237000,08.2,,,Stages are typically used for cultural performances and events.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45240000,buyer-dependent,,,"Water projects can serve transport, water supply, energy, or agriculture.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45241000,04.5,,,Harbours are specific to water transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45241100,04.5,,,Quays are specific to water transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45241200,04.5,,,Offshore terminals are specific to water transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:39
+45241300,04.5,,,Piers are infrastructure for water transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45241400,04.5,,,Docks are infrastructure for water transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45241500,04.5,,,Wharves are infrastructure for water transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45241600,04.5,,,Lighting equipment for port and water transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45242000,08.1,,,Leisure facilities are classified under recreational services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45242100,08.1,,,Water-sports facilities are classified under recreational services.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45242110,08.1,04.5,"ferry, commercial, transport","Launchways are typically for recreational boating, sometimes general transport.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45242200,08.1,,,Marinas are recreational boating facilities.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45242210,08.1,,,Yacht harbours are recreational boating facilities.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243000,05.4,04.2,"flood, drainage, agricultural",Coastal defence protects landscapes and land from erosion and flooding.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243100,05.4,,,Cliff protection preserves natural landscapes from erosion.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243110,05.4,,,Cliff stabilisation preserves natural landscapes from erosion.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243200,04.5,05.4,"coastal protection, erosion, landscape",Breakwaters primarily protect ports (transport) and coasts from wave action.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243300,05.4,04.5,"port, harbour, dock",Sea walls protect coasts from erosion and flooding.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243400,05.4,08.1,"recreation, tourism, leisure",Protects coastal landscapes and preserves recreational beaches.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243500,05.4,04.2,"flood control, drainage",Protects coastal landscapes and land from flooding.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243510,04.2,05.4,"landscape, habitat, coastal",Embankments are typically for flood control and land drainage.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45243600,04.5,,,Quay walls are infrastructure for ports and water transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45244000,04.5,,,Marine construction typically relates to port and waterway transport infrastructure.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45244100,04.5,,,Marine installations typically relate to port and waterway transport infrastructure.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45244200,04.5,08.1,"leisure, recreation, marina",Jetties serve water transport and sometimes recreational boating.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45245000,05.2,06.3,"drinking, potable, supply",Water treatment plants serve wastewater management or water supply.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45246000,04.2,05.4,"habitat, landscape, biodiversity",Flood control is classified under agricultural land affairs in COFOG.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45246100,04.2,05.4,"habitat, landscape, biodiversity",River walls provide flood control and bank protection.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45246200,04.2,05.4,"habitat, landscape, biodiversity",Protects land from flooding and erosion.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45246400,04.2,,,Flood control is explicitly classified under economic affairs (agriculture/land).,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45246410,04.2,,,Flood control is explicitly classified under economic affairs (agriculture/land).,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45246500,08.1,,,Promenades are recreational pedestrian facilities.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45246510,08.1,,,Boardwalks are recreational pedestrian facilities.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247000,06.3,04.2,"irrigation, flood control, drainage","Mixed category covering water supply, irrigation, and transport.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247100,04.5,,,Waterways are infrastructure for inland water transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247110,04.5,06.3,"supply, drinking, potable",Canals are used for water transport or water supply.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247111,04.2,,,Irrigation infrastructure directly supports agriculture.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247112,04.2,05.2,"sewage, wastewater, storm",Drainage canals support land drainage (agriculture) or wastewater management.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247120,04.5,,,Navigable waterways are transport infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247130,06.3,,,Aqueducts are infrastructure for water supply.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247200,06.3,04.3,"hydroelectric, power, energy","Dams provide water supply, hydroelectric power, and flood control.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247210,06.3,04.3,"hydroelectric, power, energy","Dams provide water supply, hydroelectric power, and flood control.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247211,06.3,04.3,"hydroelectric, power, energy","Dams provide water supply, hydroelectric power, and flood control.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247212,06.3,04.3,"hydroelectric, power, energy","Dams provide water supply, hydroelectric power, and flood control.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247220,06.3,04.5,,Weirs are typically constructed for water supply management or inland waterway navigation.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247230,04.2,05.4,,Dykes are primarily built for flood control and land reclamation.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247240,06.3,04.5,,"Barrages are used for water flow control, water supply, and navigation.",medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45247270,06.3,,,Reservoirs are constructed primarily for water supply purposes.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45248000,04.3,04.5,,Hydro-mechanical structures are typically associated with hydroelectric power or waterway transport.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45248100,04.5,,,Canal locks are infrastructure for inland waterway transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45248200,04.5,,,Dry docks are infrastructure for maritime transport and shipbuilding.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45248300,04.5,,,Floating docks are infrastructure for maritime transport and port operations.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45248400,04.5,,,Landing stages are infrastructure for waterborne transport.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45248500,04.5,06.3,,Movable barrages are used for waterway navigation and water level control.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45250000,04.4,04.3,,"Construction for mining, manufacturing, and oil/gas industries.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251000,04.3,,,Power plants and heating plants are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251100,04.3,,,Power plants are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251110,04.3,,,Nuclear power stations are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251111,04.3,,,Nuclear reactors are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251120,04.3,,,Hydro-electric plants are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251140,04.3,,,Thermal power plants are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251141,04.3,,,Geothermal power stations are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251142,04.3,,,Wood-fired power stations are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251143,04.3,,,Compressed-air generating plants are energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251150,04.3,,,Cooling towers are typically part of power plant infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251160,04.3,,,Wind-power installations are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251200,04.3,,,Heating plants are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251220,04.3,,,Cogeneration plants are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251230,04.3,,,Steam-generation plants are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251240,04.3,05.1,,Generates electricity (energy) from landfill gas (waste management).,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45251250,04.3,,,District-heating plants are core energy infrastructure.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252000,05.2,05.1,,Sewage treatment is wastewater management; refuse incineration is waste management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252100,05.2,,,Sewage-treatment plants are for wastewater management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252110,05.2,,,Mobile plants in this context are typically for sewage or water treatment.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252120,06.3,05.2,,Water-treatment plants can be for drinking water supply or wastewater treatment.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252121,05.2,06.3,,Sedimentation installations are used in wastewater and drinking water treatment.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252122,05.2,,,Sewage digesters are exclusively for wastewater management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252123,05.2,06.3,,Screening installations are used in wastewater and drinking water treatment.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252124,05.2,04.5,,Dredging and pumping can be for wastewater sludge or waterway maintenance.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252125,04.5,,,Rock-dumping is typically used for scour protection in waterways and ports.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252126,06.3,,,Drinking-water treatment plants are for water supply.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252127,05.2,,,Wastewater treatment plants are for wastewater management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252130,05.2,,,Sewage plant equipment is for wastewater management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252140,05.2,,,Sludge-dewatering plants are for wastewater management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:40
+45252150,04.3,,,Coal-handling plants are facilities dedicated to fuel and energy production.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45252200,06.3,05.2,,Purification plants typically treat drinking water or wastewater.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45252210,06.3,,,Water purification plants are built to supply clean drinking water.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45252300,05.1,04.3,"energy recovery, waste-to-energy","Refuse-incineration plants are primarily for waste management, sometimes recovering energy.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253000,04.4,,,Chemical-processing plants fall under the manufacturing industry.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253100,06.3,04.4,,Demineralisation is a water treatment process used for supply or industrial manufacturing.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253200,05.3,04.3,,"Desulphurisation reduces pollution emissions, often in power plants.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253300,04.4,,,Distilling or rectifying plants are manufacturing facilities for chemicals or beverages.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253310,06.3,,,Water-distillation plants are used for desalination and water supply.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253400,04.4,04.3,,Petrochemical plants are manufacturing facilities closely linked to fuel production.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253500,04.4,07.1,,Pharmaceutical plants are manufacturing facilities that produce medical products.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253600,06.3,,,Deionisation is a water purification process for water supply.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253700,05.1,04.3,,Digestion plants treat organic waste and can produce biogas for energy.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45253800,05.1,,,Composting is a method of organic waste management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45254000,04.4,,,Construction works for mining and manufacturing industries.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45254100,04.4,,,Construction works specifically for the mining industry.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45254110,04.4,,,Pitheads are surface structures of mining operations.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45254200,04.4,,,Construction works specifically for manufacturing plants.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255000,04.3,,,The oil and gas industry is directly related to fuel and energy.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255100,04.3,,,Production platforms in this context refer to oil and gas extraction.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255110,04.3,,,"In this CPV group, wells refer to oil and gas extraction.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255120,04.3,,,Platform facilities for the oil and gas industry.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255121,04.3,,,Topside facilities for oil and gas production platforms.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255210,04.3,,,Oil terminals are infrastructure for fuel and energy.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255300,04.3,,,Gas terminals are infrastructure for fuel and energy.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255400,04.3,,,Fabrication work within the oil and gas industry group.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255410,04.3,,,Offshore fabrication work for the oil and gas industry.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255420,04.3,,,Onshore fabrication work for the oil and gas industry.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255500,04.3,,,Drilling and exploration work for oil and gas.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255700,04.3,,,Coal-gasification plants produce fuel and energy.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45255800,04.3,,,Gas-production plants produce fuel and energy.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45259000,buyer-dependent,,,The purpose depends on the specific type of plant being maintained.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45259100,05.2,,,Wastewater plants are dedicated to wastewater management.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45259200,06.3,05.2,,Purification plants typically treat drinking water or wastewater.,medium,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45259300,04.3,,,Heating plants produce and distribute thermal energy.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45259900,buyer-dependent,,,The purpose depends on the specific type of plant being upgraded.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45260000,buyer-dependent,04.3,"solar, photovoltaic, thermal insulation, energy-efficient","Roof works depend on the building's purpose, with potential energy efficiency aspects.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45261000,buyer-dependent,04.3,"solar, photovoltaic, thermal insulation, energy-efficient","Roof works depend on the building's purpose, with potential energy efficiency aspects.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45261100,buyer-dependent,04.3,"solar, photovoltaic, thermal insulation, energy-efficient",Roof framing depends on the building's purpose.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45261200,buyer-dependent,04.3,"solar, photovoltaic, thermal insulation, energy-efficient","Roof covering depends on the building's purpose, with potential energy efficiency aspects.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:41
+45261210,buyer-dependent,,,Roof-covering work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261211,buyer-dependent,,,Roof-tiling work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261212,buyer-dependent,,,Roof-slating work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261213,buyer-dependent,,,Metal roof-covering work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261214,buyer-dependent,,,Bituminous roof-covering work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261215,buyer-dependent,04.3,,"Solar panels provide energy, serving fuel and energy objectives.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261220,buyer-dependent,,,Roof-painting and coating work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261221,buyer-dependent,,,Roof-painting work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261222,buyer-dependent,,,Cement roof-coating work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261300,buyer-dependent,,,Flashing and guttering work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261310,buyer-dependent,,,Flashing work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261320,buyer-dependent,,,Guttering work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261400,buyer-dependent,,,Sheeting work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261410,buyer-dependent,05,,"Roof insulation improves energy efficiency, serving environmental protection objectives.",high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261420,buyer-dependent,,,Waterproofing work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261900,buyer-dependent,,,Roof repair and maintenance depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261910,buyer-dependent,,,Roof repair depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45261920,buyer-dependent,,,Roof maintenance work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262000,buyer-dependent,,,Special trade construction works depend entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262100,buyer-dependent,,,Scaffolding work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262110,buyer-dependent,,,Scaffolding dismantling work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262120,buyer-dependent,,,Scaffolding erection work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262200,buyer-dependent,06.3,"water-well, well drilling",Foundation work is buyer-dependent; water-well drilling serves water supply.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262210,buyer-dependent,,,Foundation work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262211,buyer-dependent,,,Pile driving depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262212,buyer-dependent,,,Trench sheeting work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262213,buyer-dependent,,,Diaphragm wall technique depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262220,06.3,,,Water-well drilling typically serves water supply objectives.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262300,buyer-dependent,,,Concrete work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262310,buyer-dependent,,,Reinforced-concrete work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262311,buyer-dependent,,,Concrete carcassing work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262320,buyer-dependent,,,Screed works depend entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262321,buyer-dependent,,,Floor-screed works depend entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262330,buyer-dependent,,,Concrete repair work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262340,buyer-dependent,,,Grouting work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262350,buyer-dependent,,,Unreinforced-concrete work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262360,buyer-dependent,,,Cementing work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262370,buyer-dependent,,,Concrete-coating work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262400,buyer-dependent,,,Structural steel erection work depends entirely on the purpose of the building.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
+45262410,buyer-dependent,,,Structural steel erection work for buildings depends entirely on the purpose.,high,gm_pro_v1_en,,,cpv_cofog_v1.md,,,2026-09-27 20:42
