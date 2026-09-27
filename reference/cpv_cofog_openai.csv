@@ -1,0 +1,41 @@
+cpv,cofog_primary,cofog_secondary,secondary_condition,justification,confidence,provider,model,run_at
+03000000,04.2,,,"Agricultural outputs for farming, forestry, fishing activities.",high,openai,gpt-5.4-mini,2026-09-27 16:48
+03100000,04.2,,,Agricultural and horticultural goods serve agricultural functions.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03110000,04.2,,,Crop products are typically for agriculture and horticulture.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03111000,04.2,,,Seeds are agricultural inputs for cultivation.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03111100,04.2,,,Soybeans are an agricultural crop product.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03111300,04.2,,,Sunflower seeds are agricultural crop outputs.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03111700,04.2,,,Vegetable seeds support horticultural production.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03111800,04.2,,,Fruit seeds support horticultural production.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03111900,04.2,,,Flower seeds are horticultural inputs.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03112000,04.2,,,Unmanufactured tobacco is an agricultural crop.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03113000,04.2,,,Sugar crops are agricultural raw materials.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03114000,04.2,,,Straw and forage are agricultural feed products.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03114100,04.2,,,Straw is an agricultural by-product and feed.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03114200,04.2,,,Forage is used in agriculture and livestock.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03115000,04.2,,,Raw vegetable materials are agricultural commodities.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03115100,04.2,,,Textile crops are agricultural raw materials.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03115110,04.2,,,Cotton is an agricultural textile crop.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03115120,04.2,,,Jute is an agricultural textile crop.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03116000,04.2,,,Natural rubber products are plant-based agricultural materials.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03116100,04.2,,,Natural rubber is an agricultural raw material.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03116300,04.2,,,Latex products derive from agricultural production.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03117000,04.2,,,Special-purpose plants are agricultural outputs.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03117100,04.2,,,Medicinal or insecticidal plants are agricultural products.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03117120,04.2,,,Medicinal plants are agricultural raw materials.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03117130,04.2,,,Insecticidal plants are agricultural raw materials.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03117200,04.2,,,Seeds for specialized crops remain agricultural inputs.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03120000,04.2,,,Horticultural and nursery products serve agriculture.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03121000,04.2,,,Horticultural products are for cultivation and landscaping.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03121100,04.2,,,Live plants are horticultural products.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03121200,04.2,,,Cut flowers are horticultural products.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03121210,04.2,,,Floral arrangements are horticultural outputs.,medium,openai,gpt-5.4-mini,2026-09-27 16:48
+03130000,04.2,,,Beverage and spice crops are agricultural commodities.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03131100,04.2,,,Coffee beans are agricultural crop products.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03132000,04.2,,,Spices are agricultural raw products.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03140000,04.2,,,Animal products serve agricultural production.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03142000,04.2,,,Animal products are agricultural outputs.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03142100,04.2,,,Honey is an agricultural animal product.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03142200,04.2,,,Snails are farmed agricultural products.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03142300,04.2,,,Edible animal-origin products are agricultural goods.,high,openai,gpt-5.4-mini,2026-09-27 16:48
+03142400,04.2,,,Waxes can be animal-derived agricultural products.,medium,openai,gpt-5.4-mini,2026-09-27 16:48

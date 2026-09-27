@@ -1,0 +1,41 @@
+cpv,cofog_primary,cofog_secondary,secondary_condition,justification,confidence,provider,model,run_at
+03000000,04.2,,,"Covers agricultural, forestry, and fishing administration, support, and resource management.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03100000,04.2,,,Agricultural and horticultural production and sector support.,high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03110000,04.2,,,Arable crops and horticultural production.,high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03111000,04.2,08.1,"parks, landscaping, green spaces, urban",Agricultural crop seeds or municipal planting for public green areas.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03111100,04.2,,,"Agricultural crop production, research, and farm support.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03111300,04.2,,,"Agricultural crop production, seed stocks, and farming support.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03111700,04.2,,,"Agricultural production, state farms, or community gardening initiatives.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03111800,04.2,,,"Agricultural fruit production, nurseries, and orchard cultivation.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03111900,08.1,05.4,"biodiversity, meadow, conservation","Sown in public parks, municipal gardens, and urban spaces.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03112000,04.2,,,"Agricultural tobacco crop regulation, production, and agricultural affairs.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03113000,04.2,,,Sugar beet or cane cultivation and agricultural sector support.,high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03114000,buyer-dependent,,,"Feed and bedding for animals in police, defence, zoos, or agriculture.",medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03114100,buyer-dependent,,,"Animal bedding used across police stables, defence, agriculture, or research.",medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03114200,buyer-dependent,,,"Animal feed for mounted police, military units, zoos, or state farms.",medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03115000,04.2,,,Raw agricultural materials for processing or agricultural support.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03115100,04.2,04.4,,Agricultural textile crops supporting farming and manufacturing industries.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03115110,04.2,04.4,,Agricultural commodity and industrial textile raw material.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03115120,04.2,04.4,,Agricultural fiber crop used in textile and industrial applications.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03116000,04.2,04.4,,Raw agricultural harvest of rubber trees used for industrial manufacturing.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03116100,04.2,04.4,,Raw agricultural commodity for industrial processing.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03116300,buyer-dependent,,,"Latex goods used across medical, industrial, or general public sectors.",low,gemini,gemini-3.8-flash,2026-09-27 16:49
+03117000,04.2,,,"Specialised crop cultivation for industrial, pharmaceutical, or agricultural use.",medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03117100,04.2,07.1,"pharmacy, pharmaceutical, medicinal",Specialised crops for pharmaceutical or industrial applications.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03117120,07.1,04.2,,Medicinal plants for pharmaceutical production and health applications.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03117130,04.2,05.3,,Botanical pest control plants for agriculture or environmental management.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03117200,04.2,,,Specialised agricultural seeds for technical or pharmacological cultivation.,high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03120000,08.1,05.4,"biodiversity, reforestation, conservation","Plants and nursery stock for public parks, gardens, and landscaping.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03121000,08.1,05.4,"conservation, biodiversity, forestry","Plants, shrubs, and horticultural supplies for public parks and landscaping.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03121100,08.1,05.4,"reforestation, biodiversity, habitat","Planting material for municipal parks, public gardens, and open spaces.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03121200,buyer-dependent,,,"Purchased across government bodies for protocol, official ceremonies, and decor.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03121210,buyer-dependent,,,"Used across public entities for official ceremonies, protocol, and events.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03130000,04.2,,,Agricultural cultivation of beverage and spice plants.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03131100,buyer-dependent,,,Canteen and office cafeteria beverage supplies across public bodies.,high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03132000,buyer-dependent,,,"Food and catering supplies across schools, hospitals, defence, and prisons.",medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03140000,04.2,,,"Livestock products, apiculture, and animal husbandry outputs.",medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03142000,04.2,,,Agricultural and animal husbandry products.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03142100,buyer-dependent,,,"Food product procured for catering in schools, hospitals, or defence.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03142200,buyer-dependent,,,Food procurement for institutional catering depending on the purchasing entity.,medium,gemini,gemini-3.8-flash,2026-09-27 16:49
+03142300,buyer-dependent,,,"Food supplies for catering across schools, hospitals, defence, and prisons.",high,gemini,gemini-3.8-flash,2026-09-27 16:49
+03142400,buyer-dependent,,,"Used for maintenance, laboratory work, or conservation across public entities.",medium,gemini,gemini-3.8-flash,2026-09-27 16:49

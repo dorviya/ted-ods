@@ -23,3 +23,14 @@ cross-country indicators of public demand. OECD Statistics and Data Directorate 
 
 Source line under every figure: "Source: TED CSV open data (DG GROW), TED Search API; authors' calculations.
 Above-threshold notices only; counts of distinct notices."
+
+## Query the data from anywhere (no account needed)
+
+    library(DBI); library(duckdb); con <- dbConnect(duckdb())
+    base <- "https://minio.lab.sspcloud.fr/dorviya/diffusion/ted-ods/"
+    dbGetQuery(con, paste0("SELECT country, count(*) AS notices FROM '", base, "panel/notice_cn.parquet' GROUP BY 1 ORDER BY 2 DESC"))
+
+Files: `panel/notice_cn.parquet`, `panel/notice_can.parquet`, `panel/award.parquet` (2016 – Sep 2023; one row per notice or award),
+`panel/monthly_country_type.csv`, `panel/meip_matches.csv`, `api/counts.csv` (monthly counts by country and type, 2016 → today),
+`api/notices/YYYY-MM.jsonl.gz` (raw API pages with text, Oct 2023 → today), `parquet/{cn,can}_YYYY.parquet` (raw CSV years as text),
+`raw/` (the zips). Column meanings: `docs/DATA_NOTES.md` and the codebook in `docs/`.
