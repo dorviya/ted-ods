@@ -19,7 +19,7 @@ months    <- rev(as.character(seq(as.Date("2023-10-01"), Sys.Date(), by = "month
 in_bucket <- suppressWarnings(system2("mc", c("ls", bucket), stdout = TRUE, stderr = FALSE))
 
 ted_page <- function(query, token = NULL) {
-  body <- list(query = query, fields = fields, limit = 10000 %/% length(fields), scope = "ALL", paginationMode = "ITERATION")
+  body <- list(query = query, fields = fields, limit = 10000 %/% (length(fields) + 1), scope = "ALL", paginationMode = "ITERATION")
   if (!is.null(token)) body$iterationNextToken <- token
   request("https://api.ted.europa.eu/v3/notices/search") |>
     req_headers(Accept = "application/json") |> req_body_json(body) |> req_timeout(120) |>
