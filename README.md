@@ -34,3 +34,8 @@ Files: `panel/notice_cn.parquet`, `panel/notice_can.parquet`, `panel/award.parqu
 `panel/monthly_country_type.csv`, `panel/meip_matches.csv`, `api/counts.csv` (monthly counts by country and type, 2016 → today),
 `api/notices/YYYY-MM.jsonl.gz` (raw API pages with text, Oct 2023 → today), `parquet/{cn,can}_YYYY.parquet` (raw CSV years as text),
 `raw/` (the zips). Column meanings: `docs/DATA_NOTES.md` and the codebook in `docs/`.
+
+Added on Sunday: `panel/notice_api.parquet` (every call and award notice Oct 2023 → today with titles, descriptions, values,
+winners, regions), `reference/cpv_cofog_consensus.csv` (CPV → COFOG with an agreement score over eleven LLM runs; the
+individual runs are `reference/cpv_cofog_<run>.csv`), `outputs/validation_sample.csv` (200 notices to hand-label; do not
+open `outputs/validation_key.csv` before labelling). Read `docs/TEAM_BRIEFING.md` first.

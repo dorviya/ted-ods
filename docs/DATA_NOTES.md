@@ -44,3 +44,26 @@ Interpretability — The call-to-award link is FUTURE_CAN_ID on the call for ten
 exists only on award notices and is often generic ("Contract", "Acord cadru"). MAIN_ACTIVITY has a stray backslash in
 "General public\services". CAE_TYPE: 1 national authority, 3 regional or local authority, 4 utilities, 5/5A EU or international
 body, 6 body governed by public law, 8 other, N/R national or regional agency, Z unspecified.
+
+## 3 (continued). API notices, October 2023 – September 2026
+2,300,470 competition and result notices from 33 countries (0.2% without a mappable buyer country). Every eForms notice
+carries a procedure title and description in the buyer's language; a region at NUTS-2 or finer for ~90%; a value (total or
+estimated) on ~90% of result notices but only ~43% of competition notices at procedure level (lot-level estimates not yet
+extracted). Monthly counts parsed from the notices equal the count series exactly. The buyer's activity is not among the
+fields fetched so far.
+
+## 4. Fitness for specific uses — COFOG breakdowns, first evidence
+Method: LLM classification of the 8,215 CPV codes in use (never of notices), eleven runs varying model family (OpenAI,
+Gemini), model size, prompt wording, label language (English, French) and batch order, with one exact repeat; consensus by
+majority; per-code agreement as the uncertainty measure. Results: 62% of codes (66% of notices) unanimous, 84% of notices
+on codes with at least 75% agreement, 2.3% contested. The exact repeat of one run agrees with itself 88.6% of the time —
+the noise floor of a single LLM run; label language (89.6%) and prompt wording (88.4%) sit at that floor; model size
+(85.7%), batch context (85.3%) and model family (83.4%) cost more. Contested codes are those COFOG itself leaves
+ambiguous (green-area maintenance, non-scheduled passenger transport, research services, meal delivery, health insurance).
+58% of notices fall on buyer-dependent codes whose function follows the buyer's main activity. Validation: 200 notices
+with descriptions, stratified by agreement band, hand-labelled blind (outputs/validation_sample.csv, key withheld) — pending.
+
+## 4 (continued). Who wins public contracts
+About 4% of awards with a named winner (2016 – September 2023) go to subsidiaries of the 500 largest multinationals of the
+OECD-UNSD register, 8–10% in Spain and Italy; medical-device and pharmaceutical groups dominate. A lower bound: the
+register is incomplete and name variants escape matching; precision 82.5% where registration numbers can be compared.
