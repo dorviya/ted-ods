@@ -2,7 +2,7 @@
 -- table with the same columns as notice_cn/notice_can plus text, buyer activity and legal type, lot values, flags,
 -- winner country and size, award date, procedure id. One row per notice; lot-level fields kept as JSON text.
 INSTALL json; LOAD json;
-SET lambda_syntax = 'ENABLE_SINGLE_ARROW'; SET memory_limit = '20GB'; SET threads = 8; SET preserve_insertion_order = false; SET temp_directory = '/tmp/duckdb_tmp';
+SET lambda_syntax = 'ENABLE_SINGLE_ARROW'; SET memory_limit = '40GB'; SET threads = 4; SET preserve_insertion_order = false; SET temp_directory = '/tmp/duckdb_tmp';
 CREATE MACRO fs(j, p) AS coalesce(json_extract_string(j, p || '[0]'), json_extract_string(j, p));
 CREATE MACRO first_lang(j) AS fs(j, '$.' || json_keys(j)[1]);
 CREATE MACRO strs(j, p) AS from_json(json_extract(j, p), '["VARCHAR"]');                                 -- JSON array -> VARCHAR[]
@@ -42,9 +42,9 @@ CREATE TABLE api AS
          any_true(j, '$.eu-fund-lot', 'true')                                         AS eu_funds,
          json_keys(json_extract(j, '$.title-proc'))[1]                                AS lang,
          first_lang(json_extract(j, '$.title-proc'))                                  AS title,
-         first_lang(json_extract(j, '$.description-proc'))                            AS description,
-         json_extract(j, '$.title-lot')::VARCHAR                                      AS lot_titles,
-         json_extract(j, '$.description-lot')::VARCHAR                                AS lot_descriptions,
+         left(first_lang(json_extract(j, '$.description-proc')), 20000)                            AS description,
+         left(json_extract(j, '$.title-lot')::VARCHAR, 50000)                                      AS lot_titles,
+         left(json_extract(j, '$.description-lot')::VARCHAR, 50000)                                AS lot_descriptions,
          TRY_CAST(fs(j, '$.estimated-value-proc') AS DOUBLE)                          AS est_value,
          fs(j, '$.estimated-value-cur-proc')                                          AS est_value_cur,
          list_sum(list_transform(strs(j, '$.estimated-value-lot'), x -> TRY_CAST(x AS DOUBLE))) AS est_value_lots,
@@ -52,15 +52,15 @@ CREATE TABLE api AS
          list_sum(list_transform(strs(j, '$.framework-maximum-value-lot'), x -> TRY_CAST(x AS DOUBLE))) AS framework_max_value_lots,
          TRY_CAST(fs(j, '$.total-value') AS DOUBLE)                                   AS total_value,
          fs(j, '$.total-value-cur')                                                   AS total_value_cur,
-         json_extract(j, '$.tender-value')::VARCHAR                                   AS tender_values,
-         json_extract(j, '$.duration-period-value-lot')::VARCHAR                      AS lot_durations,
+         left(json_extract(j, '$.tender-value')::VARCHAR, 50000)                                   AS tender_values,
+         left(json_extract(j, '$.duration-period-value-lot')::VARCHAR, 50000)                      AS lot_durations,
          fs(j, '$.duration-period-unit-lot')                                          AS lot_duration_unit,
-         json_extract(j, '$.winner-name')::VARCHAR                                    AS winner_names,
-         json_extract(j, '$.organisation-identifier-tenderer')::VARCHAR               AS winner_ids,
+         left(json_extract(j, '$.winner-name')::VARCHAR, 50000)                                    AS winner_names,
+         left(json_extract(j, '$.organisation-identifier-tenderer')::VARCHAR, 50000)               AS winner_ids,
          fs(j, '$.winner-country')                                                    AS winner_country,
-         json_extract(j, '$.winner-country')::VARCHAR                                 AS winner_countries,
-         json_extract(j, '$.winner-size')::VARCHAR                                    AS winner_sizes,
+         left(json_extract(j, '$.winner-country')::VARCHAR, 50000)                                 AS winner_countries,
+         left(json_extract(j, '$.winner-size')::VARCHAR, 50000)                                    AS winner_sizes,
          TRY_CAST(left(fs(j, '$.winner-decision-date'), 10) AS DATE)                  AS award_date
   FROM n LEFT JOIN cc ON cc.iso3 = fs(j, '$.buyer-country')
-  QUALIFY row_number() OVER (PARTITION BY pub_number ORDER BY month) = 1;
+  ;
 COPY api TO '__OUTPUT__' (FORMAT parquet, COMPRESSION zstd);
