@@ -1,0 +1,13 @@
+# scripts/17_benchmarks.R — official benchmarks from Eurostat, cached as small CSVs in reference/ (committed)
+source("R/packages.R"); library(eurostat); options(timeout = 300)
+get <- function(id, filters) as.data.table(get_eurostat(id, filters = filters, time_format = "raw", cache = FALSE))
+# annual general-government expenditure by function: intermediate consumption (P2), investment (P51G), total (TE)
+cof <- get("gov_10a_exp", list(sector = "S13", unit = "MIO_EUR", na_item = c("P2", "P51G", "TE"),
+                               cofog99 = c("TOTAL", sprintf("GF%02d", 1:10))))
+fwrite(cof, "reference/eurostat_gov_10a_exp.csv")
+# quarterly general-government investment and intermediate consumption; quarterly GDP (current prices, and volume growth y/y)
+inv <- get("gov_10q_ggnfa", list(sector = "S13", unit = "MIO_EUR", na_item = c("P51G", "P2", "TE"), s_adj = c("NSA", "SCA")))
+fwrite(inv, "reference/eurostat_gov_10q_ggnfa.csv")
+gdp <- get("namq_10_gdp", list(na_item = "B1GQ", unit = c("CP_MEUR", "CLV_PCH_SM"), s_adj = "SCA"))
+fwrite(gdp, "reference/eurostat_namq_10_gdp.csv")
+for (x in list(cof, inv, gdp)) print(x[, .(rows = .N, geos = uniqueN(geo), from = min(as.character(time)), to = max(as.character(time)))])

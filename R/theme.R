@@ -26,3 +26,18 @@ ted_countries <- c(AT = "Austria", BE = "Belgium", BG = "Bulgaria", CH = "Switze
                    LT = "Lithuania", LU = "Luxembourg", LV = "Latvia", MK = "North Macedonia", MT = "Malta",
                    NL = "Netherlands", NO = "Norway", PL = "Poland", PT = "Portugal", RO = "Romania", SE = "Sweden",
                    SI = "Slovenia", SK = "Slovakia", UK = "United Kingdom")
+ted_iso3 <- c(AT = "AUT", BE = "BEL", BG = "BGR", CH = "CHE", CY = "CYP", CZ = "CZE", DE = "DEU", DK = "DNK", EE = "EST",
+              ES = "ESP", FI = "FIN", FR = "FRA", GR = "GRC", HR = "HRV", HU = "HUN", IE = "IRL", IS = "ISL", IT = "ITA",
+              LI = "LIE", LT = "LTU", LU = "LUX", LV = "LVA", MK = "MKD", MT = "MLT", NL = "NLD", NO = "NOR", PL = "POL",
+              PT = "PRT", RO = "ROU", SE = "SWE", SI = "SVN", SK = "SVK", UK = "GBR")
+eurostat_geo <- setNames(names(ted_iso3), names(ted_iso3)); eurostat_geo["GR"] <- "EL"   # our ISO-2 -> Eurostat geo
+cofog_names <- c("01" = "01 General public services", "02" = "02 Defence", "03" = "03 Public order & safety",
+                 "04" = "04 Economic affairs", "05" = "05 Environmental protection", "06" = "06 Housing & community amenities",
+                 "07" = "07 Health", "08" = "08 Recreation, culture & religion", "09" = "09 Education", "10" = "10 Social protection")
+cofog_colours <- setNames(pal_ted[c(1, 11, 9, 7, 4, 14, 2, 8, 6, 3)], cofog_names)
+activity_cofog_sql <- "CASE a.activity WHEN 'gen-pub' THEN '01' WHEN 'defence' THEN '02' WHEN 'pub-os' THEN '03' WHEN 'econ-aff' THEN '04'
+  WHEN 'env-pro' THEN '05' WHEN 'hc-am' THEN '06' WHEN 'health' THEN '07' WHEN 'rcr' THEN '08' WHEN 'education' THEN '09'
+  WHEN 'soc-pro' THEN '10' WHEN 'water' THEN '06' WHEN 'electricity' THEN '04' WHEN 'gas-heat' THEN '04' WHEN 'gas-oil' THEN '04'
+  WHEN 'solid-fuel' THEN '04' WHEN 'extraction' THEN '04' WHEN 'rail' THEN '04' WHEN 'urttb' THEN '04' WHEN 'airport' THEN '04'
+  WHEN 'port' THEN '04' WHEN 'post' THEN '04' ELSE 'unresolved' END"
+green_regex <- "électrique|electric|elektro|eléctric|elettric|elektryczn|photovolta|fotovolta|solar|solaire|wärmepumpe|heat pump|pompe à chaleur|isolation thermique|energy efficien|efficacité énergétique|energieeffizien|eficiencia energética|efficienza energetica"
