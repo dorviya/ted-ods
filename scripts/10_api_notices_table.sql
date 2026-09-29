@@ -39,7 +39,7 @@ CREATE TABLE api AS
          fs(j, '$.place-of-performance')                                              AS nuts,
          CASE WHEN length(fs(j, '$.place-of-performance')) >= 4 THEN fs(j, '$.place-of-performance')[1:4] END AS nuts2,
          list_aggregate(list_transform(strs(j, '$.framework-agreement-lot'), x -> x <> 'none'), 'bool_or') AS framework,
-         any_true(j, '$.eu-fund-lot', 'true')                                         AS eu_funds,
+         any_true(j, '$.eu-fund-lot', 'eu-funds')                                         AS eu_funds,
          json_keys(json_extract(j, '$.title-proc'))[1]                                AS lang,
          first_lang(json_extract(j, '$.title-proc'))                                  AS title,
          left(first_lang(json_extract(j, '$.description-proc')), 20000)                            AS description,
