@@ -2,7 +2,7 @@
 -- table with the same columns as notice_cn/notice_can plus text, buyer activity and legal type, lot values, flags,
 -- winner country and size, award date, procedure id. One row per notice; lot-level fields kept as JSON text.
 INSTALL json; LOAD json;
-SET memory_limit = '30GB'; SET threads = 12; SET preserve_insertion_order = false; SET temp_directory = '/tmp/duckdb_tmp';
+SET lambda_syntax = 'ENABLE_SINGLE_ARROW'; SET memory_limit = '20GB'; SET threads = 8; SET preserve_insertion_order = false; SET temp_directory = '/tmp/duckdb_tmp';
 CREATE MACRO fs(j, p) AS coalesce(json_extract_string(j, p || '[0]'), json_extract_string(j, p));
 CREATE MACRO first_lang(j) AS fs(j, '$.' || json_keys(j)[1]);
 CREATE MACRO strs(j, p) AS from_json(json_extract(j, p), '["VARCHAR"]');                                 -- JSON array -> VARCHAR[]
@@ -15,7 +15,7 @@ INSERT INTO cc VALUES ('AUT','AT'),('BEL','BE'),('BGR','BG'),('HRV','HR'),('CYP'
 CREATE TABLE api AS
   WITH n AS (
     SELECT unnest(notices) AS j, regexp_extract(filename, '(\d{4}-\d{2})', 1) AS month
-    FROM read_json('data/api/notices_v2/*.jsonl.gz', format = 'newline_delimited', columns = {'notices': 'JSON[]'},
+    FROM read_json('__INPUT__', format = 'newline_delimited', columns = {'notices': 'JSON[]'},
                    filename = true, maximum_object_size = 67108864))
   SELECT json_extract_string(j, '$.publication-number')                              AS pub_number,
          fs(j, '$.procedure-identifier')                                              AS procedure_id,
@@ -63,4 +63,4 @@ CREATE TABLE api AS
          TRY_CAST(left(fs(j, '$.winner-decision-date'), 10) AS DATE)                  AS award_date
   FROM n LEFT JOIN cc ON cc.iso3 = fs(j, '$.buyer-country')
   QUALIFY row_number() OVER (PARTITION BY pub_number ORDER BY month) = 1;
-COPY api TO 'outputs/panel/notice_api.parquet' (FORMAT parquet, COMPRESSION zstd);
+COPY api TO '__OUTPUT__' (FORMAT parquet, COMPRESSION zstd);
