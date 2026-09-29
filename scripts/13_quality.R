@@ -47,7 +47,7 @@ win_csv <- q("
          round(avg(CASE WHEN try_cast(a.offers AS INT) IS NOT NULL
                         THEN (try_cast(a.offers AS INT) = 1)::int END), 3)            AS single_bid,
          round(avg(CASE WHEN a.winner_country IS NOT NULL
-                        THEN (a.winner_country <> c.country)::int END), 3)            AS cross_border
+                        THEN (replace(replace(a.winner_country, c.country, ''), '---', '') <> '')::int END), 3)            AS cross_border
   FROM 'outputs/panel/award.parquet' AS a JOIN 'outputs/panel/notice_can.parquet' AS c ON a.id::varchar = c.id::varchar
   GROUP BY 1, 2 ORDER BY 1, 2")
 fwrite(win_csv, "outputs/quality/winners_csv_years.csv")
