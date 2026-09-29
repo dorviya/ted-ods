@@ -13,7 +13,7 @@ dbExecute(con, "CREATE MACRO act_csv(x) AS CASE
   WHEN x ILIKE '%public order%' THEN 'pub-os' WHEN x ILIKE '%defence%' THEN 'defence' WHEN x ILIKE '%environment%' THEN 'env-pro'
   WHEN x ILIKE '%economic%' THEN 'econ-aff' WHEN x ILIKE '%housing%' THEN 'hc-am' WHEN x ILIKE '%social%' THEN 'soc-pro'
   WHEN x ILIKE '%recreation%' THEN 'rcr' WHEN x ILIKE '%electricity%' THEN 'electricity' WHEN x ILIKE '%gas%' OR x ILIKE '%heat%' THEN 'gas-heat'
-  WHEN x ILIKE '%water%' THEN 'water' WHEN x ILIKE '%railway%' THEN 'rail' WHEN x ILIKE '%urban%' THEN 'urttb'
+  WHEN x ILIKE '%water%' THEN 'water' WHEN x ILIKE '%urban%' THEN 'urttb' WHEN x ILIKE '%railway%' THEN 'rail'
   WHEN x ILIKE '%airport%' THEN 'airport' WHEN x ILIKE '%port%' THEN 'port' WHEN x ILIKE '%postal%' THEN 'post'
   WHEN x ILIKE '%exploration%' OR x ILIKE '%extraction%' THEN 'extraction' WHEN x ILIKE '%other%' THEN 'other' END")
 dbExecute(con, "CREATE MACRO btype_csv(x) AS CASE WHEN x IN ('1', 'N') THEN 'central' WHEN x IN ('3', 'R') THEN 'regional-local'
@@ -49,6 +49,8 @@ dbExecute(con, "CREATE TABLE notice_all AS SELECT * FROM (
   FROM api WHERE type IS NOT NULL)
   QUALIFY row_number() OVER (PARTITION BY type, pub_number ORDER BY source) = 1")
 dbExecute(con, "UPDATE notice_all SET value_eur = value WHERE source = 'api' AND value_cur = 'EUR'")
+fx <- fread("reference/fx_eur_monthly.csv"); dbWriteTable(con, "fx", fx)
+dbExecute(con, "UPDATE notice_all SET value_eur = value / fx.rate FROM fx WHERE source = 'api' AND value_eur IS NULL AND value_cur = fx.currency AND strftime(coalesce(dispatch_date, pub_date), '%Y-%m') = fx.month")
 
 print(dbGetQuery(con, "SELECT source, type, year(coalesce(dispatch_date, pub_date)) AS year, count(*) AS notices,
   round(avg((value_eur IS NOT NULL)::INT), 2) AS has_value_eur, round(avg((activity IS NOT NULL)::INT), 2) AS has_activity,
