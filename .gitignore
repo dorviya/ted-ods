@@ -10,3 +10,4 @@ status.md
 .Rproj.user/
 __pycache__/
 .DS_Store
+outputs/panel/cofog_monthly.csv
