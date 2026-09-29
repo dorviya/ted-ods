@@ -20,3 +20,9 @@ theme_ted <- function(base_size = 16, font = "sans") {
 ted_source <- paste("Source: TED CSV open data (DG GROW) to Sept. 2023, TED Search API from Oct. 2023; authors' calculations.",
                     "Above-threshold notices only; procedures counted once, at their first notice.")
 save_fig <- function(p, name, w = 16, h = 9) ggsave(file.path("outputs/figures", name), p, width = w, height = h, dpi = 200, bg = "white")
+ted_countries <- c(AT = "Austria", BE = "Belgium", BG = "Bulgaria", CH = "Switzerland", CY = "Cyprus", CZ = "Czechia",
+                   DE = "Germany", DK = "Denmark", EE = "Estonia", ES = "Spain", FI = "Finland", FR = "France", GR = "Greece",
+                   HR = "Croatia", HU = "Hungary", IE = "Ireland", IS = "Iceland", IT = "Italy", LI = "Liechtenstein",
+                   LT = "Lithuania", LU = "Luxembourg", LV = "Latvia", MK = "North Macedonia", MT = "Malta",
+                   NL = "Netherlands", NO = "Norway", PL = "Poland", PT = "Portugal", RO = "Romania", SE = "Sweden",
+                   SI = "Slovenia", SK = "Slovakia", UK = "United Kingdom")
