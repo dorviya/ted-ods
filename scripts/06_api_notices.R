@@ -24,7 +24,7 @@ ted_page <- function(query, token = NULL) {
   request("https://api.ted.europa.eu/v3/notices/search") |>
     req_headers(Accept = "application/json") |> req_body_json(body) |> req_timeout(120) |>
     req_error(body = \(r) substr(tryCatch(resp_body_json(r)$message, error = \(e) ""), 1, 300)) |>
-    req_retry(max_tries = 8, backoff = \(i) 5 * i, is_transient = \(r) resp_status(r) %in% c(429, 500, 502, 503, 504)) |>
+    req_retry(max_tries = 8, backoff = \(i) 5 * i, is_transient = \(r) resp_status(r) %in% c(429, 500, 501, 502, 503, 504)) |>
     req_perform() |> resp_body_string()
 }
 

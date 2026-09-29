@@ -18,7 +18,7 @@ ted_count <- function(query) {
       req_body_json(list(query = query, fields = list("publication-number"), page = 1, limit = 1,
                          scope = "ALL", paginationMode = "PAGE_NUMBER")) |>
       req_retry(max_tries = 6, backoff = \(i) 5 * i,
-                is_transient = \(r) resp_status(r) %in% c(429, 500, 502, 503, 504)) |>
+                is_transient = \(r) resp_status(r) %in% c(429, 500, 501, 502, 503, 504)) |>
       req_error(is_error = \(r) FALSE) |>
       req_perform(),
     error = \(e) NULL)
