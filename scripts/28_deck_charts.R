@@ -5,7 +5,7 @@ con <- dbConnect(duckdb()); q <- function(sql) as.data.table(dbGetQuery(con, sql
 dir.create("outputs/figures/deck/slides", recursive = TRUE, showWarnings = FALSE)
 save_deck <- function(p, name, base_slide = 21) {
   ggsave(file.path("outputs/figures/deck", name), p, width = 16, height = 9, dpi = 200, bg = "white")
-  ggsave(file.path("outputs/figures/deck/slides", name), p + labs(title = NULL, subtitle = NULL, caption = NULL) + theme(text = element_text(size = base_slide)),
+  ggsave(file.path("outputs/figures/deck/slides", name), p + labs(title = NULL, subtitle = NULL, caption = NULL) + theme(text = element_text(size = base_slide), legend.text = element_text(size = rel(0.72))),
          width = 12.4, height = 5.3, dpi = 300, bg = "white")
 }
 dots <- guides(fill = guide_legend(override.aes = list(shape = 21, size = 5.5, colour = NA)))       # round legend keys for fills
@@ -16,33 +16,6 @@ sel12 <- c("DE", "FR", "IT", "ES", "PL", "NL", "BE", "AT", "CZ", "SE", "DK", "PT
 nm <- function(x) factor(ted_countries[x], levels = ted_countries[sel12])
 LS <- 4.8   # in-chart text size (≈ 14 pt)
 
-# 00 — the data at a glimpse: four panels, six categories each
-base <- "WITH p AS (SELECT coalesce(procedure_id, pub_number) AS proc, arg_min(contract_type, dispatch_date) AS contract_type,
-  arg_min(buyer_type, dispatch_date) AS buyer_type, arg_min(activity, dispatch_date) AS activity, arg_min(cpv_div, dispatch_date) AS cpv_div
-  FROM 'outputs/panel/notice_all.parquet' WHERE type = 'cn' AND dispatch_date BETWEEN '2016-01-01' AND '2025-12-31' AND country IS NOT NULL GROUP BY 1)"
-dim <- function(panel, col) q(sprintf("%s SELECT '%s' AS panel, coalesce(%s, 'unknown') AS category, count(*) AS n FROM p GROUP BY 1, 2", base, panel, col))
-s <- rbind(dim("What is bought", "cpv_div"), dim("Contract type", "contract_type"), dim("Who buys", "buyer_type"), dim("Buyer activity", "activity"))
-lab <- list("Contract type" = c(U = "Supplies", S = "Services", W = "Works"),
-  "Who buys" = c(central = "Central government", `regional-local` = "Regional or local", `public-law-body` = "Public-law body", utility = "Utility", `eu-international` = "EU / international", other = "Other"),
-  "Buyer activity" = c(`gen-pub` = "General public services", health = "Health", education = "Education", `hc-am` = "Housing & amenities", `env-pro` = "Environment",
-                         `econ-aff` = "Economic affairs", defence = "Defence", `pub-os` = "Public order", `soc-pro` = "Social protection", rcr = "Culture & recreation",
-                         electricity = "Electricity", rail = "Rail", urttb = "Urban transport", water = "Water", other = "Other"),
-  "What is bought" = c(`45` = "Construction", `71` = "Engineering & architecture", `33` = "Medical & pharma", `90` = "Waste, sewage, environment", `79` = "Business services",
-                       `34` = "Vehicles & transport equipment", `50` = "Repair & maintenance", `72` = "IT services", `80` = "Education & training", `09` = "Fuels & electricity"))
-for (p in names(lab)) s[panel == p, category := fifelse(category %in% names(lab[[p]]), lab[[p]][category], "Other")]
-s <- s[, .(n = sum(n)), by = .(panel, category)][, share := n / sum(n), by = panel]
-s[, rank := frank(-share, ties.method = "first"), by = panel][rank > 6 & category != "Other", category := "Other"]
-s <- s[, .(share = sum(share)), by = .(panel, category)][, ord := fifelse(category == "Other", 1, -share)]
-setorder(s, panel, ord); s[, id := factor(paste0(panel, "|", category), levels = rev(paste0(panel, "|", category)))]
-s[, panel := factor(panel, levels = c("What is bought", "Contract type", "Who buys", "Buyer activity"))]
-p00 <- ggplot(s, aes(share, id)) + geom_col(fill = pal_ted[1], width = 0.7) +
-  geom_text(aes(label = sprintf("%.0f%%", 100 * share)), hjust = -0.15, size = LS, colour = "grey30") +
-  facet_wrap(~ panel, scales = "free", nrow = 1) + scale_y_discrete(labels = function(x) sub("^[^|]*\\|", "", x)) +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.35)), labels = NULL) +
-  labs(title = "2.6 million calls for tenders in ten years: what public buyers announce, who they are",
-       subtitle = "Shares of procedures (calls for tenders), 2016–2025, 33 countries. Not shown: 86% of procedures are open; the median award lies between €100,000 and €1 million.",
-       caption = ted_source) + theme_ted() + theme(panel.grid = element_blank(), panel.spacing.x = unit(2.2, "lines"))
-save_deck(p00, "00_glimpse.png")
 
 # 01 — the pulse (14 panels in two rows)
 m <- fread("outputs/quality/monthly_procedures.csv")[type == "cn" & month < as.IDate("2026-09-01")]
@@ -101,7 +74,7 @@ d3[, `:=`(name = nm(country), fn = factor(cof[cofog], levels = cof))]
 tot3 <- yr[type == "can" & year == 2025 & cofog %in% names(cofog_names), .(v = sum(value_eur)), by = cofog][, share := v / sum(v)][order(-share)]
 p03 <- ggplot(d3, aes(year, share, fill = fn)) + geom_area(position = position_stack(reverse = TRUE), colour = "white", linewidth = 0.15, key_glyph = "point") +
   facet_wrap(~ name, ncol = 6) + yrs + scale_y_continuous(labels = pct(), expand = expansion(0)) +
-  scale_fill_manual(values = c(unname(cofog_colours), "grey85")) + dots + guides(fill = guide_legend(nrow = 2, byrow = TRUE, override.aes = list(shape = 21, size = 5.5, colour = NA))) +
+  scale_fill_manual(values = c(unname(cofog_colours), "grey85")) + dots + guides(fill = guide_legend(nrow = 3, byrow = TRUE, override.aes = list(shape = 21, size = 5.5, colour = NA))) +
   labs(title = sprintf("Public demand by government function: %s takes %.0f%% of awarded value in 2025, %s %.0f%%", sub("^\\d+ ", "", cof[tot3$cofog[1]]), 100 * tot3$share[1], tolower(sub("^\\d+ ", "", cof[tot3$cofog[2]])), 100 * tot3$share[2]),
        subtitle = "Share of awarded value by COFOG division, award notices, 2016–2025; function from the product bought, or from the buyer's activity for generic products.",
        caption = paste(ted_source, "Values €1,000–<€1bn, one per procedure and value, frameworks excluded. Municipal buyers are coded 'general public services'.")) +
@@ -119,7 +92,7 @@ sc[, `:=`(name = nm(country), fn = factor(cofog_names[cofog], levels = cofog_nam
 p04 <- ggplot(sc, aes(off_share, ted_share, colour = fn)) + geom_abline(slope = 1, intercept = 0, colour = "grey60", linetype = "22") + geom_point(size = 3) +
   geom_text(data = rc, aes(x = 0.006, y = 0.45, label = paste0("r = ", r)), inherit.aes = FALSE, hjust = 0, size = LS - 0.6, colour = "grey35") +
   facet_wrap(~ name, ncol = 6) + scale_x_log10(limits = c(0.005, 0.6), breaks = c(0.01, 0.1), labels = pct()) + scale_y_log10(limits = c(0.005, 0.6), breaks = c(0.01, 0.1), labels = pct()) +
-  scale_colour_manual(values = cofog_colours) + guides(colour = guide_legend(nrow = 2, byrow = TRUE, override.aes = list(size = 5))) +
+  scale_colour_manual(values = cofog_colours) + guides(colour = guide_legend(nrow = 3, byrow = TRUE, override.aes = list(size = 5))) +
   labs(title = sprintf("The large functions line up with official expenditure; defence, social protection and housing do not (r = %.2f, 2022)", r_all),
        subtitle = "TED share of awarded value by COFOG division (vertical) against Eurostat's share of intermediate consumption plus investment by function (horizontal), 2022, log scales.",
        caption = paste(ted_source, "Eurostat gov_10a_exp: P.2 + P.51G, S.13.")) + theme_ted() + theme(aspect.ratio = 1)
@@ -154,10 +127,10 @@ dd <- fread("outputs/quality/double_tagging_year.csv")[cofog %in% names(cofog_na
 cross <- dd[, sum(value_eur[sec_div != "none" & sec_div != cofog], na.rm = TRUE) / sum(value_eur, na.rm = TRUE)]
 dt <- dd[, .(v = sum(value_eur, na.rm = TRUE)), by = .(cofog, sec_div)][, share := v / sum(v), by = cofog][sec_div != "none" & sec_div != cofog]
 top <- dt[, .(v = sum(v)), by = sec_div][order(-v)][1:min(5, .N), sec_div]
-dt <- dt[, sec_lab := fifelse(sec_div %in% top, cofog_names[sec_div], "Other")][, .(share = sum(share)), by = .(cofog, sec_lab)]
-dt[, `:=`(fn = factor(cofog_names[cofog], levels = rev(cofog_names)), sec_lab = factor(sec_lab, levels = c(cofog_names[top], "Other")))]
+dt <- dt[, sec_lab := fifelse(sec_div %in% top, sub("^\\d+ ", "", cofog_names[sec_div]), "Other")][, .(share = sum(share)), by = .(cofog, sec_lab)]
+dt[, `:=`(fn = factor(cofog_names[cofog], levels = rev(cofog_names)), sec_lab = factor(sec_lab, levels = c(sub("^\\d+ ", "", cofog_names[top]), "Other")))]
 p06 <- ggplot(dt, aes(share, fn, fill = sec_lab)) + geom_col(width = 0.72, key_glyph = "point") +
-  scale_x_continuous(labels = pct(), expand = expansion(mult = c(0, 0.05))) + scale_fill_manual(values = c(unname(cofog_colours[cofog_names[top]]), "grey80")) + dots +
+  scale_x_continuous(labels = pct(), expand = expansion(mult = c(0, 0.05))) + scale_fill_manual(values = c(unname(cofog_colours[cofog_names[top]]), "grey80")) + guides(fill = guide_legend(nrow = 2, byrow = TRUE, override.aes = list(shape = 21, size = 5.5, colour = NA))) +
   labs(title = sprintf("One purchase, two purposes: %.0f%% of awarded value serves a second government function", 100 * cross),
        subtitle = "Share of awarded value whose product carries a secondary COFOG tag in another division, by primary division, 2016–2025, 33 countries; colour: the secondary division.",
        caption = paste(ted_source, "Tags: plurality of 11 LLM runs, at least 4 votes; same-division tags (sub-functions) excluded; conditional tags not applied.")) + theme_ted() + hgrid
@@ -220,3 +193,54 @@ pq2 <- ggplot(f, aes(field, name, fill = share)) + geom_tile(colour = "white", l
        caption = ted_source) + theme_ted() + theme(panel.grid = element_blank())
 save_deck(pq2, "q2_field_coverage.png")
 cat("deck charts written:", length(list.files("outputs/figures/deck/slides")), "\n")
+
+# 00a / 00b — the data at a glimpse: two composites of independent bar panels (grid), so titles and labels never clip
+library(grid)
+base <- "WITH p AS (SELECT type, coalesce(procedure_id, pub_number) AS proc, min(dispatch_date) AS d,
+  arg_min(contract_type, dispatch_date) AS contract_type, arg_min(buyer_type, dispatch_date) AS buyer_type, arg_min(activity, dispatch_date) AS activity,
+  arg_min(cpv_div, dispatch_date) AS cpv_div, arg_min(procedure, dispatch_date) AS procedure,
+  sum(DISTINCT CASE WHEN value_eur BETWEEN 1e3 AND 999999999 AND NOT coalesce(framework, false) THEN value_eur END) AS value_eur
+  FROM 'outputs/panel/notice_all.parquet' WHERE dispatch_date BETWEEN '2016-01-01' AND '2025-12-31' AND country IS NOT NULL GROUP BY 1, 2)"
+dim <- function(expr, where = "type = 'cn'") q(sprintf("%s SELECT coalesce(%s, 'unknown') AS category, count(*) AS n FROM p WHERE %s GROUP BY 1", base, expr, where))
+relabel <- function(dt, map, top = Inf) {
+  dt[, category := fifelse(category %in% names(map), map[category], "Other")]
+  dt <- dt[, .(n = sum(n)), by = category][, share := n / sum(n)]
+  dt[, rank := frank(-share, ties.method = "first")][rank > top & category != "Other", category := "Other"]
+  dt <- dt[, .(share = sum(share)), by = category]; setorder(dt, share)
+  dt[, category := factor(category, levels = c("Other", setdiff(as.character(category), "Other")))]; dt }
+what  <- relabel(dim("cpv_div"), c(`45` = "Construction", `71` = "Engineering & architecture", `33` = "Medical & pharma", `90` = "Waste, sewage, environment",
+                 `79` = "Business services", `34` = "Vehicles & transport equipment", `50` = "Repair & maintenance", `72` = "IT services", `80` = "Education & training",
+                 `09` = "Fuels & electricity", `30` = "Office & computing", `15` = "Food"), top = 8)
+ctype <- relabel(dim("contract_type"), c(U = "Supplies", S = "Services", W = "Works"))[category != "Other"]
+proc  <- relabel(dim("procedure"), c(open = "Open", restricted = "Restricted", `neg-w-call` = "Negotiated with call", `neg-wo-call` = "Negotiated without call",
+                 `comp-dial` = "Competitive dialogue", innovation = "Innovation partnership"), top = 5)
+vb <- c(`3` = "€1k–10k", `4` = "€10k–100k", `5` = "€100k–1M", `6` = "€1M–10M", `7` = "€10M–100M", `8` = "€100M–1bn")
+vals <- dim("floor(log10(value_eur))::int::varchar", "type = 'can' AND value_eur IS NOT NULL")[category %in% names(vb)]
+vals[, `:=`(category = factor(vb[category], levels = vb), share = n / sum(n))]
+who   <- relabel(dim("buyer_type"), c(`regional-local` = "Regional or local", `public-law-body` = "Public-law body", central = "Central government", utility = "Utility", `eu-international` = "EU / international"))
+act   <- relabel(dim("activity"), c(`gen-pub` = "General public services", health = "Health", education = "Education", `hc-am` = "Housing & amenities", `env-pro` = "Environment",
+                 `econ-aff` = "Economic affairs", defence = "Defence", `pub-os` = "Public order", `soc-pro` = "Social protection", rcr = "Culture & recreation",
+                 electricity = "Electricity", rail = "Rail", urttb = "Urban transport", water = "Water"), top = 8)
+years <- dim("year(d)::varchar")[, share := n / sum(n)][, category := factor(category, levels = sort(as.character(category)))]
+bar_panel <- function(dt, title) ggplot(dt, aes(share, category)) + geom_col(fill = pal_ted[1], width = 0.72) +
+  geom_text(aes(label = sprintf("%.0f%%", 100 * share)), hjust = -0.2, size = LS, colour = "grey30") +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.35)), labels = NULL) + coord_cartesian(clip = "off") + labs(title = title) +
+  theme_ted() + theme(panel.grid = element_blank(), plot.title = element_text(size = rel(1.05), margin = margin(b = 8)), plot.margin = margin(6, 30, 6, 6))
+save_grid <- function(plots, name, ncol, title, subtitle, caption, base_slide = 21) {
+  draw <- function(file, w, h, dpi, txt, with_text) {
+    png(file, width = w, height = h, units = "in", res = dpi, bg = "white", type = "cairo"); grid.newpage()
+    top <- if (with_text) 0.15 else 0.01; bot <- if (with_text) 0.06 else 0.01
+    if (with_text) { grid.text(title, x = 0.015, y = 0.97, just = c("left", "top"), gp = gpar(fontsize = txt * 1.35, fontface = "bold"))
+      grid.text(subtitle, x = 0.015, y = 0.905, just = c("left", "top"), gp = gpar(fontsize = txt * 0.95, col = "grey35"))
+      grid.text(caption, x = 0.015, y = 0.015, just = c("left", "bottom"), gp = gpar(fontsize = txt * 0.65, col = "grey45")) }
+    nrow <- ceiling(length(plots) / ncol)
+    pushViewport(viewport(y = bot, height = 1 - top - bot, just = "bottom", layout = grid.layout(nrow, ncol)))
+    for (i in seq_along(plots)) print(plots[[i]] + theme(text = element_text(size = txt)), vp = viewport(layout.pos.row = (i - 1) %/% ncol + 1, layout.pos.col = (i - 1) %% ncol + 1))
+    dev.off() }
+  draw(file.path("outputs/figures/deck", name), 16, 9, 200, 16, TRUE); draw(file.path("outputs/figures/deck/slides", name), 12.4, 5.3, 300, base_slide, FALSE) }
+save_grid(list(bar_panel(what, "What is bought (product division)"), bar_panel(ctype, "Contract type"), bar_panel(proc, "Procedure"), bar_panel(vals, "Awarded value per procedure")),
+          "00a_glimpse_what.png", ncol = 2, title = "What public buyers announce, and how",
+          subtitle = "Shares of procedures (calls for tenders), 2016–2025, 33 countries; awarded values from award notices, one value per procedure, framework agreements excluded.", caption = ted_source)
+save_grid(list(bar_panel(who, "Who buys (buyer type)"), bar_panel(act, "The buyer's main activity"), bar_panel(years, "Calls for tenders per year")),
+          "00b_glimpse_who.png", ncol = 3, title = "Who the buyers are, and how the flow has grown",
+          subtitle = "Shares of procedures (calls for tenders), 2016–2025, 33 countries.", caption = ted_source)

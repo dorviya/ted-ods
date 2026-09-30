@@ -38,7 +38,7 @@ theme_ted <- function(base_size = 16, font = "sans") {   # all sizes relative to
           plot.subtitle = element_text(colour = "grey35", size = rel(0.95), margin = margin(b = 14), lineheight = 1.1),
           plot.caption = element_text(colour = "grey45", size = rel(0.65), hjust = 0, margin = margin(t = 12)),
           plot.title.position = "plot", plot.caption.position = "plot",
-          strip.text = element_text(face = "bold", hjust = 0, size = rel(0.9), margin = margin(b = 4)),
+          strip.text = element_text(face = "bold", hjust = 0, size = rel(0.85), margin = margin(b = 4)), strip.clip = "off",
           panel.grid.minor = element_blank(), panel.grid.major.x = element_blank(),
           panel.grid.major.y = element_line(colour = "grey88", linewidth = 0.3), panel.spacing = unit(1.4, "lines"),
           axis.title = element_blank(), axis.text = element_text(colour = "grey40", size = rel(0.75)),
