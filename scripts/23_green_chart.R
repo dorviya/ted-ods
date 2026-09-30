@@ -18,7 +18,8 @@ p <- ggplot(g, aes(year, green, colour = country, group = country)) +
   scale_x_continuous(breaks = 2016:2025, limits = c(2016, 2027.4), expand = expansion(0)) +
   scale_y_continuous(labels = scales::label_percent(accuracy = 0.1), limits = c(0, NA), expand = expansion(mult = c(0, 0.05))) +
   labs(title = sprintf("The green share of public demand: %.1f%% of award procedures carry an environmental co-purpose in 2025 — rising in Italy, Czechia and Portugal, flat in Germany", 100 * overall),
-       subtitle = "Share of award procedures whose product code carries a secondary COFOG tag in environmental protection (05), by buyer country, 2016–2025. Label: 2025 value.",
-       caption = paste(ted_source, "Code-level tags only (plurality of 11 LLM runs, at least 4 votes); conditional tags (electric, solar, energy-efficient) not applied — a lower bound.")) +
+       subtitle = "Share of award procedures whose product code carries a secondary COFOG tag in environmental protection (05), by buyer country, 2016–2025; label: 2025 value.
+What carries the tag differs: solar panels in Czechia and Poland, bus fleets in Italy, electric vehicles in Spain, energy-efficiency consultancy in the Netherlands, landscaping in Germany, France and Austria.",
+       caption = paste(ted_source, "Code-level tags only (plurality of 11 LLM runs, at least 4 votes); conditional tags (electric, solar, energy-efficient) not applied; buses and landscaping carry the tag unconditionally.")) +
   theme_ted(base_size = 15)
 save_fig(p, "07_green_share_lines.png")
