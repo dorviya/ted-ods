@@ -1,25 +1,21 @@
-# scripts/23_green_chart.R — the green share of award procedures, twelve countries on one panel, labelled at the last point
+# scripts/23_green_chart.R — green public demand: award procedures whose primary function is environmental protection, stacked with those carrying it as a co-purpose
 source("R/packages.R"); source("R/theme.R")
 d <- fread("outputs/quality/double_tagging_year.csv")
 sel12 <- c("DE", "FR", "IT", "ES", "PL", "NL", "BE", "AT", "CZ", "SE", "DK", "PT")
-g <- d[country %in% sel12 & year <= 2025, .(green = sum(procedures[green == TRUE]) / sum(procedures)), by = .(country, year)]
-overall <- d[year == 2025, sum(procedures[green == TRUE]) / sum(procedures)]
-last <- g[year == 2025][order(green)]
-gap <- 0.0011                                        # minimum vertical distance between end labels
-last[, y_lab := green]; for (i in seq_len(nrow(last))[-1]) last[i, y_lab := max(green, last$y_lab[i - 1] + gap)]
-last[, lab := sprintf("%s  %.1f%%", ted_countries[country], 100 * green)]
-g[, country := factor(country, levels = last$country)]; last[, country := factor(country, levels = levels(g$country))]
-shades <- colorRampPalette(c("#C9E3B4", "#6DB33F", "#3A8415", "#173D0C"))(nrow(last))
-p <- ggplot(g, aes(year, green, colour = country, group = country)) +
-  geom_line(linewidth = 1.1) + geom_point(size = 1.9) +
-  geom_segment(data = last, aes(x = 2025.08, xend = 2025.42, y = green, yend = y_lab), colour = "grey70", linewidth = 0.3, inherit.aes = FALSE) +
-  geom_text(data = last, aes(x = 2025.5, y = y_lab, label = lab, colour = country), hjust = 0, size = 4.2, fontface = "bold", inherit.aes = FALSE) +
-  scale_colour_manual(values = shades, guide = "none") +
-  scale_x_continuous(breaks = 2016:2025, limits = c(2016, 2027.4), expand = expansion(0)) +
-  scale_y_continuous(labels = scales::label_percent(accuracy = 0.1), limits = c(0, NA), expand = expansion(mult = c(0, 0.05))) +
-  labs(title = sprintf("The green share of public demand: %.1f%% of award procedures carry an environmental co-purpose in 2025 — rising in Italy, Czechia and Portugal, flat in Germany", 100 * overall),
-       subtitle = "Share of award procedures whose product code carries a secondary COFOG tag in environmental protection (05), by buyer country, 2016–2025; label: 2025 value.
-What carries the tag differs: solar panels in Czechia and Poland, bus fleets in Italy, electric vehicles in Spain, energy-efficiency consultancy in the Netherlands, landscaping in Germany, France and Austria.",
-       caption = paste(ted_source, "Code-level tags only (plurality of 11 LLM runs, at least 4 votes); conditional tags (electric, solar, energy-efficient) not applied; buses and landscaping carry the tag unconditionally.")) +
-  theme_ted(base_size = 15)
-save_fig(p, "07_green_share_lines.png")
+g <- d[country %in% sel12 & year <= 2025, .(`Primary purpose: environmental protection (05)` = sum(procedures[cofog == "05"]) / sum(procedures),
+                                              `Co-purpose: secondary tag 05 on another function` = sum(procedures[green == TRUE & cofog != "05"]) / sum(procedures)),
+       by = .(country, year)]
+gl <- melt(g, id.vars = c("country", "year"), variable.name = "layer", value.name = "share")
+gl[, `:=`(name = factor(ted_countries[country], levels = ted_countries[sel12]), layer = factor(layer, levels = rev(levels(layer))))]
+tot <- d[year == 2025, .(prim = sum(procedures[cofog == "05"]) / sum(procedures), sec = sum(procedures[green == TRUE & cofog != "05"]) / sum(procedures))]
+p <- ggplot(gl, aes(year, share, fill = layer)) + geom_area(colour = "white", linewidth = 0.2) +
+  facet_wrap(~ name, ncol = 4) +
+  scale_x_continuous(breaks = c(2016, 2019, 2022, 2025), labels = function(x) paste0("'", substr(x, 3, 4))) +
+  scale_y_continuous(labels = scales::label_percent(accuracy = 1), expand = expansion(mult = c(0, 0.05))) +
+  scale_fill_manual(values = c(pal_ted[10], pal_ted[4])) +
+  labs(title = sprintf("Green public demand: %.0f%% of award procedures have environmental protection as their purpose, %.1f%% more as a co-purpose (2025)", 100 * tot$prim, 100 * tot$sec),
+       subtitle = paste("Share of award procedures by buyer country, 2016–2025: primary function environmental protection (waste, sewage, remediation, environmental services),",
+                        "stacked with a secondary tag 05 on another primary function (solar panels, bus fleets, landscaping, water networks…)."),
+       caption = paste(ted_source, "Functions from the CPV→COFOG consensus of 11 LLM runs (secondary: plurality, at least 4 votes); conditional tags not applied.")) +
+  theme_ted(base_size = 13) + theme(panel.spacing.x = unit(1.6, "lines"))
+save_fig(p, "07_green_tracker.png")

@@ -1,0 +1,171 @@
+pub_number,sample_id,cpv,human_primary_name,human_group_name,human_div,comment,band,consensus,activity,machine,source,agree
+104299-2026,84,60130000,Education,Subsidiary services to education,09,"",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+105866-2024,41,71314100,General public services,General services,01,"",contested (<=50%),04,gen-pub,04,product code,FALSE
+108064-2025,154,77310000,"Recreation, culture and religion",Recreational and sporting services,08,"",contested (<=50%),08,gen-pub,08,product code,TRUE
+111297-2024,36,45213150,General public services,General services,01,"",strong (75-99%),BD,gen-pub,01,buyer activity,TRUE
+115263-2024,114,90900000,General public services,General services,01,"",strong (75-99%),BD,gen-pub,01,buyer activity,TRUE
+118743-2025,31,77310000,"Recreation, culture and religion",Recreational and sporting services,08,"",contested (<=50%),08,gen-pub,08,product code,TRUE
+120200-2026,20,35000000,Public order and safety,Police services,03,"",majority (50-75%),03,pub-os,03,product code,TRUE
+120202-2025,79,31527200,"Recreation, culture and religion",Cultural services,08,"",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+126216-2026,108,50324200,Housing and community amenities,Housing development,06,"",unanimous,BD,hc-am,06,buyer activity,TRUE
+127343-2026,133,33190000,Health,Hospital services,07,"",unanimous,07,gen-pub,07,product code,TRUE
+130648-2026,104,45454100,Housing and community amenities,Housing development,06,"",strong (75-99%),BD,hc-am,06,buyer activity,TRUE
+131963-2024,96,90513000,Environmental protection,Waste management,05,"",unanimous,05,env-pro,05,product code,TRUE
+142811-2026,162,32240000,Economic affairs,Transport,04,Surveillance but for the transport company,majority (50-75%),08,gen-pub,08,product code,FALSE
+143030-2025,170,34100000,Economic affairs,Transport,04,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+150145-2025,48,73000000,Economic affairs,R&D economic affairs,04,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+154498-2026,90,60000000,Economic affairs,Transport,04,"",majority (50-75%),04,gen-pub,04,product code,TRUE
+15507-2026,112,55521200,Education,Subsidiary services to education,09,"",contested (<=50%),10,gen-pub,10,product code,FALSE
+160296-2025,51,90921000,Health,Public health services,07,"Could also be related to agriculture as in the manual pest control services is written there, but looking at the function, health fits better",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+167481-2026,39,80200000,Education,Secondary education,09,"The program starts in 5th grade which would still be primary, and goes up to secondary, Since they put the classification secondary, we use that one, as we are forced to choose",unanimous,09,education,09,product code,TRUE
+168674-2024,131,79713000,Health,Hospital services,07,"",majority (50-75%),BD,health,07,buyer activity,TRUE
+173456-2025,60,77310000,"Recreation, culture and religion",Recreational and sporting services,08,"",contested (<=50%),08,gen-pub,08,product code,TRUE
+174040-2026,7,73100000,Education,R&D education,09,"",majority (50-75%),01,education,01,product code,FALSE
+175853-2025,163,45262400,Economic affairs,Transport,04,"",unanimous,BD,env-pro,05,buyer activity,FALSE
+183630-2025,62,45112500,Economic affairs,Transport,04,"",unanimous,BD,hc-am,06,buyer activity,FALSE
+185959-2026,97,79952000,Economic affairs,"Agriculture, forestry, fishing and hunting",04,Doesn't really fall under any definition of the manual,unanimous,BD,gen-pub,01,buyer activity,FALSE
+18929-2026,76,71631000,Housing and community amenities,Housing development,06,"",strong (75-99%),BD,hc-am,06,buyer activity,TRUE
+190310-2024,102,64121200,General public services,General services,01,"",majority (50-75%),BD,econ-aff,04,buyer activity,FALSE
+191624-2025,125,71351810,Education,Tertiary education,09,"",contested (<=50%),04,education,04,product code,FALSE
+19223-2026,113,73000000,Public order and safety,R&D public order and safety,03,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+192534-2025,16,60130000,Social protection,Sickness and disability,10,"Wouldn’t put it under education as it is reserved for disabled students: """"assistance provided to disabled persons to help them with daily tasks (home help, transport facilities etc.""""",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+193634-2024,159,34221000,Environmental protection,Waste management,05,"",strong (75-99%),BD,env-pro,05,buyer activity,TRUE
+200023-2024,9,71410000,Housing and community amenities,Community development,06,"",contested (<=50%),06,gen-pub,06,product code,TRUE
+213159-2026,155,90900000,Public order and safety,Fire-protection services,03,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+218109-2024,164,79611000,Social protection,Unemployment,10,"",contested (<=50%),04,gen-pub,04,product code,FALSE
+218300-2024,98,18230000,Economic affairs,Transport,04,"",unanimous,BD,rail,04,buyer activity,TRUE
+221984-2024,135,90520000,Environmental protection,Waste management,05,"",unanimous,05,env-pro,05,product code,TRUE
+227984-2024,19,22113000,"Recreation, culture and religion",Cultural services,08,"",majority (50-75%),08,gen-pub,08,product code,TRUE
+232309-2024,10,77230000,Economic affairs,"Agriculture, forestry, fishing and hunting",04,"",unanimous,04,gen-pub,04,product code,TRUE
+236715-2024,4,31680000,"Recreation, culture and religion",Cultural services,08,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+243714-2024,65,38200000,Environmental protection,R&D environmental protection,05,"Not super clear, could also be n.e.c.",majority (50-75%),04,gen-pub,04,product code,FALSE
+247040-2025,68,33690000,Health,Hospital services,07,"",unanimous,07,health,07,product code,TRUE
+250884-2025,109,33190000,Health,Hospital services,07,Depends whether the U.O.M. is part of the hospital but it seems so,unanimous,07,health,07,product code,TRUE
+252931-2025,66,71313410,Education,Tertiary education,09,"",contested (<=50%),BD,education,09,buyer activity,TRUE
+262915-2026,55,71319000,Health,Hospital services,07,"",contested (<=50%),03,gen-pub,03,product code,FALSE
+27064-2025,151,45443000,"Recreation, culture and religion",Recreational and sporting services,08,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+27377-2026,11,71317000,Public order and safety,Fire-protection services,03,"",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+273863-2024,165,60130000,Economic affairs,Transport,04,"",majority (50-75%),BD,urttb,04,buyer activity,TRUE
+30349-2025,32,85311000,Social protection,Social exclusion n.e.c.,10,"",unanimous,10,gen-pub,10,product code,TRUE
+304046-2026,2,79714000,Public order and safety,Police services,03,"",majority (50-75%),BD,pub-os,03,buyer activity,TRUE
+306518-2026,80,66512200,Economic affairs,Transport,04,"",contested (<=50%),BD,gen-pub,01,buyer activity,FALSE
+31020-2025,58,79952000,Environmental protection,Waste management,05,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+310447-2024,26,45452100,Education,Secondary education,09,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+316477-2025,35,71220000,Health,Hospital services,07,"",unanimous,BD,health,07,buyer activity,TRUE
+318561-2024,106,45210000,Education,Secondary education,09,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+323575-2025,169,71300000,Housing and community amenities,Community development,06,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+324907-2025,69,9135100,Environmental protection,Waste water management,05,"",majority (50-75%),04,gen-pub,04,product code,FALSE
+334732-2025,85,90910000,Health,Health n.e.c.,07,"",strong (75-99%),BD,health,07,buyer activity,TRUE
+334849-2024,128,15000000,Education,Tertiary education,09,"",strong (75-99%),BD,education,09,buyer activity,TRUE
+336271-2025,50,38510000,Health,R&D health,07,"",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+341707-2025,150,45331100,"Recreation, culture and religion",Recreational and sporting services,08,"",unanimous,BD,rcr,08,buyer activity,TRUE
+350390-2024,168,30231320,Education,Education not definable by level,09,"",unanimous,BD,education,09,buyer activity,TRUE
+351906-2024,89,90900000,"Recreation, culture and religion",Recreational and sporting services,08,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+363700-2025,103,60130000,Social protection,Sickness and disability,10,"Ambiguous wording (school assistance), probably refers to disabled students but unsure",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+365116-2024,40,45454100,Housing and community amenities,Housing development,06,"",strong (75-99%),BD,hc-am,06,buyer activity,TRUE
+369862-2026,127,33696500,Education,Tertiary education,09,"",unanimous,07,gen-pub,07,product code,FALSE
+376576-2024,156,79710000,Public order and safety,Police services,03,It should also be law courts as a secondary category but we can only put one,strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+379176-2024,45,42514000,Economic affairs,"Agriculture, forestry, fishing and hunting",04,"",majority (50-75%),BD,env-pro,05,buyer activity,FALSE
+383315-2025,122,45262522,Education,Tertiary education,09,Maybe fire protection but this fits more,unanimous,BD,education,09,buyer activity,TRUE
+387775-2026,88,43210000,Environmental protection,Waste management,05,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+39188-2025,124,77310000,"Recreation, culture and religion",Recreational and sporting services,08,"",contested (<=50%),08,gen-pub,08,product code,TRUE
+396604-2024,29,79611000,Health,Health n.e.c.,07,The secondary categorisation is very tricky as there is no specification,contested (<=50%),04,health,04,product code,FALSE
+397285-2024,61,32323500,Public order and safety,Police services,03,"",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+399606-2025,121,15894300,Education,Subsidiary services to education,09,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+411231-2024,126,90922000,Health,Hospital services,07,"",majority (50-75%),BD,health,07,buyer activity,TRUE
+412175-2026,144,79711000,General public services,General services,01,"",strong (75-99%),BD,gen-pub,01,buyer activity,TRUE
+413428-2026,110,33141000,Health,Hospital services,07,"",unanimous,07,health,07,product code,TRUE
+415676-2024,145,39000000,Education,Pre-primary and primary education,09,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+42151-2025,136,66510000,Economic affairs,Transport,04,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+422622-2025,30,79313000,General public services,General public services n.e.c,01,"",majority (50-75%),BD,gen-pub,01,buyer activity,TRUE
+424481-2024,105,77310000,Health,Hospital services,07,"",contested (<=50%),08,health,08,product code,FALSE
+425522-2024,152,35262000,Economic affairs,Transport,04,"",majority (50-75%),03,gen-pub,03,product code,FALSE
+42578-2024,46,45310000,Health,Hospital services,07,"",unanimous,BD,health,07,buyer activity,TRUE
+43375-2025,149,45315700,Health,Hospital services,07,It's a children's hospital,strong (75-99%),04,gen-pub,04,product code,FALSE
+443002-2025,75,45332200,General public services,"Executive and legislative organs, financial and fiscal affairs, external affairs",01,"",strong (75-99%),BD,gen-pub,01,buyer activity,TRUE
+448925-2024,100,79810000,"Recreation, culture and religion",Broadcasting and publishing services,08,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+452686-2025,33,66512200,Economic affairs,Transport,04,"",contested (<=50%),BD,gen-pub,01,buyer activity,FALSE
+457864-2026,93,42414200,General public services,General services,01,It's not so clear from the provided description,strong (75-99%),BD,gen-pub,01,buyer activity,TRUE
+462513-2024,8,71335000,Economic affairs,Transport,04,"",strong (75-99%),BD,env-pro,05,buyer activity,FALSE
+465405-2024,18,90911200,"Recreation, culture and religion",Cultural services,08,"",strong (75-99%),BD,rcr,08,buyer activity,TRUE
+469538-2024,123,73112000,Environmental protection,R&D environmental protection,05,"",contested (<=50%),04,env-pro,04,product code,FALSE
+478560-2026,63,77310000,Defence,Military defence,02,The two forts mentioned are used for defence purposes,contested (<=50%),08,defence,08,product code,FALSE
+48118-2026,107,71354100,Environmental protection,Protection of biodiversity and landscape,05,"Not too detailed, ambiguous on the purpose",contested (<=50%),04,gen-pub,04,product code,FALSE
+483543-2025,71,63500000,General public services,Foreign economic aid,01,"",majority (50-75%),BD,gen-pub,01,buyer activity,TRUE
+486239-2025,14,71319000,Economic affairs,"Agriculture, forestry, fishing and hunting",04,"",contested (<=50%),03,env-pro,03,product code,FALSE
+487294-2026,81,71310000,Social protection,Social exclusion n.e.c.,10,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+490109-2024,28,66000000,General public services,Foreign economic aid,01,Function is providing health services to employees of foreign aid organisation,majority (50-75%),BD,gen-pub,01,buyer activity,TRUE
+492752-2025,53,32210000,Education,Tertiary education,09,"",majority (50-75%),08,education,08,product code,FALSE
+494791-2025,142,66510000,General public services,General services,01,"",strong (75-99%),BD,gen-pub,01,buyer activity,TRUE
+497924-2024,91,90620000,Economic affairs,Transport,04,"",majority (50-75%),04,pub-os,04,product code,TRUE
+499701-2026,56,79419000,Education,Education not definable by level,09,"",strong (75-99%),BD,education,09,buyer activity,TRUE
+500349-2025,83,90513200,Environmental protection,Waste management,05,"",unanimous,05,gen-pub,05,product code,TRUE
+501830-2024,44,66514110,Health,Hospital services,07,"",strong (75-99%),BD,health,07,buyer activity,TRUE
+507180-2024,111,66114000,General public services,General services,01,"",majority (50-75%),BD,gen-pub,01,buyer activity,TRUE
+511407-2025,86,73200000,General public services,Foreign economic aid,01,"",majority (50-75%),01,education,01,product code,TRUE
+516481-2025,130,66510000,Economic affairs,Transport,04,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+518149-2024,119,73220000,General public services,General services,01,"",majority (50-75%),01,gen-pub,01,product code,TRUE
+521528-2025,99,77340000,"Recreation, culture and religion",Recreational and sporting services,08,"",contested (<=50%),05,gen-pub,05,product code,FALSE
+526860-2024,74,45111291,Economic affairs,Transport,04,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+535052-2025,23,48000000,Economic affairs,Transport,04,"",unanimous,BD,airport,04,buyer activity,TRUE
+535715-2025,52,45432130,Public order and safety,Fire-protection services,03,"",unanimous,BD,pub-os,03,buyer activity,TRUE
+550967-2024,6,77311000,"Recreation, culture and religion",Recreation and sporting services,08,"",contested (<=50%),08,gen-pub,08,product code,TRUE
+55335-2024,42,77310000,"Recreation, culture and religion",Recreational and sporting services,08,"",contested (<=50%),08,gen-pub,08,product code,TRUE
+560408-2025,134,48000000,General public services,"Executive and legislative organs, financial and fiscal affairs, external affairs",01,"",unanimous,BD,gen-pub,01,buyer activity,TRUE
+56238-2025,137,90611000,General public services,General services,01,"",majority (50-75%),05,env-pro,05,product code,FALSE
+565942-2026,15,9000000,Environmental protection,Waste management,05,The money is used to buy fossil fuel but the company is a waste management operations company,majority (50-75%),04,env-pro,04,product code,FALSE
+577240-2025,82,71353200,Economic affairs,Transport,04,"",contested (<=50%),04,rail,04,product code,TRUE
+58996-2024,157,3220000,General public services,General services,01,"",majority (50-75%),BD,gen-pub,01,buyer activity,TRUE
+590486-2024,59,98341130,Economic affairs,Transport,04,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+595358-2026,95,60112000,Economic affairs,Transport,04,"",strong (75-99%),04,gen-pub,04,product code,TRUE
+598225-2026,166,60140000,Social protection,Social exclusion n.e.c.,10,"",contested (<=50%),04,gen-pub,04,product code,FALSE
+601377-2025,17,66510000,Economic affairs,Transport,04,"",strong (75-99%),BD,urttb,04,buyer activity,TRUE
+607146-2025,27,66510000,General public services,General services,01,"Different functions for the insurance, fine arts would fall under cultural services, motor vehicles would maybe go under transport etc.",strong (75-99%),BD,gen-pub,01,buyer activity,TRUE
+608116-2026,146,66512000,"Recreation, culture and religion",Cultural services,08,"",majority (50-75%),BD,education,09,buyer activity,FALSE
+608794-2026,38,77310000,Education,Tertiary education,09,"",contested (<=50%),08,gen-pub,08,product code,FALSE
+609909-2024,22,45000000,Education,Pre-primary and primary education,09,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+615619-2025,158,50720000,Health,Hospital services,07,"",unanimous,BD,health,07,buyer activity,TRUE
+622125-2026,3,77310000,Economic affairs,Transport,04,"",contested (<=50%),08,gen-pub,08,product code,FALSE
+623534-2025,24,9310000,Economic affairs,Fuel and energy,04,"The function for which they will use the gas and electricity is not specified, COFOG not applicable, might put it under fuel and energy",majority (50-75%),04,gen-pub,04,product code,TRUE
+630711-2025,5,85147000,Economic affairs,Transport,04,Might also be under health but since it's for Autobahn employees I would put under transport,strong (75-99%),07,gen-pub,07,product code,FALSE
+631358-2025,49,80520000,Public order and safety,Fire-protection services,03,"",majority (50-75%),09,pub-os,09,product code,FALSE
+637987-2024,87,34223000,"Recreation, culture and religion",Cultural services,08,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+639201-2026,12,79314000,Economic affairs,Transport,04,Might be also environment but it is not stated as the primary purpose,majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+639824-2023,141,38434510,Health,Hospital services,07,"",unanimous,07,health,07,product code,TRUE
+639940-2024,92,45231400,Economic affairs,Fuel and energy,04,"",unanimous,04,electricity,04,product code,TRUE
+646208-2024,115,60100000,General public services,General public services n.e.c,01,"",majority (50-75%),04,gen-pub,04,product code,FALSE
+648008-2026,120,71314100,General public services,General services,01,Not under housing because depsite the name Immobilien Bremen also manages publcily used properties like schools and administrative buildings,contested (<=50%),04,gen-pub,04,product code,FALSE
+654548-2025,77,71200000,"Recreation, culture and religion",Cultural services,08,"",unanimous,BD,econ-aff,04,buyer activity,FALSE
+662568-2026,147,33600000,Health,Hospital services,07,"",unanimous,07,health,07,product code,TRUE
+663237-2024,153,45324000,Public order and safety,Fire-protection services,03,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+664373-2024,73,50324100,Education,Tertiary education,09,"",unanimous,BD,education,09,buyer activity,TRUE
+671032-2024,70,71327000,Health,Outpatient services,07,Red Cross is paramedical,strong (75-99%),BD,health,07,buyer activity,TRUE
+680201-2023,132,60130000,Education,Subsidiary services to education,09,"",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+683264-2024,129,73210000,Environmental protection,Protection of biodiversity and landscape,05,"",contested (<=50%),01,gen-pub,01,product code,FALSE
+683932-2024,118,45262370,Economic affairs,Transport,04,"",unanimous,BD,port,04,buyer activity,TRUE
+687660-2024,167,45231100,Economic affairs,Fuel and energy,04,"",majority (50-75%),BD,electricity,04,buyer activity,TRUE
+690930-2025,116,42123100,Environmental protection,Pollution abatement,05,Could also be under fuel and energy but imo this is more specific,majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+701973-2024,21,80400000,Social protection,Unemployment,10,Might maybe fall under education but it's a job center so it's surely for integration in the job market,unanimous,09,soc-pro,09,product code,FALSE
+704770-2025,143,60140000,Social protection,Sickness and disability,10,"",contested (<=50%),04,gen-pub,04,product code,FALSE
+705141-2024,1,72268000,Housing and community amenities,Water supply,06,"",unanimous,BD,water,06,buyer activity,TRUE
+712268-2024,161,79713000,"Recreation, culture and religion",Recreational and sporting services,08,"",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+716505-2025,25,22000000,Economic affairs,Transport,04,"",unanimous,BD,urttb,04,buyer activity,TRUE
+717407-2024,139,66510000,General public services,General services,01,"",strong (75-99%),BD,gen-pub,01,buyer activity,TRUE
+719870-2025,34,77310000,"Recreation, culture and religion",Recreational and sporting services,08,"",contested (<=50%),08,gen-pub,08,product code,TRUE
+733207-2025,54,34114121,Health,Outpatient services,07,"",unanimous,07,health,07,product code,TRUE
+734357-2023,47,60100000,Environmental protection,Waste management,05,"",majority (50-75%),04,gen-pub,04,product code,FALSE
+746524-2025,57,79110000,General public services,General services,01,"",unanimous,BD,gen-pub,01,buyer activity,TRUE
+755223-2023,160,71310000,Economic affairs,Transport,04,"",strong (75-99%),BD,gen-pub,01,buyer activity,FALSE
+765470-2024,13,71321000,Environmental protection,Pollution abatement,05,"",strong (75-99%),BD,hc-am,06,buyer activity,FALSE
+775175-2025,101,60130000,Education,Subsidiary services to education,09,"",majority (50-75%),BD,gen-pub,01,buyer activity,FALSE
+786320-2024,72,66171000,Economic affairs,Fuel and energy,04,"",majority (50-75%),01,electricity,01,product code,FALSE
+799460-2025,64,79611000,Social protection,Sickness and disability,10,"",contested (<=50%),04,soc-pro,04,product code,FALSE
+800228-2024,67,90511000,Environmental protection,Waste management,05,"",unanimous,05,env-pro,05,product code,TRUE
+805871-2025,148,71314200,General public services,General services,01,"",strong (75-99%),04,gen-pub,04,product code,FALSE
+850188-2025,117,33115000,Economic affairs,R&D economic affairs,04,"Not tertiary education becase it doesn’t seem to have to do with teaching, not R&D education as the research subject isn't education itself",unanimous,07,education,07,product code,FALSE
+85907-2026,138,64200000,"Recreation, culture and religion",Cultural services,08,"",majority (50-75%),BD,rcr,08,buyer activity,TRUE
+864398-2025,94,72510000,General public services,General services,01,"",unanimous,BD,gen-pub,01,buyer activity,TRUE
+869465-2025,140,45212212,Education,Education n.e.c.,09,"It is split between primary and secondary schools, wouldn’t know which one to prioritise",unanimous,08,gen-pub,08,product code,FALSE
+8875-2025,78,60112000,Economic affairs,Transport,04,"",strong (75-99%),04,gen-pub,04,product code,TRUE
+88795-2024,37,45321000,Education,Pre-primary and primary education,09,"",unanimous,BD,gen-pub,01,buyer activity,FALSE
+97986-2026,43,71000000,Education,Tertiary education,09,"",unanimous,BD,education,09,buyer activity,TRUE
