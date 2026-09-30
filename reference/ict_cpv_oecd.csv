@@ -1,0 +1,98 @@
+category,cpv,stem,description
+Software,32412000,32412,Communications network
+Software,32412100,324121,Telecommunications network
+Software,32412110,3241211,Internet network
+Software,32412120,3241212,Intranet network
+Software,32413000,32413,Integrated network
+Software,32415000,32415,Ethernet network
+Software,32416000,32416,ISDN network
+Software,32416100,324161,ISDX network
+Software,32417000,32417,Multimedia networks
+Software,32418000,32418,Radio network
+Software,32425000,32425,Network operating system
+Software,32510000,3251,Wireless telecommunications system
+Software,32520000,3252,Telecommunications cable and equipment
+Software,32524000,32524,Telecommunications system
+Software,32551400,325514,Telephone network
+Software,48200000,482,"Networking, Internet and intranet software package"
+Software,48210000,4821,Networking software package
+Software,48211000,48211,Platform interconnectivity software package
+Software,48214000,48214,Network operating system software package
+Software,48215000,48215,Networking developers' software package
+Software,48219700,482197,Communications server software package
+Software,48220000,4822,Internet and intranet software package
+Software,48221000,48221,Internet browsing software package
+Software,48222000,48222,Web server software package
+Software,48223000,48223,Electronic mail software package
+Software,48224000,48224,Web page editing software package
+Software,48300000,483,"Document creation, drawing, imaging, scheduling and productivity software package"
+Software,48312000,48312,Electronic publishing software package
+Software,48316000,48316,Presentation software package
+Software,48317000,48317,Word-processing software package
+Software,48444000,48444,Accounting system
+Software,48443000,48443,Accounting software package
+Software,48440000,4844,Financial analysis and accounting software package
+Software,48441000,48441,Financial analysis software package
+Software,48490000,4849,Procurement software package
+Software,48500000,485,Communication and multimedia software package
+Software,48510000,4851,Communication software package
+Software,48511000,48511,Desktop communications software package
+Software,48512000,48512,Interactive voice response software package
+Software,48514000,48514,Remote access software package
+Software,48515000,48515,Video conferencing software package
+Software,48517000,48517,IT software package
+Software,48600000,486,Database and operating software package
+Software,48610000,4861,Database systems
+Software,48611000,48611,Database software package
+Software,48612000,48612,Database-management system
+Software,48613000,48613,Electronic data management (EDM)
+Software,48620000,4862,Operating systems
+Software,48621000,48621,Mainframe operating system software package
+Software,48781000,48781,System management software package
+Software,48782000,48782,Storage management software package
+Software,48800000,488,Information systems and servers
+Software,48810000,4881,Information systems
+Software,48811000,48811,E-mail system
+Software,48812000,48812,Financial information systems
+Software,48900000,489,Miscellaneous software package and computer systems
+Software,64122000,64122,Internal office mail and messenger services
+Software,64200000,642,Telecommunications services
+Software,64210000,6421,Telephone and data transmission services
+Software,64220000,6422,Telecommunication services except telephone and data transmission services
+Software,64227000,64227,Integrated telecommunications services
+Software,72000000,72,"IT services: consulting, software development, Internet and support"
+Software,72200000,722,Software programming and consultancy services
+Software,72212517,72212517,IT software development services
+Software,72222000,72222,Information systems or technology strategic review and planning services
+Software,72222100,722221,Information systems or technology strategic review services
+Software,72222300,722223,Information technology services
+Software,72500000,725,Computer-related services
+Software,72400000,724,Internet services
+Software,64212000,64212,Mobile-telephone services
+Hardware,30200000,302,Computer equipment and supplies
+Hardware,30210000,3021,Data-processing machines (hardware)
+Hardware,30211000,30211,Mainframe computer
+Hardware,30211300,302113,Computer platforms
+Hardware,30211400,302114,Computer configurations
+Hardware,30211500,302115,Central processing unit (CPU) or processors
+Hardware,30212000,30212,Minicomputer hardware
+Hardware,30212100,302121,Central processing units for minicomputers
+Hardware,30213300,302133,Desktop computer
+Hardware,30230000,3023,Computer-related equipment
+Hardware,30231000,30231,Computer screens and consoles
+Hardware,30231100,302311,Computer terminals
+Hardware,30231200,302312,Consoles
+Hardware,30231300,302313,Display screens
+Hardware,30236000,30236,Miscellaneous computer equipment
+Hardware,30236200,302362,Data-processing equipment
+Hardware,32570000,3257,Communications equipment
+Hardware,32571000,32571,Communications infrastructure
+Hardware,32420000,3242,Network equipment
+Hardware,32422000,32422,Network components
+Hardware,32424000,32424,Network infrastructure
+Hardware,32500000,325,Telecommunications equipment and supplies
+Hardware,32429000,32429,Telephone network equipment
+Hardware,32522000,32522,Telecommunications equipment
+Hardware,32550000,3255,Telephone equipment
+Hardware,45314000,45314,Installation of telecommunications equipment
+Hardware,32551000,32551,Telephone cables and associated equipment

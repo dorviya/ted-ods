@@ -1,0 +1,981 @@
+country,year,kind,procedures
+PT,2025,Software,718
+HU,2024,Software,288
+ES,2025,Software,2841
+SI,2024,Software,354
+NO,2025,Software,333
+ES,2025,not ICT,22055
+NO,2025,not ICT,2906
+PT,2025,not ICT,4849
+SI,2024,not ICT,2813
+HU,2024,not ICT,3212
+SK,2024,not ICT,2153
+ES,2023,not ICT,23094
+IS,2025,not ICT,176
+DK,2021,Software,191
+HU,2016,Software,141
+DE,2022,Software,2659
+DE,2021,Software,2498
+DE,2022,not ICT,49966
+FI,2020,not ICT,3817
+DE,2021,not ICT,48226
+EE,2021,not ICT,1921
+PT,2021,not ICT,2971
+UK,2016,not ICT,15737
+NL,2021,not ICT,6959
+PT,2019,not ICT,3788
+PT,2018,not ICT,3899
+IT,2017,not ICT,7459
+SE,2016,not ICT,5319
+HU,2016,not ICT,1647
+DK,2021,not ICT,2786
+NO,2016,not ICT,2342
+NO,2022,not ICT,3415
+MT,2023,Software,56
+UK,2016,Software,460
+IE,2022,Software,186
+IT,2017,Software,423
+IE,2022,not ICT,1385
+SE,2016,Software,272
+FI,2020,Software,380
+NL,2021,Software,526
+FI,2024,Hardware,58
+PL,2022,Hardware,1871
+PL,2017,Hardware,807
+PL,2020,Hardware,1082
+DE,2019,Hardware,754
+LU,2017,Hardware,16
+CZ,2021,Hardware,721
+PT,2022,Hardware,113
+PT,2018,Software,190
+EE,2019,Hardware,41
+CZ,2019,Hardware,683
+IE,2021,Hardware,28
+MT,2023,not ICT,767
+ES,2023,Software,2559
+SK,2024,Software,165
+LU,2022,not ICT,696
+EE,2021,Software,267
+NO,2022,Software,538
+CY,2020,not ICT,291
+NO,2016,Software,184
+PT,2019,Software,223
+PT,2021,Software,310
+CY,2020,Software,16
+FR,2022,Hardware,409
+NO,2020,Hardware,52
+LT,2022,Hardware,161
+LU,2022,Software,86
+SK,2016,Hardware,24
+UK,2017,Hardware,77
+BE,2022,Hardware,80
+IS,2018,Hardware,4
+DK,2023,Hardware,31
+HU,2019,Hardware,52
+UK,2021,Hardware,18
+MT,2016,Hardware,12
+LI,2017,not ICT,11
+DK,2016,Hardware,30
+MK,2021,Hardware,3
+IS,2025,Software,4
+MK,2025,Hardware,7
+LI,2017,Software,1
+UK,2025,Hardware,1
+CH,2025,Software,279
+CH,2024,not ICT,3532
+CH,2025,not ICT,3926
+AT,2024,not ICT,4912
+RO,2023,not ICT,23578
+SE,2023,not ICT,9283
+CH,2024,Software,260
+FR,2023,Software,1999
+RO,2023,Software,611
+LT,2020,not ICT,4161
+LT,2021,not ICT,4483
+HU,2017,not ICT,2257
+FR,2023,not ICT,37004
+CH,2018,not ICT,2811
+SI,2020,not ICT,6463
+RO,2018,not ICT,5736
+CY,2019,not ICT,337
+PT,2023,not ICT,3648
+HR,2019,not ICT,2275
+GR,2020,not ICT,2871
+FI,2016,not ICT,2604
+RO,2016,not ICT,3584
+SE,2023,Software,732
+RO,2016,Software,148
+HR,2019,Software,204
+LV,2025,Hardware,26
+BG,2025,Hardware,350
+DE,2018,Hardware,645
+SK,2021,Hardware,168
+CH,2022,Hardware,50
+NL,2019,Hardware,230
+DE,2016,Hardware,530
+HU,2017,Software,235
+FR,2020,Hardware,377
+AT,2024,Software,310
+MK,2016,not ICT,723
+FI,2016,Software,151
+PT,2023,Software,453
+CH,2018,Software,185
+LT,2021,Software,506
+IS,2020,not ICT,198
+SI,2020,Software,304
+LT,2020,Software,381
+MT,2017,Hardware,10
+MK,2016,Software,25
+RO,2018,Software,156
+BE,2023,Hardware,110
+AT,2017,Hardware,23
+MK,2018,Hardware,18
+GR,2020,Software,79
+SE,2025,Hardware,53
+CY,2019,Software,23
+LI,2025,not ICT,35
+CY,2022,Hardware,5
+CY,2017,Hardware,2
+LI,2025,Software,10
+IS,2020,Software,4
+UK,2023,Hardware,1
+MK,2022,Hardware,11
+LI,2016,not ICT,4
+LI,2024,Hardware,1
+BE,2025,Software,544
+RO,2025,Software,458
+SE,2024,Software,642
+LV,2024,Software,155
+DK,2024,not ICT,3009
+RO,2025,not ICT,8864
+IE,2024,not ICT,2548
+BE,2025,not ICT,5064
+SE,2024,not ICT,7553
+LV,2024,not ICT,3386
+CY,2025,not ICT,971
+SK,2023,not ICT,3011
+IE,2024,Software,318
+CY,2025,Software,83
+DK,2024,Software,220
+NO,2021,Software,515
+IT,2016,Software,452
+IE,2019,not ICT,1129
+SE,2019,not ICT,7230
+LT,2019,not ICT,3427
+NO,2021,not ICT,3316
+EE,2018,not ICT,1213
+IT,2016,not ICT,7009
+NL,2017,not ICT,5196
+GR,2018,not ICT,1944
+RO,2017,not ICT,4506
+NO,2017,not ICT,2384
+SK,2020,not ICT,1701
+GR,2018,Software,48
+LT,2019,Software,303
+AT,2016,not ICT,2552
+IT,2025,Hardware,139
+PL,2016,Hardware,547
+SI,2018,Hardware,214
+RO,2017,Software,153
+SI,2021,Hardware,289
+SK,2023,Software,273
+BG,2022,Hardware,416
+ES,2017,Hardware,242
+BG,2016,Hardware,68
+NL,2017,Software,406
+NO,2017,Software,223
+SK,2020,Software,142
+SE,2019,Software,420
+LI,2022,not ICT,48
+IE,2019,Software,155
+AT,2016,Software,76
+LV,2020,Hardware,93
+HU,2022,Hardware,105
+FI,2023,Hardware,57
+AT,2021,Hardware,38
+CH,2017,Hardware,69
+EE,2018,Software,161
+UK,2020,Hardware,92
+NO,2023,Hardware,60
+MT,2021,Hardware,14
+LI,2022,Software,7
+IE,2020,Hardware,17
+MT,2022,Hardware,16
+IS,2023,Hardware,4
+MK,2017,Hardware,20
+DK,2025,Hardware,18
+IS,2017,Hardware,1
+FI,2024,Software,463
+FI,2024,not ICT,4767
+CZ,2019,Software,1179
+LT,2022,Software,537
+PL,2017,Software,757
+FR,2022,Software,2156
+LU,2017,Software,54
+DE,2019,Software,1815
+NO,2020,Software,412
+PT,2022,Software,354
+PL,2022,Software,1371
+PL,2020,not ICT,26270
+FR,2022,not ICT,34791
+PL,2022,not ICT,34523
+DE,2019,not ICT,42605
+UK,2017,not ICT,16830
+BE,2022,not ICT,4032
+PL,2017,not ICT,20826
+LU,2017,not ICT,488
+CZ,2019,not ICT,10969
+CZ,2021,not ICT,13277
+HU,2019,not ICT,3076
+UK,2021,not ICT,6600
+SK,2016,not ICT,1014
+PT,2022,not ICT,2778
+LT,2022,not ICT,4869
+NO,2020,not ICT,2946
+DK,2016,not ICT,2319
+EE,2019,not ICT,1476
+MK,2021,not ICT,266
+PL,2020,Software,1088
+IE,2021,not ICT,1336
+CZ,2021,Software,1442
+UK,2017,Software,416
+PT,2025,Hardware,387
+ES,2025,Hardware,757
+HU,2024,Hardware,79
+ES,2023,Hardware,729
+SK,2024,Hardware,62
+DE,2021,Hardware,1284
+DE,2022,Hardware,1070
+NL,2021,Hardware,517
+PT,2019,Hardware,73
+SE,2016,Hardware,84
+BE,2022,Software,335
+UK,2016,Hardware,65
+DK,2023,not ICT,3074
+UK,2025,not ICT,125
+MK,2025,not ICT,81
+MT,2016,not ICT,296
+EE,2019,Software,177
+UK,2021,Software,224
+HU,2019,Software,181
+IS,2018,not ICT,130
+IE,2021,Software,219
+DK,2016,Software,166
+SK,2016,Software,107
+DK,2023,Software,212
+NO,2016,Hardware,60
+PT,2021,Hardware,96
+EE,2021,Hardware,62
+NO,2022,Hardware,71
+HU,2016,Hardware,29
+PT,2018,Hardware,55
+CY,2020,Hardware,4
+MT,2023,Hardware,22
+IT,2017,Hardware,85
+MK,2025,Software,17
+SI,2024,Hardware,58
+DK,2021,Hardware,10
+MK,2021,Software,17
+IE,2022,Hardware,19
+FI,2020,Hardware,18
+IS,2018,Software,8
+NO,2025,Hardware,30
+UK,2025,Software,1
+LU,2022,Hardware,18
+MT,2016,Software,9
+IS,2025,Hardware,1
+DE,2023,Software,2528
+DE,2023,not ICT,52431
+PL,2018,Software,997
+ES,2020,Software,1583
+BG,2019,Software,290
+BG,2020,not ICT,8974
+SK,2017,not ICT,1261
+GR,2017,not ICT,1316
+PL,2018,not ICT,25429
+ES,2020,not ICT,16638
+SI,2019,not ICT,6146
+BE,2016,not ICT,3435
+LV,2019,not ICT,2577
+SI,2023,not ICT,2861
+FI,2021,not ICT,4046
+SK,2019,not ICT,1681
+BG,2019,not ICT,9506
+SI,2019,Software,269
+LV,2018,not ICT,2170
+BG,2020,Software,264
+SK,2019,Software,143
+NL,2024,Hardware,368
+GR,2024,Hardware,39
+NO,2024,Hardware,28
+RO,2022,Hardware,467
+BG,2021,Hardware,295
+ES,2018,Hardware,243
+CZ,2017,Hardware,461
+NL,2020,Hardware,255
+BE,2016,Software,239
+AT,2022,Hardware,32
+IT,2020,Hardware,127
+CZ,2023,Hardware,957
+DE,2020,Hardware,1010
+LU,2021,not ICT,715
+FI,2021,Software,407
+SI,2023,Software,293
+SK,2017,Software,127
+CY,2023,not ICT,611
+CY,2016,not ICT,383
+LV,2019,Software,140
+LV,2018,Software,132
+CY,2023,Software,40
+GR,2022,Hardware,82
+CH,2021,Hardware,43
+HR,2021,Hardware,89
+CH,2016,Hardware,84
+LU,2021,Software,122
+CY,2016,Software,12
+BE,2021,Hardware,83
+MT,2019,Hardware,25
+DK,2022,Hardware,20
+GR,2017,Software,35
+PT,2024,not ICT,3810
+LT,2024,not ICT,5330
+BE,2024,not ICT,4682
+PL,2023,not ICT,37594
+LT,2024,Software,635
+PT,2024,Software,632
+BE,2024,Software,506
+DK,2020,Software,234
+EE,2022,Software,274
+FR,2016,Software,1989
+HR,2022,Software,264
+FR,2021,Software,2092
+IT,2022,not ICT,10379
+FR,2019,not ICT,36636
+HR,2022,not ICT,2835
+FR,2016,not ICT,31741
+FR,2021,not ICT,34709
+IT,2021,not ICT,11217
+DK,2018,not ICT,2613
+DK,2020,not ICT,2837
+CH,2020,not ICT,2780
+LT,2018,not ICT,2613
+EE,2022,not ICT,2239
+FR,2019,Software,2018
+IT,2022,Software,567
+LU,2016,not ICT,532
+FR,2024,Hardware,311
+IE,2025,Hardware,59
+ES,2016,Hardware,204
+CH,2020,Software,181
+AT,2020,Hardware,52
+ES,2019,Hardware,282
+SK,2022,Hardware,227
+IT,2021,Software,572
+LT,2018,Software,262
+GR,2023,Hardware,101
+PL,2023,Software,1333
+HR,2017,not ICT,1404
+LV,2016,not ICT,1275
+HR,2017,Software,128
+CY,2018,not ICT,347
+DK,2018,Software,187
+LV,2016,Software,103
+AT,2019,Hardware,34
+HR,2020,Hardware,82
+BE,2017,Hardware,73
+SK,2018,Hardware,51
+AT,2023,Hardware,48
+AT,2018,Hardware,30
+BE,2018,Hardware,100
+LU,2019,Hardware,32
+LU,2016,Software,40
+CY,2018,Software,16
+AT,2025,Hardware,42
+EE,2017,Hardware,34
+LI,2021,Hardware,3
+BG,2024,Software,562
+HU,2025,Software,246
+HR,2024,Software,279
+LT,2025,Software,749
+BG,2024,not ICT,11015
+LT,2025,not ICT,6374
+HU,2025,not ICT,3027
+CH,2023,not ICT,2965
+HR,2024,not ICT,2716
+CH,2023,Software,212
+ES,2022,Software,2272
+PT,2017,Software,107
+PT,2017,not ICT,3055
+ES,2022,not ICT,22236
+NL,2016,not ICT,4617
+CZ,2016,not ICT,4812
+ES,2021,not ICT,19748
+NL,2018,not ICT,5958
+LI,2019,not ICT,30
+LV,2017,not ICT,1603
+LT,2016,not ICT,1826
+BE,2020,not ICT,4124
+EE,2020,not ICT,1569
+LV,2017,Software,108
+PL,2024,Hardware,1238
+DE,2025,Hardware,841
+RO,2024,Hardware,519
+GR,2025,Hardware,62
+NL,2018,Software,484
+GR,2021,Hardware,63
+SE,2017,Hardware,103
+NO,2018,Hardware,43
+BG,2017,Hardware,141
+MK,2020,not ICT,285
+NL,2016,Software,406
+LU,2018,not ICT,507
+ES,2021,Software,2017
+CZ,2016,Software,636
+IS,2016,not ICT,63
+EE,2020,Software,220
+BE,2020,Software,269
+LT,2016,Software,196
+FI,2022,Hardware,100
+LV,2023,Hardware,83
+LU,2018,Software,53
+LT,2023,Hardware,204
+BE,2019,Hardware,90
+LU,2024,Hardware,12
+PT,2016,Hardware,25
+MK,2020,Software,6
+FI,2017,Hardware,17
+MT,2020,Hardware,15
+IS,2016,Software,2
+PL,2024,Software,1239
+DE,2025,Software,2647
+RO,2024,Software,421
+PL,2024,not ICT,32642
+RO,2024,not ICT,11755
+DE,2025,not ICT,54753
+GR,2025,not ICT,2327
+LU,2024,not ICT,442
+GR,2025,Software,201
+FI,2017,Software,210
+FI,2022,not ICT,4496
+FI,2017,not ICT,2688
+SE,2017,not ICT,5914
+NO,2018,not ICT,2734
+BG,2017,not ICT,8085
+LT,2023,not ICT,5538
+GR,2021,not ICT,3440
+MT,2020,not ICT,369
+BE,2019,not ICT,4450
+PT,2016,not ICT,2223
+LV,2023,Software,197
+HR,2024,Hardware,86
+HU,2025,Hardware,76
+LT,2025,Hardware,162
+BG,2024,Hardware,346
+BE,2019,Software,267
+ES,2021,Hardware,386
+ES,2022,Hardware,450
+NL,2018,Hardware,210
+BG,2017,Software,202
+NL,2016,Hardware,133
+BE,2020,Hardware,79
+LV,2023,not ICT,4913
+LU,2024,Software,66
+LT,2023,Software,570
+SE,2017,Software,345
+FI,2022,Software,472
+NO,2018,Software,262
+CZ,2016,Hardware,305
+PT,2017,Hardware,30
+GR,2021,Software,115
+LV,2017,Hardware,17
+LT,2016,Hardware,86
+CH,2023,Hardware,38
+EE,2020,Hardware,59
+MT,2020,Software,16
+LU,2018,Hardware,15
+PT,2016,Software,80
+MK,2020,Hardware,7
+LI,2019,Hardware,1
+PL,2025,Software,1471
+NL,2025,Software,675
+EE,2025,Software,284
+PL,2025,not ICT,35159
+FR,2025,not ICT,31587
+EE,2025,not ICT,2057
+MT,2025,not ICT,1005
+NL,2025,not ICT,7630
+MT,2024,not ICT,853
+FR,2025,Software,1323
+IT,2019,Software,525
+HU,2020,not ICT,3290
+SI,2017,not ICT,4632
+DK,2019,not ICT,3011
+HU,2021,not ICT,3766
+GR,2016,not ICT,3166
+IT,2019,not ICT,9559
+LV,2021,not ICT,3340
+RO,2019,not ICT,10283
+SI,2016,not ICT,1562
+FI,2018,not ICT,2918
+NL,2022,not ICT,7325
+CY,2021,not ICT,339
+LT,2017,not ICT,1805
+SI,2022,not ICT,3136
+IE,2016,not ICT,785
+SI,2022,Software,268
+IE,2016,Software,97
+NL,2022,Software,575
+HR,2016,not ICT,1358
+SI,2016,Software,158
+DE,2024,Hardware,982
+NL,2023,Hardware,385
+CZ,2024,Hardware,694
+ES,2024,Hardware,490
+SK,2025,Hardware,70
+FR,2017,Hardware,522
+IE,2017,Hardware,16
+CZ,2018,Hardware,691
+FR,2018,Hardware,478
+SE,2021,Hardware,109
+EE,2016,Hardware,24
+PL,2019,Hardware,1047
+RO,2019,Software,301
+MT,2024,Software,38
+UK,2024,not ICT,80
+LT,2017,Software,206
+HU,2021,Software,345
+HU,2020,Software,264
+DK,2019,Software,183
+LV,2021,Software,228
+FI,2018,Software,199
+HR,2023,Hardware,166
+RO,2020,Hardware,297
+UK,2018,Hardware,81
+CY,2021,Software,34
+SI,2017,Software,275
+HR,2016,Software,112
+DK,2017,Hardware,32
+GR,2016,Software,27
+CH,2019,Hardware,70
+MT,2025,Software,47
+MT,2018,Hardware,15
+GR,2019,Hardware,50
+FI,2019,Hardware,27
+UK,2024,Software,2
+LU,2025,Software,88
+CZ,2025,Software,1070
+EE,2023,Software,182
+HR,2025,Software,321
+FI,2025,Software,481
+CZ,2025,not ICT,11626
+HR,2025,not ICT,2719
+FI,2025,not ICT,4698
+LU,2025,not ICT,583
+EE,2023,not ICT,1453
+HU,2023,not ICT,3942
+CY,2024,not ICT,710
+IE,2018,Software,114
+SE,2022,Software,687
+PL,2021,Software,1308
+DE,2017,not ICT,30296
+PL,2021,not ICT,28094
+SE,2020,not ICT,7137
+CZ,2020,not ICT,11408
+RO,2021,not ICT,18583
+IT,2023,not ICT,12293
+IT,2018,not ICT,8767
+BG,2023,not ICT,13495
+NO,2019,not ICT,2859
+IE,2018,not ICT,1064
+SE,2022,not ICT,8626
+PT,2020,not ICT,2882
+CZ,2020,Software,1221
+HR,2018,Software,166
+HU,2023,Software,408
+BG,2023,Software,431
+PT,2020,Software,213
+SI,2025,Hardware,74
+CY,2024,Software,57
+IT,2024,Hardware,131
+CZ,2022,Hardware,857
+DE,2017,Software,1222
+LU,2020,Hardware,24
+UK,2019,Hardware,141
+IS,2024,Software,9
+IS,2024,not ICT,161
+MK,2024,not ICT,87
+IE,2023,not ICT,1874
+IE,2023,Software,204
+IS,2021,not ICT,208
+IS,2019,not ICT,154
+HR,2018,not ICT,1655
+RO,2021,Software,527
+IT,2023,Software,625
+SE,2020,Software,494
+IT,2018,Software,440
+MK,2023,not ICT,308
+IS,2021,Software,10
+NO,2019,Software,288
+LU,2023,Hardware,23
+IS,2019,Software,6
+BG,2018,Hardware,183
+UK,2022,Hardware,2
+HU,2018,Hardware,68
+SE,2018,Hardware,105
+MK,2024,Software,4
+MK,2019,Hardware,13
+LV,2022,Hardware,80
+MK,2023,Software,20
+LI,2020,Hardware,1
+LI,2023,Hardware,2
+EE,2024,Hardware,53
+IS,2022,Hardware,2
+FR,2024,Software,1462
+AT,2025,Software,262
+AT,2025,not ICT,4855
+FR,2024,not ICT,30413
+IE,2025,not ICT,3714
+ES,2019,Software,1592
+BE,2018,not ICT,3915
+ES,2016,not ICT,9106
+AT,2019,not ICT,3192
+ES,2019,not ICT,16010
+SK,2018,not ICT,1706
+HR,2020,not ICT,2300
+BE,2017,not ICT,3371
+LU,2019,not ICT,614
+GR,2023,not ICT,4158
+AT,2020,not ICT,3576
+SK,2022,not ICT,2728
+EE,2017,Software,142
+AT,2023,Software,297
+HR,2020,Software,210
+ES,2016,Software,980
+BE,2018,Software,241
+SK,2018,Software,147
+LT,2024,Hardware,191
+BE,2024,Hardware,115
+PL,2023,Hardware,2021
+AT,2019,Software,134
+BE,2017,Software,221
+FR,2019,Hardware,513
+FR,2021,Hardware,423
+IT,2022,Hardware,120
+FR,2016,Hardware,489
+LV,2016,Hardware,13
+HR,2022,Hardware,91
+SK,2022,Software,225
+EE,2022,Hardware,73
+IE,2025,Software,492
+AT,2023,not ICT,4567
+EE,2017,not ICT,1119
+AT,2018,not ICT,2679
+GR,2023,Software,263
+AT,2020,Software,212
+IT,2021,Hardware,170
+LT,2018,Hardware,90
+PT,2024,Hardware,175
+CH,2020,Hardware,43
+DK,2018,Hardware,37
+DK,2020,Hardware,21
+AT,2018,Software,84
+LU,2016,Hardware,12
+LI,2021,not ICT,21
+LU,2019,Software,37
+LI,2021,Software,3
+HR,2017,Hardware,45
+CY,2018,Hardware,2
+IT,2025,Software,521
+DK,2025,Software,208
+IT,2025,not ICT,12488
+DK,2025,not ICT,3128
+FI,2023,not ICT,4940
+ES,2017,Software,1205
+FI,2023,Software,541
+MT,2021,Software,27
+UK,2020,Software,562
+ES,2017,not ICT,11296
+SI,2018,not ICT,5278
+UK,2020,not ICT,17022
+AT,2021,not ICT,3629
+BG,2022,not ICT,11907
+PL,2016,not ICT,16283
+HU,2022,not ICT,4273
+LV,2020,not ICT,2676
+MT,2021,not ICT,516
+MK,2017,not ICT,581
+CH,2017,not ICT,2831
+IE,2020,not ICT,1170
+SI,2021,not ICT,6855
+BG,2016,not ICT,5506
+AT,2021,Software,262
+HU,2022,Software,394
+SK,2023,Hardware,243
+RO,2025,Hardware,445
+DK,2024,Hardware,21
+SE,2024,Hardware,46
+BE,2025,Hardware,97
+CY,2025,Hardware,14
+SE,2019,Hardware,133
+BG,2016,Software,154
+LV,2020,Software,151
+RO,2017,Hardware,98
+NO,2023,not ICT,3280
+PL,2016,Software,579
+BG,2022,Software,370
+SI,2021,Software,357
+MT,2022,not ICT,698
+IS,2023,not ICT,268
+IS,2017,not ICT,79
+SI,2018,Software,250
+NO,2023,Software,502
+IE,2020,Software,156
+CH,2017,Software,174
+IT,2016,Hardware,79
+NO,2017,Hardware,45
+SK,2020,Hardware,97
+GR,2018,Hardware,54
+NL,2017,Hardware,151
+IS,2023,Software,17
+NO,2021,Hardware,77
+LT,2019,Hardware,86
+IE,2019,Hardware,22
+MK,2017,Software,28
+EE,2018,Hardware,42
+IE,2024,Hardware,26
+AT,2016,Hardware,22
+MT,2022,Software,45
+LV,2024,Hardware,16
+IS,2017,Software,3
+LV,2025,Software,171
+SE,2025,Software,712
+BE,2023,Software,309
+SE,2025,not ICT,7676
+BG,2025,not ICT,11502
+LV,2025,not ICT,4078
+BE,2023,not ICT,4099
+CH,2022,Software,221
+DE,2018,Software,1367
+FR,2020,not ICT,31414
+CY,2022,not ICT,482
+SK,2021,not ICT,1874
+DE,2016,not ICT,26525
+MT,2017,not ICT,659
+NL,2019,not ICT,6109
+UK,2023,not ICT,1752
+DE,2018,not ICT,34226
+CY,2017,not ICT,276
+DE,2016,Software,1000
+NL,2019,Software,412
+FR,2020,Software,1887
+MK,2022,not ICT,312
+AT,2024,Hardware,39
+LT,2020,Hardware,128
+FR,2023,Hardware,395
+RO,2023,Hardware,438
+SI,2020,Hardware,272
+GR,2020,Hardware,87
+RO,2018,Hardware,96
+HR,2019,Hardware,80
+BG,2025,Software,509
+CH,2022,not ICT,2715
+AT,2017,not ICT,2424
+MK,2018,not ICT,648
+MK,2018,Software,37
+AT,2017,Software,68
+CY,2017,Software,10
+SK,2021,Software,137
+LI,2024,not ICT,61
+LT,2021,Hardware,114
+RO,2016,Hardware,67
+PT,2023,Hardware,155
+CY,2022,Software,39
+UK,2023,Software,24
+IS,2020,Hardware,1
+CH,2018,Hardware,71
+SE,2023,Hardware,118
+HU,2017,Hardware,41
+MT,2017,Software,22
+CH,2025,Hardware,53
+CH,2024,Hardware,64
+MK,2022,Software,9
+MK,2016,Hardware,11
+CY,2019,Hardware,9
+FI,2016,Hardware,14
+LI,2024,Software,3
+SI,2025,Software,421
+EE,2024,Software,259
+IT,2024,Software,408
+SI,2025,not ICT,2998
+EE,2024,not ICT,1925
+IT,2024,not ICT,7311
+UK,2019,Software,482
+LU,2023,Software,71
+LV,2022,not ICT,4202
+UK,2022,not ICT,1919
+MK,2019,not ICT,583
+CZ,2022,not ICT,15428
+UK,2019,not ICT,20360
+LU,2020,not ICT,672
+SE,2018,not ICT,6877
+BG,2018,not ICT,8678
+LU,2023,not ICT,786
+HU,2018,not ICT,2869
+SE,2018,Software,366
+BG,2018,Software,228
+LI,2020,not ICT,42
+UK,2022,Software,48
+CZ,2022,Software,1432
+CZ,2025,Hardware,626
+EE,2023,Hardware,30
+HU,2023,Hardware,102
+FI,2025,Hardware,50
+CZ,2020,Hardware,629
+RO,2021,Hardware,354
+PL,2021,Hardware,1299
+DE,2017,Hardware,565
+HR,2018,Hardware,53
+IT,2023,Hardware,174
+SE,2020,Hardware,103
+NO,2019,Hardware,70
+LV,2022,Software,238
+IS,2022,not ICT,177
+LI,2023,not ICT,70
+LU,2020,Software,77
+HU,2018,Software,212
+SE,2022,Hardware,88
+MK,2019,Software,40
+BG,2023,Hardware,480
+PT,2020,Hardware,79
+IT,2018,Hardware,85
+LI,2023,Software,5
+HR,2025,Hardware,82
+IS,2024,Hardware,4
+LU,2025,Hardware,17
+IS,2022,Software,15
+CY,2024,Hardware,7
+MK,2023,Hardware,5
+IE,2023,Hardware,29
+LI,2020,Software,4
+IE,2018,Hardware,14
+IS,2019,Hardware,4
+MK,2024,Hardware,2
+IS,2021,Hardware,1
+DE,2024,Software,2601
+CZ,2024,Software,1313
+ES,2024,Software,2309
+CZ,2024,not ICT,13463
+DE,2024,not ICT,52572
+ES,2024,not ICT,19151
+NL,2023,not ICT,7388
+SK,2025,not ICT,2010
+SK,2025,Software,213
+NL,2023,Software,618
+FR,2018,Software,2066
+CZ,2018,Software,1225
+PL,2019,Software,1065
+FR,2017,Software,2092
+SE,2021,Software,683
+HR,2023,Software,304
+PL,2019,not ICT,25866
+FR,2017,not ICT,34165
+RO,2020,not ICT,15377
+CZ,2018,not ICT,10546
+FR,2018,not ICT,35607
+SE,2021,not ICT,8363
+GR,2019,not ICT,2850
+DK,2017,not ICT,2500
+UK,2018,not ICT,20571
+HR,2023,not ICT,2976
+FI,2019,not ICT,3414
+EE,2016,not ICT,975
+CH,2019,not ICT,3141
+RO,2020,Software,446
+FI,2019,Software,356
+PL,2025,Hardware,1577
+NL,2025,Hardware,382
+FR,2025,Hardware,246
+MT,2024,Hardware,19
+EE,2025,Hardware,66
+LV,2021,Hardware,103
+GR,2016,Hardware,11
+HU,2021,Hardware,88
+RO,2019,Hardware,210
+NL,2022,Hardware,361
+IE,2017,not ICT,904
+MT,2018,not ICT,744
+UK,2018,Software,455
+IE,2017,Software,98
+IT,2019,Hardware,113
+LT,2017,Hardware,63
+GR,2019,Software,78
+MT,2025,Hardware,17
+EE,2016,Software,120
+CH,2019,Software,192
+DK,2017,Software,160
+SI,2017,Hardware,146
+SI,2022,Hardware,91
+HR,2016,Hardware,51
+MT,2018,Software,34
+SI,2016,Hardware,48
+HU,2020,Hardware,65
+FI,2018,Hardware,28
+CY,2021,Hardware,5
+IE,2016,Hardware,9
+DK,2019,Hardware,9
+NO,2024,Software,393
+NL,2024,Software,587
+NL,2024,not ICT,7332
+GR,2024,not ICT,2199
+NO,2024,not ICT,2717
+GR,2024,Software,149
+CH,2016,Software,248
+DE,2020,Software,2255
+ES,2018,Software,1340
+RO,2022,Software,544
+DE,2020,not ICT,46747
+DK,2022,not ICT,2978
+RO,2022,not ICT,22346
+NL,2020,not ICT,6189
+GR,2022,not ICT,4002
+ES,2018,not ICT,13026
+IT,2020,not ICT,9316
+BG,2021,not ICT,11271
+CZ,2023,not ICT,16841
+CZ,2017,not ICT,7697
+CH,2021,not ICT,2975
+BE,2021,not ICT,4052
+AT,2022,not ICT,3974
+CH,2016,not ICT,3386
+HR,2021,not ICT,2560
+BE,2021,Software,313
+CZ,2023,Software,1789
+GR,2022,Software,185
+AT,2022,Software,321
+HR,2021,Software,220
+DE,2023,Hardware,1109
+ES,2020,Hardware,362
+PL,2018,Hardware,1085
+SK,2017,Hardware,27
+SK,2019,Hardware,78
+BG,2020,Hardware,248
+SI,2019,Hardware,254
+MT,2019,not ICT,648
+NL,2020,Software,544
+IT,2020,Software,464
+BG,2021,Software,361
+CZ,2017,Software,926
+DK,2022,Software,194
+MT,2019,Software,25
+CH,2021,Software,200
+LV,2018,Hardware,32
+SI,2023,Hardware,102
+CY,2023,Hardware,11
+BG,2019,Hardware,176
+BE,2016,Hardware,80
+LV,2019,Hardware,41
+CY,2016,Hardware,1
+LU,2021,Hardware,21
+FI,2021,Hardware,23
+GR,2017,Hardware,21
+LI,2018,not ICT,11
