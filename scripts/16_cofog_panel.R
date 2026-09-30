@@ -7,7 +7,7 @@ panel <- q("
   WITH map AS (SELECT cpv, consensus, band FROM read_csv('reference/cpv_cofog_consensus.csv', all_varchar = true)),
   n AS (
     SELECT a.type, coalesce(a.procedure_id, a.pub_number) AS proc, a.country, a.dispatch_date, m.band,
-           CASE WHEN a.value_eur BETWEEN 1e3 AND 1e9 AND NOT coalesce(a.framework, false) THEN a.value_eur END AS v,
+           CASE WHEN a.value_eur BETWEEN 1e3 AND 999999999 AND NOT coalesce(a.framework, false) THEN a.value_eur END AS v,
            CASE WHEN m.consensus IS NULL THEN 'unmapped' WHEN m.consensus <> 'BD' THEN 'product' ELSE 'buyer' END AS cofog_source,
            CASE WHEN m.consensus IS NULL THEN 'unmapped' WHEN m.consensus <> 'BD' THEN m.consensus
                 ELSE CASE a.activity

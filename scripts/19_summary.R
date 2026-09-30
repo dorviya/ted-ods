@@ -5,7 +5,7 @@ base <- "WITH p AS (
   SELECT type, coalesce(procedure_id, pub_number) AS proc, min(dispatch_date) AS d,
          arg_min(contract_type, dispatch_date) AS contract_type, arg_min(buyer_type, dispatch_date) AS buyer_type,
          arg_min(activity, dispatch_date) AS activity, arg_min(cpv_div, dispatch_date) AS cpv_div, arg_min(procedure, dispatch_date) AS procedure,
-         sum(DISTINCT CASE WHEN value_eur BETWEEN 1e3 AND 1e9 AND NOT coalesce(framework, false) THEN value_eur END) AS value_eur
+         sum(DISTINCT CASE WHEN value_eur BETWEEN 1e3 AND 999999999 AND NOT coalesce(framework, false) THEN value_eur END) AS value_eur
   FROM 'outputs/panel/notice_all.parquet'
   WHERE dispatch_date BETWEEN '2016-01-01' AND '2025-12-31' AND country IS NOT NULL GROUP BY 1, 2)"
 dim <- function(panel, expr, where = "type = 'cn'")

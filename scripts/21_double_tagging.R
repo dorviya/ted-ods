@@ -5,7 +5,7 @@ files <- grep("consensus", list.files("reference", "^cpv_cofog_.*\\.csv$", full.
 runs <- rbindlist(lapply(files, fread, colClasses = "character"), fill = TRUE)
 sec <- runs[nzchar(trimws(cofog_secondary)), .(cpv, sec = substr(trimws(cofog_secondary), 1, 4))]
 sec <- sec[, .(votes = .N), by = .(cpv, sec)][order(cpv, -votes)][, .SD[1], by = cpv]
-sec[, `:=`(sec_div = substr(sec, 1, 2), green = substr(sec, 1, 2) == "05" | sec == "04.3")]
+sec[, `:=`(sec_div = substr(sec, 1, 2), green = substr(sec, 1, 2) == "05")]
 fwrite(sec, "reference/cpv_cofog_secondary.csv")
 print(sec[, .(codes = .N), by = .(supported = votes >= 4)]); print(sec[votes >= 4, .N, by = sec_div][order(-N)])
 dbWriteTable(con, "sec", sec[votes >= 4], overwrite = TRUE)
@@ -14,7 +14,7 @@ d <- q(sprintf("
   WITH map AS (SELECT cpv, consensus FROM read_csv('reference/cpv_cofog_consensus.csv', all_varchar = true)),
   n AS (
     SELECT coalesce(a.procedure_id, a.pub_number) AS proc, a.country, a.dispatch_date, s.sec_div, s.green,
-           CASE WHEN a.value_eur BETWEEN 1e3 AND 1e9 AND NOT coalesce(a.framework, false) THEN a.value_eur END AS v,
+           CASE WHEN a.value_eur BETWEEN 1e3 AND 999999999 AND NOT coalesce(a.framework, false) THEN a.value_eur END AS v,
            CASE WHEN m.consensus IS NULL THEN 'unmapped' WHEN m.consensus <> 'BD' THEN m.consensus ELSE %s END AS cofog
     FROM 'outputs/panel/notice_all.parquet' AS a LEFT JOIN map AS m ON a.cpv = m.cpv LEFT JOIN sec AS s ON a.cpv = s.cpv
     WHERE a.type = 'can' AND a.dispatch_date BETWEEN '2016-01-01' AND '2025-12-31' AND a.country IS NOT NULL),
@@ -45,16 +45,16 @@ save_fig(pA, "06_double_tagging.png")
 
 # B — the green share of awarded value, by country and year
 sel12 <- c("DE", "FR", "IT", "ES", "PL", "NL", "BE", "AT", "CZ", "SE", "DK", "PT")
-gg <- d[, .(green = sum(value_eur[green == TRUE], na.rm = TRUE) / sum(value_eur, na.rm = TRUE)), by = year][order(year)]
-g <- d[country %in% sel12, .(green = sum(value_eur[green == TRUE], na.rm = TRUE) / sum(value_eur, na.rm = TRUE)), by = .(country, year)]
+gg <- d[, .(green = sum(procedures[green == TRUE]) / sum(procedures)), by = year][order(year)]
+g <- d[country %in% sel12, .(green = sum(procedures[green == TRUE]) / sum(procedures)), by = .(country, year)]
 g[, name := factor(ted_countries[country], levels = ted_countries[sel12])]
 pB <- ggplot(g, aes(year, green)) + geom_line(colour = pal_ted[4], linewidth = 0.9) + geom_point(colour = pal_ted[4], size = 1.6) +
   facet_wrap(~ name, ncol = 4) +
   scale_x_continuous(breaks = c(2016, 2019, 2022, 2025), labels = function(x) paste0("'", substr(x, 3, 4))) +
   scale_y_continuous(labels = scales::label_percent(accuracy = 1), limits = c(0, NA)) +
-  labs(title = sprintf("The green share of public demand: %.0f%% of awarded value in 2025, %.0f%% in 2016 — a code-level lower bound",
+  labs(title = sprintf("The green share of public demand: %.0f%% of award procedures in 2025, %.0f%% in 2016 — a code-level lower bound",
                        100 * gg[year == 2025, green], 100 * gg[year == 2016, green]),
-       subtitle = "Share of awarded value whose product carries a secondary tag in environmental protection (05) or energy (04.3), by year and buyer country.",
+       subtitle = "Share of award procedures whose product carries a secondary tag in environmental protection (05), by year and buyer country.",
        caption = paste(ted_source, "Code-level tags only; conditional tags (electric, solar, energy-efficient) not applied.")) +
   theme_ted(base_size = 13) + theme(panel.spacing.x = unit(1.6, "lines"))
 save_fig(pB, "07_green_share.png")

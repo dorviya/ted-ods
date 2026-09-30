@@ -43,7 +43,7 @@ pq2 <- ggplot(f, aes(field, name, fill = share)) +
   labs(title = "Which field can be trusted where: coverage of the key fields by country, before and after eForms",
        subtitle = "Share of notices with the field filled (%), calls and awards, 2022 (CSV export) and 2025 (API, eForms). Value: estimated value on calls, awarded value on awards.",
        caption = paste(ted_source, "Offers: number of tenders received, not in the API table (eForms field not fetched).")) +
-  theme_ted(base_size = 13) + theme(panel.grid = element_blank(), axis.text.y = element_text(size = 9), axis.text.x.top = element_text(size = 9))
+  theme_ted(base_size = 13) + theme(panel.grid = element_blank(), axis.text.y = element_text(size = 9), axis.text.x.top = element_text(size = 9, angle = 35, hjust = 0))
 save_fig(pq2, "q2_field_coverage.png")
 
 # Q3 — call-to-award lag, CSV link (2022) vs eForms procedure identifier (2024)

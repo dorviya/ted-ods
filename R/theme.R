@@ -19,7 +19,6 @@ theme_ted <- function(base_size = 16, font = "sans") {
 }
 ted_source <- paste("Source: TED CSV open data (DG GROW) to Sept. 2023, TED Search API from Oct. 2023; authors' calculations.",
                     "Above-threshold notices only; procedures counted once, at their first notice.")
-save_fig <- function(p, name, w = 16, h = 9) ggsave(file.path("outputs/figures", name), p, width = w, height = h, dpi = 200, bg = "white")
 ted_countries <- c(AT = "Austria", BE = "Belgium", BG = "Bulgaria", CH = "Switzerland", CY = "Cyprus", CZ = "Czechia",
                    DE = "Germany", DK = "Denmark", EE = "Estonia", ES = "Spain", FI = "Finland", FR = "France", GR = "Greece",
                    HR = "Croatia", HU = "Hungary", IE = "Ireland", IS = "Iceland", IT = "Italy", LI = "Liechtenstein",
@@ -41,3 +40,9 @@ activity_cofog_sql <- "CASE a.activity WHEN 'gen-pub' THEN '01' WHEN 'defence' T
   WHEN 'solid-fuel' THEN '04' WHEN 'extraction' THEN '04' WHEN 'rail' THEN '04' WHEN 'urttb' THEN '04' WHEN 'airport' THEN '04'
   WHEN 'port' THEN '04' WHEN 'post' THEN '04' ELSE 'unresolved' END"
 green_regex <- "électrique|electric|elektro|eléctric|elettric|elektryczn|photovolta|fotovolta|solar|solaire|wärmepumpe|heat pump|pompe à chaleur|isolation thermique|energy efficien|efficacité énergétique|energieeffizien|eficiencia energética|efficienza energetica"
+save_fig <- function(p, name, w = 16, h = 9, slide = TRUE, zoom = 1.4) {   # slide version: no titles, no legend, all text 1.4x
+  ggsave(file.path("outputs/figures", name), p, width = w, height = h, dpi = 200, bg = "white")
+  if (slide) { dir.create("outputs/figures/slides", showWarnings = FALSE)
+    ggsave(file.path("outputs/figures/slides", name), p + labs(title = NULL, subtitle = NULL, caption = NULL) + theme(legend.position = "none"),
+           width = w / zoom, height = h / zoom, dpi = 200 * zoom, bg = "white") }
+}

@@ -1,0 +1,4 @@
+how,winner_names,awards,value_bn,min_similarity
+id,2024,19472,16.2,1
+exact,11846,161587,86.4,1
+fuzzy,799,8678,5.1,0.95

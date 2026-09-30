@@ -19,11 +19,11 @@ pa <- ggplot(sc, aes(off_share, ted_share, colour = fn)) +
   geom_abline(slope = 1, intercept = 0, colour = "grey60", linetype = "22") +
   geom_point(size = 2.6) +
   geom_text(data = rc, aes(x = 0.006, y = 0.45, label = paste0("r = ", r)), inherit.aes = FALSE, hjust = 0, size = 3.2, colour = "grey35") +
-  facet_wrap(~ name, ncol = 4) +
+  facet_wrap(~ name, ncol = 8) +
   scale_x_log10(limits = c(0.005, 0.6), labels = scales::label_percent(accuracy = 1)) +
   scale_y_log10(limits = c(0.005, 0.6), labels = scales::label_percent(accuracy = 1)) +
   scale_colour_manual(values = cofog_colours) + guides(colour = guide_legend(nrow = 2, byrow = TRUE)) +
-  labs(title = sprintf("TED's functional structure tracks official expenditure: correlation %.2f across %d countries × 10 functions (2022)", r_all, uniqueN(sc$country)),
+  labs(title = sprintf("The large functions line up with official expenditure; defence, social protection and housing do not (r = %.2f, %d countries, 2022)", r_all, uniqueN(sc$country)),
        subtitle = paste("Share of TED awarded value by COFOG division (vertical) against the share of general-government intermediate consumption plus investment",
                         "by function, Eurostat gov_10a_exp (horizontal), 2022, log scales. Dotted: equality."),
        caption = paste(ted_source, "Eurostat: P.2 + P.51G, S.13. TED: values €1,000–€1 billion, one per procedure and value, frameworks excluded; unresolved functions dropped.")) +

@@ -10,7 +10,7 @@ cov <- q(sprintf("
   SELECT type, year(dispatch_date) AS year, country,
          count(DISTINCT coalesce(procedure_id, pub_number)) AS procedures, count(*) AS notices,
          round(avg((value_eur IS NOT NULL)::int), 3)                        AS value_raw,
-         round(avg(coalesce(value_eur BETWEEN 1e3 AND 1e9, false)::int), 3) AS value_ok,
+         round(avg(coalesce(value_eur BETWEEN 1e3 AND 999999999, false)::int), 3) AS value_ok,
          round(avg(coalesce(framework, false)::int), 3)                     AS framework,
          round(avg(coalesce(eu_funds, false)::int), 3)                      AS eu_funds,
          round(avg((nuts2 IS NOT NULL)::int), 3)                            AS nuts2,
