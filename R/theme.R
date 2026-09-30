@@ -43,6 +43,6 @@ green_regex <- "électrique|electric|elektro|eléctric|elettric|elektryczn|photo
 save_fig <- function(p, name, w = 16, h = 9, slide = TRUE, zoom = 1.4) {   # slide version: no titles, no legend, all text 1.4x
   ggsave(file.path("outputs/figures", name), p, width = w, height = h, dpi = 200, bg = "white")
   if (slide) { dir.create("outputs/figures/slides", showWarnings = FALSE)
-    ggsave(file.path("outputs/figures/slides", name), p + labs(title = NULL, subtitle = NULL, caption = NULL) + theme(legend.position = "none"),
+    ggsave(file.path("outputs/figures/slides", name), p + labs(title = NULL, subtitle = NULL, caption = NULL),
            width = w / zoom, height = h / zoom, dpi = 200 * zoom, bg = "white") }
 }

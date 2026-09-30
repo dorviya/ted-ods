@@ -1,15 +1,4 @@
 a,b,agreement,factor
-NA,gm_flash_v1_en,,Several factors
-NA,gm_flash_v1_fr,,Several factors
-NA,gm_flash_v1_shuf,,Several factors
-NA,gm_flash_v2_en,,Several factors
-NA,gm_pro_v1_en,,Several factors
-NA,oa_large_v1_en,,Several factors
-NA,oa_mini_v1_en,,Several factors
-NA,oa_mini_v1_fr,,Several factors
-NA,oa_mini_v1_rep,,Several factors
-NA,oa_mini_v1_shuf,,Several factors
-NA,oa_mini_v2_en,,Several factors
 gm_flash_v1_en,gm_flash_v1_fr,0.931710286062082,Label language
 gm_flash_v1_en,gm_flash_v1_shuf,0.907121119902617,Batch order
 gm_flash_v1_en,gm_flash_v2_en,0.940474741326841,Prompt wording

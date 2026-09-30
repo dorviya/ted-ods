@@ -1,7 +1,7 @@
 # scripts/21_double_tagging.R — secondary COFOG tags at code level (plurality of the 11 runs), the double-tagged share, the green share
 source("R/packages.R"); source("R/theme.R")
 con <- dbConnect(duckdb()); q <- function(sql) as.data.table(dbGetQuery(con, sql))
-files <- grep("consensus", list.files("reference", "^cpv_cofog_.*\\.csv$", full.names = TRUE), value = TRUE, invert = TRUE)
+files <- grep("consensus|secondary", list.files("reference", "^cpv_cofog_.*\\.csv$", full.names = TRUE), value = TRUE, invert = TRUE)
 runs <- rbindlist(lapply(files, fread, colClasses = "character"), fill = TRUE)
 sec <- runs[nzchar(trimws(cofog_secondary)), .(cpv, sec = substr(trimws(cofog_secondary), 1, 4))]
 sec <- sec[, .(votes = .N), by = .(cpv, sec)][order(cpv, -votes)][, .SD[1], by = cpv]

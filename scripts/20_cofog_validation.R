@@ -32,7 +32,7 @@ save_fig(pa, "04_cofog_vs_eurostat.png")
 print(rc[order(-r)])
 
 # B — LLM sensitivity: agreement between pairs of the 11 runs, by the factor that differs
-files <- grep("consensus", list.files("reference", "^cpv_cofog_.*\\.csv$", full.names = TRUE), value = TRUE, invert = TRUE)
+files <- grep("consensus|secondary", list.files("reference", "^cpv_cofog_.*\\.csv$", full.names = TRUE), value = TRUE, invert = TRUE)
 runs <- rbindlist(lapply(files, fread, colClasses = "character"), fill = TRUE)
 runs[, div := fifelse(cofog_primary == "BD", "BD", substr(cofog_primary, 1, 2))]
 w <- dcast(runs[, .(cpv, run, div)], cpv ~ run, value.var = "div"); rn <- setdiff(names(w), "cpv")
