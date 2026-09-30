@@ -102,24 +102,18 @@ save_deck(p04, "04_cofog_vs_eurostat.png")
 pr <- fread("outputs/quality/llm_pairwise_agreement.csv")
 lv <- c("Exact repeat (noise floor)", "Label language", "Prompt wording", "Batch order", "Model size (same family)", "Model family")
 pr <- pr[factor %in% lv][, factor := factor(factor, levels = rev(lv))]
-p05 <- ggplot(pr, aes(agreement, factor)) + geom_point(colour = pal_ted[1], size = 4, alpha = 0.7) + stat_summary(fun = mean, geom = "point", shape = 124, size = 10, colour = pal_ted[3]) +
-  scale_x_continuous(labels = pct(), limits = c(0.75, 1)) +
-  labs(title = "How stable is the LLM mapping? The same model twice: 89% of codes; two model families: 84%",
-       subtitle = "Agreement on the COFOG division between pairs of the 11 classification runs of 8,215 CPV codes, by the factor that differs between the two runs. Orange bar: mean.",
-       caption = "Source: 11 runs (OpenAI and Gemini models, two prompts, English and French labels, shuffled batches, one exact repeat); authors' calculations.") + theme_ted() + hgrid
-save_deck(p05, "05_llm_sensitivity.png")
 v <- fread("outputs/quality/validation_result.csv", colClasses = "character")[, agree := human_div == machine]
 v[, fixed := agree | (machine == "01" & human_div != "01")]
 w <- c(unanimous = 0.656, `strong (75-99%)` = 0.186, `majority (50-75%)` = 0.136, `contested (<=50%)` = 0.023)
-bb <- melt(v[, .(n = .N, `As measured` = mean(agree), `If the general-services catch-all were resolved (upper bound)` = mean(fixed)), by = band], id.vars = c("band", "n"), variable.name = "what", value.name = "agreement")
+bb <- melt(v[, .(n = .N, Today = mean(agree), `After one known fix (best case)` = mean(fixed)), by = band], id.vars = c("band", "n"), variable.name = "what", value.name = "agreement")
 bb[, `:=`(band = factor(band, levels = rev(names(w))), weight = w[as.character(band)])]
 wt <- bb[, .(w = sum(agreement * weight) / sum(weight)), by = what]
 p05b <- ggplot(bb, aes(agreement, band, fill = what)) + geom_col(position = position_dodge(width = 0.75), width = 0.7, key_glyph = "point") +
   geom_text(aes(label = sprintf("%.0f%%", 100 * agreement)), position = position_dodge(width = 0.75), hjust = -0.15, size = LS, colour = "grey30") +
   scale_x_continuous(labels = pct(), limits = c(0, 1.05), expand = expansion(0)) + scale_fill_manual(values = pal_ted[c(1, 2)]) + dots +
-  labs(title = sprintf("An economist agrees with the machine on %.0f%% of notices as measured, %.0f%% if the municipal catch-all were resolved", 100 * wt$w[1], 100 * wt$w[2]),
+  labs(title = sprintf("An economist agrees with the machine on %.0f%% of notices today, and up to %.0f%% after one known fix", 100 * wt$w[1], 100 * wt$w[2]),
        subtitle = "Agreement on the COFOG division, 170 notices labelled blind, by agreement band of the 11 LLM runs (n: 52, 42, 45, 31). Headline weighted by the bands' shares of notices.",
-       caption = "Upper bound: every case where the machine says 'general public services' and the human a specific function is counted as fixable by a text pass.") + theme_ted() + hgrid
+       caption = "Best case: every notice where the machine says 'general public services' and the human a specific function is counted as fixed by reading the notice text.") + theme_ted() + hgrid
 save_deck(p05b, "05b_human_agreement.png")
 
 # 06 — double tagging, secondary tags in a different division only
@@ -244,3 +238,22 @@ save_grid(list(bar_panel(what, "What is bought (product division)"), bar_panel(c
 save_grid(list(bar_panel(who, "Who buys (buyer type)"), bar_panel(act, "The buyer's main activity"), bar_panel(years, "Calls for tenders per year")),
           "00b_glimpse_who.png", ncol = 3, title = "Who the buyers are, and how the flow has grown",
           subtitle = "Shares of procedures (calls for tenders), 2016–2025, 33 countries.", caption = ted_source)
+
+# 05 — LLM sensitivity, redesigned: range of the pairs, mean as the big dot, the noise floor as the reference line
+sm <- pr[, .(n = .N, mean = mean(agreement), lo = min(agreement), hi = max(agreement)), by = factor]
+floor_ <- sm[factor == "Exact repeat (noise floor)", mean]
+sm[, label := sprintf("%.0f%%  (%d pair%s)", 100 * mean, n, fifelse(n > 1, "s", ""))]
+set.seed(1)
+p05 <- ggplot(sm, aes(y = factor)) +
+  geom_vline(xintercept = floor_, colour = pal_ted[3], linetype = "22", linewidth = 0.7) +
+  geom_segment(aes(x = lo, xend = hi, yend = factor), colour = "grey75", linewidth = 3, lineend = "round") +
+  geom_jitter(data = pr, aes(agreement, factor), width = 0, height = 0.12, colour = pal_ted[1], alpha = 0.4, size = 2.6) +
+  geom_point(aes(x = mean), colour = pal_ted[1], size = 6) +
+  geom_text(aes(x = hi + 0.006, label = label), hjust = 0, size = LS - 0.6, colour = "grey30") +
+  annotate("text", x = floor_ + 0.003, y = 6.55, label = "noise floor: the same model, run twice", hjust = 0, size = LS - 1, colour = pal_ted[3]) +
+  scale_x_continuous(labels = pct(), limits = c(0.78, 1.02), breaks = seq(0.8, 1, 0.05)) +
+  scale_y_discrete(expand = expansion(add = c(0.6, 1))) + coord_cartesian(clip = "off") +
+  labs(title = sprintf("How stable is the LLM mapping? Two runs of the same model agree on %.0f%% of codes; two model families on %.0f%%", 100 * floor_, 100 * sm[factor == "Model family", mean]),
+       subtitle = "Agreement on the COFOG division between pairs of the 11 classification runs of 8,215 CPV codes, by the one factor that differs between the two runs. Bar: range of the pairs; dot: mean.",
+       caption = "Source: 11 runs (OpenAI and Gemini models, two prompts, English and French labels, shuffled batches, one exact repeat); authors' calculations.") + theme_ted() + hgrid
+save_deck(p05, "05_llm_sensitivity.png")
