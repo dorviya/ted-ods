@@ -36,7 +36,7 @@ p1 <- ggplot(s1, aes(share, name, fill = region)) + geom_col(width = 0.72) +
                         "awards with a named winner, 2016 – Sept. 2023; notice values split across awards, bounded, frameworks excluded."),
        caption = paste(ted_source, "Name and register matching (precision ≈ 82% where registration numbers can be checked); incomplete subsidiary lists — every share is a lower bound.")) +
   theme_ted(base_size = 14) + theme(panel.grid.major.y = element_blank(), panel.grid.major.x = element_line(colour = "grey88", linewidth = 0.3))
-save_fig(p1, "09_meip_shares.png")
+save_fig(p1, "09_meip_shares.png"); fwrite(s1, "outputs/quality/meip_shares_country.csv")
 
 # 2 — the 25 parents whose subsidiaries win the most
 tp <- m[, .(v = sum(value_eur, na.rm = TRUE), awards = sum(awards), hq = hq_iso3[1]), by = parent][order(-v)][1:25]
@@ -49,7 +49,7 @@ p2 <- ggplot(tp, aes(v / 1e9, parent, fill = region)) + geom_col(width = 0.72) +
        subtitle = "Awarded value (€ billion; notice totals split across awards, bounded, frameworks excluded) won by matched subsidiaries; label: headquarters and number of awards.",
        caption = paste(ted_source, "Lower bound: matched subsidiaries only; consortia and joint ventures blur attribution.")) +
   theme_ted(base_size = 13) + theme(panel.grid.major.y = element_blank(), panel.grid.major.x = element_line(colour = "grey88", linewidth = 0.3))
-save_fig(p2, "10_meip_parents.png")
+save_fig(p2, "10_meip_parents.png"); fwrite(tp, "outputs/quality/meip_parents.csv")
 
 # 3 — buyer country × parent headquarters
 hm <- merge(m[!is.na(hq_iso3), .(v = sum(value_eur, na.rm = TRUE)), by = .(iso3, hq_iso3)], tot[, .(iso3, country, value_eur)], by = "iso3")[, share := v / value_eur]
